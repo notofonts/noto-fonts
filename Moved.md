@@ -1,0 +1,1 @@
+2015-06-03: We are in the process of moving to github. The transition should be finished soon. We will post an update when that is completed. Until then please don't post new issues or update old ones as that information may be lost.
