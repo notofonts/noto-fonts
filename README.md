@@ -1,4 +1,4 @@
-= Noto fonts
+# Noto fonts
 
 Noto's goal is providing a beautiful reading experience for everyone and for all languages. With visual harmony when multiple languages share a page. With multiple styles and weights. *Freely available to all.*
 
@@ -14,7 +14,7 @@ Noto fonts are open source. Noto Sans CJK is published under the [http://scripts
 Use unhinted fonts for Android and Mac (Android and Mac ignore hinting information embedded in fonts). 
 Use hinted fonts for other platforms.
 
-= Git repositories
+# Git repositories
 
 All Noto fonts are included in this repository, except for:
 
@@ -25,7 +25,7 @@ Tools used for testing fonts are in [nototools](https://github.com/googlei18n/no
 
 Noto was moved from Google Code to github in June 2015.  A historical copy of the old monolithic repo is at [noto-monolithic](https://github.com/googlei18n/noto-monolithic)
 
-= News
+# News
 
 * 2015-06-03: We are in the process of moving to github. The transition should be finished soon. We will post an update when that is completed. Until then please don't post new issues or update old ones as that information may be lost.* 
 
