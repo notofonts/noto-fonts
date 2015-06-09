@@ -15,7 +15,7 @@ Noto fonts are open source. Noto Sans CJK is published under the [SIL Open Font 
 Use unhinted fonts for Android and Mac (Android and Mac ignore hinting information embedded in fonts). 
 Use hinted fonts for other platforms.
 
-# Git repositories
+# Development
 
 All Noto fonts are included in this repository, except for:
 
@@ -25,6 +25,8 @@ All Noto fonts are included in this repository, except for:
 Tools used for testing fonts are in [nototools](https://github.com/googlei18n/nototools).
 
 Noto was moved from Google Code to github in June 2015.  A historical copy of the old monolithic repo is at [noto-monolithic](https://github.com/googlei18n/noto-monolithic)
+
+Development and user discussions happen on [noto-font Google Group](https://groups.google.com/d/forum/noto-font).
 
 # News
 
