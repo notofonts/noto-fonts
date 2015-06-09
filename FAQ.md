@@ -1,5 +1,5 @@
 Q: How do I file a bug? 
-A: Visit our project bug list at - https://code.google.com/p/noto/issues/list Please be sure to give as much detail as possible. If it’s a technical issue then list the software and operating system being used as well as versions. If it’s a design issue then images and diagrams are very helpful.
+A: Visit our project bug list at - https://github.com/noto-fonts/issues Please be sure to give as much detail as possible. If it’s a technical issue then list the software and operating system being used as well as versions. If it’s a design issue then images and diagrams are very helpful.
 
 Q: When will language or script X be supported by Noto? 
 A: We do intend to support all scripts encoded by Unicode. That takes time and the ordering is based on a complex changing mix of factors including but not limited to: complexity of the script, product and project needs, availability of script experts and designers, and number and responsiveness of language reviewers.
