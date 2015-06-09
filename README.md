@@ -36,5 +36,5 @@ Noto was moved from Google Code to github in June 2015.  A historical copy of th
 
 * 2014-10-23: Experimental version of Noto Nastaliq Urdu released!
 
-Have fun!
+Have fun!<br/>
 Google Internationalization Team
