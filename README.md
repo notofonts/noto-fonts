@@ -1,7 +1,7 @@
 ![Noto](http://noto.googlecode.com/svn/wiki/images/noto.png)
 # Noto fonts
 
-Noto's goal is providing a beautiful reading experience for everyone and for all languages. With visual harmony when multiple languages share a page. With multiple styles and weights. *Freely available to all.*
+Noto's goal is providing a beautiful reading experience for everyone and for all languages. With visual harmony when multiple languages share a page. With multiple styles and weights, and *Freely available to all.*
 
 Currently, Noto covers all major languages of the world and many others, including European, African, Middle Eastern, Indic, South and Southeast Asian, Central Asian, American, and East Asian languages. Several minority and historical languages are also supported.
 
