@@ -28,7 +28,7 @@ Development and user discussions happen on the [noto-font Google Group](https://
 
 ## News
 
-* 2015-09-29: All Noto fonts now licensed under the SIL Open Font License.
+* [2015-09-29](NEWS): All Noto fonts now licensed under Open Font License 1.1.
 
 * 2015-06-08: Noto project moved from Google Code to github.
 
