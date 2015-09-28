@@ -1,7 +1,7 @@
-September 30, 2015
+September 29, 2015
 
-Change license for Noto fonts
-=============================
+All Noto fonts now licensed under Open Font License 1.1
+=======================================================
 
 With the new release we have moved from Apache 2.0 to Open Font License 1.1 (OFL 1.1).  We
 are making this change because it makes it easier for you, the end users of Noto, to use
