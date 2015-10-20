@@ -19,6 +19,9 @@ A: Noto fonts for each script are developed in a collaborative approach. We work
 Q: Is Noto just a copy of font X? 
 A: Noto Sans for Latin was designed by the same person, Steve Matteson, who has worked with us on other Latin script fonts before. Noto Sans for Latin and these earlier designs have some of the same design goals and with the same designer working on them they do share some resemblance.
 
+Q: What's the difference between the UI and non-UI versions? 
+A: These fonts were initially prepared for use in Android's UI. They have tighter vertical metrics, and some glyphs that would therefore be clipped are redrawn to fit within the constrained space. They can be used anywhere that has limited vertical space. There are no UI verions of scripts that do not need such adjustment, and the non-UI versions should be preferred for use in body text. 
+
 Q: What about Han unification? 
 A: Whether or not Han unification is a good thing is really a moot point at this time. It’s a fact of life that needs to be worked with when designing fonts or text processing systems for the CJK languages. We are building fonts to be used in systems that exist now and that means working within the frameworks that exist.
 
