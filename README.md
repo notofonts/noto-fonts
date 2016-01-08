@@ -22,7 +22,7 @@ All Noto fonts are included in this repository, except:
 
 Tools used for testing fonts are in [nototools](https://github.com/googlei18n/nototools).
 
-Noto was moved from Google Code to github in June 2015.  A historical copy of the old monolithic repo is at [noto-monolithic](https://github.com/googlei18n/noto-monolithic).
+Noto was moved from Google Code to github in June 2015.
 
 Development and user discussions happen on the [noto-font Google Group](https://groups.google.com/d/forum/noto-font).
 
