@@ -38,6 +38,11 @@ Development and user discussions happen on the [noto-font Google Group](https://
 
 * 2014-10-23: Experimental version of Noto Nastaliq Urdu released.
 
+## Special Note on Droid and Noto
+Droid fonts have been superseded by Noto. We renamed Droid fonts to Noto and only update the Noto family since renaming. Now, Noto not only gives better support to all languages covered by Droid (in terms of more characters and fewer bugs), but also covers many more languages. Both Android and Chrome OS have switched to Noto. We strongly recommend everyone to replace Droid with Noto and check out new languages supported by Noto in this repo.
+
+Find Noto Sans CJK that replaces Droid Sans Fallback at https://github.com/googlei18n/noto-cjk.
+
 <br/>
 Have fun!<br/>
 Google Internationalization Team
