@@ -11,7 +11,7 @@ For background, technical details and how to contribute, see the [FAQ](FAQ.md).
 ## News
 
 * [2015-09-29](NEWS): All Noto fonts now licensed under SIL Open Font License v1.1.
-* 
+
 * 2015-06-08: The Noto project moved from Google Code to Github.
 
 * 2015-04-20: Noto Sans CJK Version 1.002 released.
