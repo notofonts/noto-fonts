@@ -4,7 +4,7 @@
 
 Noto’s goal is to provide a beautiful reading experience for all languages. In visual harmony when multiple languages share a page. With multiple styles and weights.
 
-Noto covers all major languages of the world, plus many minority and historical languages; ssee http://www.google.com/get/noto. All fonts are published under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL).
+Noto covers all major languages of the world, plus many minority and historical languages; see http://www.google.com/get/noto. All fonts are published under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL).
 
 For background, technical details and how to contribute, see the [FAQ](FAQ.md).
 
