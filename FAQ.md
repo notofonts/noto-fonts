@@ -1,13 +1,50 @@
 # Frequently Asked Questions
 
+### What does Noto mean?
+
+When text is rendered by a computer, sometimes characters display as little boxes because your device doesn't have a font that has images for them— these boxes are known as “tofu.”  The name Noto is to convey Google’s goal that users see “__no__ more <b>to</b>fu.”
+
+
 ### How do I file a bug?
 
 Visit our project’s [bug list](https://github.com/googlei18n/noto-fonts/issues). Please be sure to give as much detail as possible. If it’s a technical issue then list the software and operating system being used as well as versions. If it’s a design issue then images and diagrams are very helpful.
 
 
+### How do I contribute?
+
+Clone the repositories, try out the fonts, and report bugs. If you wish to contribute tools, please fill out the contributor's agreement which you'll find in the tools repositories.  See below for the various repositories.
+
+
+### Where are the fonts?
+
+The fonts are in multiple repositories.
+
+* Most of the Noto fonts are in [this GitHub repository](https://github.com/googlei18n/noto-fonts).
+* Noto CJK fonts are in [noto-cjk](https://github.com/googlei18n/noto-cjk).
+* Noto Emoji and Noto Color Emoji are in [noto-emoji](https://github.com/googlei18n/noto-emoji).
+
+The comprehensive set of Noto fonts and tools are available in [these GitHub repositories](https://github.com/googlei18n?query=noto).
+
+
 ### Is there a discussion group?
 
 Development and user discussions happen on the [noto-font Google Group](https://groups.google.com/d/forum/noto-font).
+
+
+### What writing systems does Noto support?
+
+As of March 1016, Noto fonts support all scripts/writing systems defined in Unicode 6.1.
+* For all major living scripts, Noto provides two weights (regular and bold) and both UI and non-UI fonts. UI fonts are for text display in UI elements (e.g. buttons, menus) that have a height limit.
+* For many major living scripts, Noto provides multiple typeface styles. For example, there are sans-serif and serif styles for Latin, Greek, Cyrillic, Indic (Devanagari, Tamil, Telugu etc), Armenian, Georgian, Thai, Khmer, and Lao; Naskh and Kufi styles for Arabic; and Eastern, Western, Estrangela styles for Syriac.
+* For all living scripts, Noto includes hinted and unhinted fonts: hinted fonts for Windows and Linux, and unhinted fonts for Android and Mac.
+* For historical scripts, Noto has unhinted fonts with one weight (regular)
+
+
+### What are Google's plans for Noto?
+
+Since late 2015 we have been extending Noto from two weights (Regular and Bold) to a range of weights from thin to heavy. We also hope to add a condensed width for many living scripts. We intend to add additional scripts and support more recent versions of Unicode.
+
+In addition, we plan to release the glyph and other source data for all Noto fonts, and provide a pipeline to build binary fonts from these sources. With the font sources and pipeline, everyone can build their own fonts and use Noto as the base font for free.
 
 
 ### When will language or script X be supported by Noto?
@@ -35,11 +72,6 @@ Google provides the direction, planning, and final aesthetic decisions. We emplo
 Noto fonts for each script are developed in a collaborative approach. We work together with font foundries, design houses, and talented designers to develop requirements for each script and for the languages that use that script. Those requirements then lead to design proposals. We then work with reviewers who are native readers of the languages (for living languages) for which the fonts are being designed (often they are experts in the language or it’s typography) to refine the design proposals. Sometimes this requires working through conflicting design reviews and the careful tweezing out of personal preference. Once the design proposal has been fully vetted, a cycle of font development along with review at each step goes on. How long this takes will vary for each script based on a range of factors including the complexity, number and responsiveness of reviewers, number of glyphs required, and conflicting resource allocation. At the end of all this a technical review of the font is made to hopefully catch any issues. This isn’t foolproof and just like every shipping software system on the planet there will be issues. If you find one then file a bug and we’ll look after it.
 
 
-### Where are the fonts?
-
-All the Noto fonts are included in this GitHub repository. Exceptions: Noto CJK fonts are in [noto-cjk](https://github.com/googlei18n/noto-cjk); Noto Emoji and Noto Color Emoji are in [noto-emoji](https://github.com/googlei18n/noto-emoji); tools for testing are in [nototools](https://github.com/googlei18n/nototools). Some other source files are available in [noto-source](https://github.com/googlei18n/noto-source).
-
-
 ### Is Noto just a copy of font X?
 
 Noto Sans for Latin was designed by the same person, Steve Matteson, who has worked with us on other Latin script fonts before. Noto Sans for Latin and these earlier designs have some of the same design goals and with the same designer working on them they do share some resemblance.
@@ -47,12 +79,13 @@ Noto Sans for Latin was designed by the same person, Steve Matteson, who has wor
 
 ### What’s the difference between the UI and non-UI versions?
 
-These fonts were initially prepared for use in Android’s UI. They have tighter vertical metrics, and some glyphs that would therefore be clipped are redrawn to fit within the constrained space. They can be used anywhere that has limited vertical space. There are no UI verions of scripts that do not need such adjustment, and the non-UI versions should be preferred for use in body text. 
+The UI fonts were initially prepared for use in Android’s UI. They have tighter vertical metrics, and some glyphs that would be clipped are redrawn to fit within the constrained space. They can be used anywhere that has limited vertical space. There are no UI verions of scripts that do not need such adjustment, and the non-UI versions should be preferred for use in body text. 
 
 
 ### What about Han unification?
 
 Whether or not Han unification is a good thing is really a moot point at this time. It’s a fact of life that needs to be worked with when designing fonts or text processing systems for the CJK languages. We are building fonts to be used in systems that exist now and that means working within the frameworks that exist. If somebody would like to change those frameworks then they should get involved with the standards bodies and contribute to the development of the standard and change the direction they are going.
+
 
 ### When will Google support Klingon / Elvish / etc.?
 
