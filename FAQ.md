@@ -2,7 +2,7 @@
 
 ### What does Noto mean?
 
-When text is rendered by a computer, sometimes characters display as little boxes because your device doesn't have a font that has images for them— these boxes are known as “tofu.”  The name Noto is to convey Google’s goal that users see “__no__ more <b>to</b>fu.”
+When text is rendered by a computer, sometimes characters display as little boxes because your device doesn't have a font that has images for them— these boxes are known as “tofu.”  The name Noto is to convey Google’s goal that users see “**no** more **to**fu.”
 
 
 ### How do I file a bug?
