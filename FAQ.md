@@ -33,7 +33,7 @@ Development and user discussions happen on the [noto-font Google Group](https://
 
 ### What writing systems does Noto support?
 
-As of March 1016, Noto fonts support all scripts/writing systems defined in Unicode 6.1.
+As of March 2016, Noto fonts support all scripts/writing systems defined in Unicode 6.1.
 * For all major living scripts, Noto provides two weights (regular and bold) and both UI and non-UI fonts. UI fonts are for text display in UI elements (e.g. buttons, menus) that have a height limit.
 * For many major living scripts, Noto provides multiple typeface styles. For example, there are sans-serif and serif styles for Latin, Greek, Cyrillic, Indic (Devanagari, Tamil, Telugu etc), Armenian, Georgian, Thai, Khmer, and Lao; Naskh and Kufi styles for Arabic; and Eastern, Western, Estrangela styles for Syriac.
 * For all living scripts, Noto includes hinted and unhinted fonts: hinted fonts for Windows and Linux, and unhinted fonts for Android and Mac.
