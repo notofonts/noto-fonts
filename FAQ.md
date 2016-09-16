@@ -33,19 +33,17 @@ Development and user discussions happen on the [noto-font Google Group](https://
 
 ### What writing systems does Noto support?
 
-As of March 2016, Noto fonts support all scripts/writing systems defined in Unicode 6.1.
+As of September 2016, Noto fonts support all scripts/writing systems defined in Unicode 6.1.
 * For all major living scripts, Noto provides two weights (regular and bold) and both UI and non-UI fonts. UI fonts are for text display in UI elements (e.g. buttons, menus) that have a height limit.
 * For many major living scripts, Noto provides multiple typeface styles. For example, there are sans-serif and serif styles for Latin, Greek, Cyrillic, Indic (Devanagari, Tamil, Telugu etc), Armenian, Georgian, Thai, Khmer, and Lao; Naskh and Kufi styles for Arabic; and Eastern, Western, Estrangela styles for Syriac.
 * For all living scripts, Noto includes hinted and unhinted fonts: hinted fonts for Windows and Linux, and unhinted fonts for Android and Mac.
 * For historical scripts, Noto has unhinted fonts with one weight (regular)
 
 
-### What are Google's plans for Noto?
-
-Since late 2015 we have been extending Noto from two weights (Regular and Bold) to a range of weights from thin to heavy. We also hope to add a condensed width for many living scripts. We intend to add additional scripts and support more recent versions of Unicode.
-
-In addition, we plan to release the glyph and other source data for all Noto fonts, and provide a pipeline to build binary fonts from these sources. With the font sources and pipeline, everyone can build their own fonts and use Noto as the base font for free.
-
+### What are Google's plans for Noto (so called "Phase 3")?
+* We plan to extend character/script coverage to cover 100% of Unicode 9.0. For CJK, we plan to cover Plane 0 (BMP) CJK characters in Unicode 9.0
+* We plan to extend Noto from two weights (regular and bold) and one width to a number of weights (thin to heavy) and a number of widths (condensed to normal). 
+* we plan to open source glyph and other source data for all Noto fonts, and provide a pipeline to build binary fonts from these sources. With the font sources and pipeline, everyone can build their own fonts and use Noto as the base font for free.
 
 ### When will language or script X be supported by Noto?
 
