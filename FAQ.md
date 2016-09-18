@@ -43,7 +43,7 @@ As of September 2016, Noto fonts support all scripts/writing systems defined in 
 ### What are Google's plans for Noto (so called "Phase 3")?
 * We plan to extend character/script coverage to cover 100% of Unicode 9.0 except for CJK. For CJK, we plan to cover Plane 0 (BMP) CJK characters in Unicode 9.0
 * We plan to extend Noto from two weights (regular and bold) and one width to a number of weights (thin to heavy) and a number of widths (condensed to normal). 
-* we plan to open source glyph and other source data for all Noto fonts, and provide a pipeline to build binary fonts from these sources. With the font sources and pipeline, everyone can build their own fonts and use Noto as the base font for free.
+* we plan to open source glyph and other source data for all Noto fonts (except CJK fonts whose source is owned by Adobe), and provide a pipeline to build binary fonts from these sources. With the font sources and pipeline, everyone can build their own fonts and use Noto as the base font for free.
 
 ### When will language or script X be supported by Noto?
 
