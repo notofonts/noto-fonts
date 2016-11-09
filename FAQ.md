@@ -98,3 +98,12 @@ Google’s Droid fonts have been superseded by Noto. Noto began as Droid, and al
 ### Could you provide a single font file that covers every language (or at least as many scripts as possible)?	
 
 A single file is not possible, because there are many more glyphs in Noto than can fit into a single font. CJK alone is as large as it can get. In addition, different scripts prefer different line metrics. Noto tries to provide suitable line metrics for each script rather than forcing all scripts to fit one. The UI fonts are an exception to this, however, so using them we could generate a single font sharing a single line height. However, we are working on a possible repackaging of the fonts into a few files. We can probably get one for CJK, one for common scripts in living languages, and one for obscure scripts-- depends if Tangut pushes us over the limit of what non-CJK we can fit into a single font. There are tools that can be used to merge fonts but the devil is in the details-- some common characters are in a few source fonts and if they behave differently we'd have to work that out.
+
+
+### Are there any Noto YouTube videos I could share with others?
+
+Some of the videos on Noto which one can find on YouTube are
+* Creating Noto for Google(https://www.youtube.com/watch?v=16_NYHUZ1kM)
+* Google’s International Fonts Noto — One Font to Rule Them All(https://www.youtube.com/watch?v=AAzvk9HSi84)
+
+
