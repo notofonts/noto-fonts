@@ -93,3 +93,8 @@ Once Klingon / Elvish / etc. is included in Unicode :). Please [contact the Unic
 ### How does Noto relate to Droid?
 
 Google’s Droid fonts have been superseded by Noto. Noto began as Droid, and all updates are now made to the Noto fonts. Today, Noto gives better support to all languages covered by Droid, with more characters and fewer bugs, and it covers many more languages.  Both Android and ChromeOS have switched to Noto, and we strongly recommend everyone to replace Droid with Noto. Similarly, the Droid Sans Fallback font is superseded by Noto Sans CJK, available from [noto-cjk](https://github.com/googlei18n/noto-cjk).
+
+
+### Could you provide a single font file that covers every language (or at least as many scripts as possible)?	
+
+A single file is not possible, because there are many more glyphs in Noto than can fit into a single font. CJK alone is as large as it can get. In addition, different scripts prefer different line metrics. Noto tries to provide suitable line metrics for each script rather than forcing all scripts to fit one. The UI fonts are an exception to this, however, so using them we could generate a single font sharing a single line height. However, we are working on a possible repackaging of the fonts into a few files. We can probably get one for CJK, one for common scripts in living languages, and one for obscure scripts-- depends if Tangut pushes us over the limit of what non-CJK we can fit into a single font . There are tools that can be used to merge fonts but the devil is in the details-- some common characters are in a few source fonts and if they behave differently we'd have to work that out.
