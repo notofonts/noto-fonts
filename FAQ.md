@@ -103,7 +103,7 @@ A single file is not possible, because there are many more glyphs in Noto than c
 ### Are there any Noto YouTube videos I could share with others?
 
 Some of the videos on Noto which one can find on YouTube are
-* Creating Noto for Google(https://www.youtube.com/watch?v=16_NYHUZ1kM)
-* Google’s International Fonts Noto — One Font to Rule Them All(https://www.youtube.com/watch?v=AAzvk9HSi84)
+* [Creating Noto for Google](https://www.youtube.com/watch?v=16_NYHUZ1kM)
+* [Google’s International Fonts Noto — One Font to Rule Them All](https://www.youtube.com/watch?v=AAzvk9HSi84)
 
 
