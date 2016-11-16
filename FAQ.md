@@ -109,5 +109,5 @@ Some of the videos on Noto which one can find on YouTube are
 
 ### The hinted version of the font is missing
 
-If your favorite font is in the unhinted directory, but is missing from the hinted directory, first please check [noto-hinted](https://github.com/lemzwerg/noto-hinted). It might be already there. If it is not there, then you can help to make it by running the hinting process using [ttfautohint](https://www.freetype.org/ttfautohint/). The process is described in the [noto-hinted README](https://github.com/lemzwerg/noto-hinted/blob/master/README.md).
+If your favorite font is in the Noto's unhinted directory, but is missing from the [hinted directory](https://github.com/googlei18n/noto-fonts/tree/master/hinted), first please check [noto-hinted](https://github.com/lemzwerg/noto-hinted). It might be already there. If it is not there, then you can help to make it by running the hinting process using [ttfautohint](https://www.freetype.org/ttfautohint/). The process is described in the [noto-hinted README](https://github.com/lemzwerg/noto-hinted/blob/master/README.md).
 
