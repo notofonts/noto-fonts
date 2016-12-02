@@ -36,14 +36,20 @@ Development and user discussions happen on the [noto-font Google Group](https://
 As of September 2016, Noto fonts support all scripts/writing systems defined in Unicode 6.1.
 * For all major living scripts, Noto provides two weights (regular and bold) and both UI and non-UI fonts. UI fonts are for text display in UI elements (e.g. buttons, menus) that have a height limit.
 * For many major living scripts, Noto provides multiple typeface styles. For example, there are sans-serif and serif styles for Latin, Greek, Cyrillic, Indic (Devanagari, Tamil, Telugu etc), Armenian, Georgian, Thai, Khmer, and Lao; Naskh and Kufi styles for Arabic; and Eastern, Western, Estrangela styles for Syriac.
-* For all living scripts, Noto includes hinted and unhinted fonts: hinted fonts for Windows and Linux, and unhinted fonts for Android and Mac.
-* For historical scripts, Noto has unhinted fonts with one weight (regular)
+* For many major living scripts, Noto includes both hinted and unhinted fonts: hinted fonts for Windows and Linux, and unhinted fonts for Android and Mac. (Note however that NotoSansSymbols is unhinted).
+* For historical scripts, Noto has unhinted fonts with one weight (regular).
+
+
+### The hinted version of the font is missing
+
+If your favorite font is in the Noto's unhinted directory, but is missing from the [hinted directory](https://github.com/googlei18n/noto-fonts/tree/master/hinted), first please check [noto-hinted](https://github.com/lemzwerg/noto-hinted). It might be already there. If it is not there, then you can help to make it by running the hinting process using [ttfautohint](https://www.freetype.org/ttfautohint/). The process is described in the [noto-hinted README](https://github.com/lemzwerg/noto-hinted/blob/master/README.md).  Note however that this tool does not work on all scripts, and in particular, not on many of the living scripts we do not provide hinted veresions for.  Please see [extending ttfautohint with new wscripts](https://www.freetype.org/ttfautohint/doc/ttfautohint.html#extending-ttfautohint-with-new-scripts) on the freetype website if you are so inclined.
 
 
 ### What are Google's plans for Noto (so called "Phase 3")?
 * We plan to extend character/script coverage to cover 100% of Unicode 9.0 except for CJK. For CJK, we plan to cover Plane 0 (BMP) CJK characters in Unicode 9.0
 * We plan to extend Noto from two weights (regular and bold) and one width to a number of weights (thin to heavy) and a number of widths (condensed to normal). 
 * we plan to open source glyph and other source data for all Noto fonts (except CJK fonts whose source is owned by Adobe), and provide a pipeline to build binary fonts from these sources. With the font sources and pipeline, everyone can build their own fonts and use Noto as the base font for free.
+
 
 ### When will language or script X be supported by Noto?
 
@@ -105,9 +111,3 @@ A single file is not possible, because there are many more glyphs in Noto than c
 Some of the videos on Noto which one can find on YouTube are
 * [Creating Noto for Google](https://www.youtube.com/watch?v=16_NYHUZ1kM)
 * [Google’s International Fonts Noto — One Font to Rule Them All](https://www.youtube.com/watch?v=AAzvk9HSi84)
-
-
-### The hinted version of the font is missing
-
-If your favorite font is in the Noto's unhinted directory, but is missing from the [hinted directory](https://github.com/googlei18n/noto-fonts/tree/master/hinted), first please check [noto-hinted](https://github.com/lemzwerg/noto-hinted). It might be already there. If it is not there, then you can help to make it by running the hinting process using [ttfautohint](https://www.freetype.org/ttfautohint/). The process is described in the [noto-hinted README](https://github.com/lemzwerg/noto-hinted/blob/master/README.md).
-
