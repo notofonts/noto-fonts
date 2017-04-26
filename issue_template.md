@@ -1,39 +1,63 @@
-## Use this template for filing a defect report. For feature requests and other matters, you can use part of the template and delete what you don't need.
-## Title (should be brief but contain essential information -- delete this line once Title is added)
+## Defect Report
+Use this template for filing a defect report. For feature requests and other matters, you can use part of the template and delete what you don't need.
 
-## Font name (full name, e.g. NotoSansArmenian-regular.ttf). You can upload the problem font here unless it is a Chinese, Japanese or Korean font.
+### Title 
+  > Should be brief but contain essential information.
 
-## Where you downloaded the font file and when, e.g.
+### Font 
+  > Full file name, for example 'NotoSansArmenian-Regular.ttf'.
+  > You can upload the problem font here unless it is a Chinese, Japanese or Korean font (these are large).
 
-Site: https://noto-website-2.storage.googleapis.com/pkgs/NotoSansArmenian-hinted.zip
-Date: 2017-04-10 (preferred format)
-Note: Write the OS version and build ID if the font is pre-installed on an OS (usually available in the Settings apps)
+### Where the font came from, and when
+  > For example:
+  >   Site: https://noto-website-2.storage.googleapis.com/pkgs/NotoSansArmenian-hinted.zip
+  >   Date: 2017-04-10 (preferred format)
 
-## Version info (or OS version and build if the font is pre-installed in a build)
+### Font Version
+  > * Mac - right mouse click on a font and try Preview to see version info.
+  > * Win -- right mouse click on a font (Local Disc > Windows > Fonts) and see version info on Properties.
+  > * Linux -- use (Gnome) Font Viewer: open a font and click on Info tab.
 
-Mac - right mouse click on a font and try Preview to see version info
-Win -- right mouse click on a font (Local Disc > Windows > Fonts) and see version info on Properties
-Linux -- use (Gnome) Font Viewer: open a font and click on Info tab
+### OS name and version
+  > This is especially important if the font came pre-installed.
 
-## Your OS name and version
+### Application name and version
+  > If the issue is observed using a specific app.
 
-## Application name (and version if know)  if an issue is observed on a specific app
+### Issue
+  > Summarize the issue briefly -- one paragraph preferred
 
-## Issue summary (if you are filing a defect report)
+  1. Steps to reproduce
+  2. Observed results
+  3. Expected results
+  4. Additional information 
+  > Unicode chart, technical specs, shaping info, comparison with non-Noto fonts, comparison with earlier version of the same font (regression cases)
 
-(Summarize the issue briefly -- one paragraph preferred.)
+### Character data
+  > Please include real character data to illustrate your issue-- Unicode codepoints are helpful.  This makes it possible for developers who don't know the language or script to copy/paste the text to reproduce the issue.
 
-  # include reproduction steps: Step 1. …, Step 2. …, etc.
-  # Observed results
-  # Expected results
-  # Other relevant information (Unicode chart, technical specs, shaping info, comparison with non-Noto fonts, comparison with earlier version of the same font (regression cases)
+### Screenshot
+  > If possible, include a screenshot or an image illustrating the issue.
+  > Annotations are also helpful.
 
-## Include real characters data to illustrate your issue -- Unicode codepoints are helpful
-Developers who might not know the language/script can copy/paste the text to reproduce the issue.
 
-## Include a screenshot or an image illustrating the issue -- added annotations are very helpful
+## Tools for reporting bugs
+  Useful tools for reporting bugs are available at: https://github.com/googlei18n/
+  
+### Harfbuzz hb-view and hb-shape
+  These are part of the HarfBuzz distribution and can help isolate if an issue is in the app/OS, shaping engine, or font.
+  * hb-view renders the text with the exact font (for example, to see how ligatured characters shape) using your installed version of HarfBuzz.
 
-  # You can use use tools like Harbuzz (shaping characters) to help isolate if an issue is in an app/OS, shaping engine or in the font.  
-  # You can use Fontview to attach an screenshot how a sample text displays. If you want to show how 2 versions of the same fonts differ in display of the same text, you can use Fontdiff.
+For example:
+```
+  hb-view --font-file {path to font} --text-file {path to text file} --output-file '{sample}.png'
+```
 
-Note: These tools are all available at: https://github.com/googlei18n/
+
+* hb-shape shows glyph selection and positioning
+
+### Fontview
+  * Fontview displays the text.
+
+### Fontdiff
+  * Fontdiff displays the text using two versions of the font side by side.
