@@ -93,7 +93,7 @@ Whether or not Han unification is a good thing is really a moot point at this ti
 
 ### When will Google support Klingon / Elvish / etc.?
 
-Once Klingon / Elvish / etc. is included in Unicode :). Please [contact the Unicode consortium](http://www.unicode.org/contacts.html) to encourage them to support your favourite invented language.
+Once Klingon / Elvish / etc. is included in Unicode :). Please [contact the Unicode consortium](http://www.unicode.org/contacts.html) to encourage them to support your favourite invented script.
 
 
 ### How does Noto relate to Droid?
