@@ -1,3 +1,32 @@
+November 06, 2018
+
+New and updated fonts
+=====================
+
+We're releasing new fonts to support Music and the following scripts: Ahom,
+Bassa Vah, Bhaiksuki, Caucasian Albanian, Duployan, Grantha, Gurmukhi,
+Hatran, Khudawadi, Linear A, Mahajani, Manichaean, Marchen, Mende Kikakui,
+Miao, Modi, Mro, Multani, Nabataean, Newa, Old Hungarian, Old North Arabian,
+Old Permic, Pahawh Hmong, Palmyrene, Pau Cin Hau, Psalter Pahlavi, Sharada,
+Sora Sompeng, Takri, Tamil Slanted, Tibetan, Tirhuta, and Warang Citi.
+
+We're releasing updated versions of about 108 Noto families for about 90 scripts,
+built from sources using our open source pipeline.  Many of these have
+additional weights, and some have multiple widths as well: Sans Kannada,
+Sans Malayalam and Serif Sinhala now have 36 styles, Serif Kannada now has 9 styles.
+A single font family Noto Sans Syriac replaced all three existing Syriac fonts.
+
+Some number of families have not yet been updated, we will get to those as the
+phase 3 work continues.  Others are obsoleted by newer designs.  We will
+eventually move the fonts that will not get new updates to a new location to
+more clearly distinguish them.
+
+The new fonts, although .ttf, are built on a 1000 upem grid.  This means they
+cannot be merged with the older fonts built with the standard ttf 2048 upem.
+This is a problem for those who wish to build a single font file from multiple
+Noto fonts.  Eventually this will improve, for now our apologies.  We are also
+looking at other packaging to make using the fonts easier.
+
 September 19, 2017
 
 Phase 3 font update
