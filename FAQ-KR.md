@@ -7,7 +7,7 @@
 
 ### 버그는 어떻게 신고하나요?
 
-프로젝트의 [버그 목록](https://github.com/googlei18n/noto-cjk/issues) 페이지에서 신고해 주세요. 가능한 한 자세히 설명해 주셔야 합니다. 기술적 문제인 경우 사용 중인 소프트웨어 및 운영체제와 버전을 기재해 주세요. 디자인 문제인 경우 이미지와 도표를 첨부하면 큰 도움이 됩니다.
+프로젝트의 [버그 목록](https://github.com/googlefonts/noto-cjk/issues) 페이지에서 신고해 주세요. 가능한 한 자세히 설명해 주셔야 합니다. 기술적 문제인 경우 사용 중인 소프트웨어 및 운영체제와 버전을 기재해 주세요. 디자인 문제인 경우 이미지와 도표를 첨부하면 큰 도움이 됩니다.
 
 
 ### 참여하려면 어떻게 해야 하나요?
@@ -19,11 +19,11 @@
 
 글꼴은 여러 저장소에서 찾을 수 있습니다.
 
-* 대부분의 Noto 글꼴은 [GitHub 저장소](https://github.com/googlei18n/noto-fonts)에 있습니다.
-* Noto CJK 글꼴은 [noto-cjk](https://github.com/googlei18n/noto-cjk)에 있습니다.
-* Noto 그림 이모티콘과 Noto 컬러 그림 이모티콘은 [noto-emoji](https://github.com/googlei18n/noto-emoji)에 있습니다.
+* 대부분의 Noto 글꼴은 [GitHub 저장소](https://github.com/googlefonts/noto-fonts)에 있습니다.
+* Noto CJK 글꼴은 [noto-cjk](https://github.com/googlefonts/noto-cjk)에 있습니다.
+* Noto 그림 이모티콘과 Noto 컬러 그림 이모티콘은 [noto-emoji](https://github.com/googlefonts/noto-emoji)에 있습니다.
 
-전체 Noto 글꼴 및 도구는 [GitHub 저장소](https://github.com/googlei18n?query=noto)에서 찾아볼 수 있습니다.
+전체 Noto 글꼴 및 도구는 [GitHub 저장소](https://github.com/googlefonts?query=noto)에서 찾아볼 수 있습니다.
 
 
 ### 토론방이 있나요?
@@ -42,7 +42,7 @@
 
 ### 힌팅된 글꼴 버전이 없습니다
 
-좋아하는 Noto 글꼴이 힌팅되지 않은 글꼴 디렉토리에는 있지만 [힌팅된 글꼴 디렉토리](https://github.com/googlei18n/noto-fonts/tree/master/hinted)에는 없는 경우, 먼저 [noto-hinted](https://github.com/lemzwerg/noto-hinted)를 확인해 보세요. 이미 여기에 있을 수도 있습니다. 여기에도 없다면 [ttfautohint](https://www.freetype.org/ttfautohint/)로 힌팅 프로세스를 실행하여 만들 수 있습니다. 프로세스는 [noto-hinted README](https://github.com/lemzwerg/noto-hinted/blob/master/README.md)에 설명되어 있습니다.  하지만 이 도구를 모든 문자에 사용할 수 있는 것은 아니며, 특히 현재 사용되고 있지만 Google에서 힌팅된 버전을 제공하지 않는 대부분의 문자에는 사용할 수 없습니다.  원하신다면 freetype 웹사이트의 [새로운 wscripts를 사용하여 ttfautohint 확장](https://www.freetype.org/ttfautohint/doc/ttfautohint.html#extending-ttfautohint-with-new-scripts)을 참조하세요.
+좋아하는 Noto 글꼴이 힌팅되지 않은 글꼴 디렉토리에는 있지만 [힌팅된 글꼴 디렉토리](https://github.com/googlefonts/noto-fonts/tree/master/hinted)에는 없는 경우, 먼저 [noto-hinted](https://github.com/lemzwerg/noto-hinted)를 확인해 보세요. 이미 여기에 있을 수도 있습니다. 여기에도 없다면 [ttfautohint](https://www.freetype.org/ttfautohint/)로 힌팅 프로세스를 실행하여 만들 수 있습니다. 프로세스는 [noto-hinted README](https://github.com/lemzwerg/noto-hinted/blob/master/README.md)에 설명되어 있습니다.  하지만 이 도구를 모든 문자에 사용할 수 있는 것은 아니며, 특히 현재 사용되고 있지만 Google에서 힌팅된 버전을 제공하지 않는 대부분의 문자에는 사용할 수 없습니다.  원하신다면 freetype 웹사이트의 [새로운 wscripts를 사용하여 ttfautohint 확장](https://www.freetype.org/ttfautohint/doc/ttfautohint.html#extending-ttfautohint-with-new-scripts)을 참조하세요.
 
 
 ### Noto에 관련된 Google의 계획은 무엇인가요(소위 '3단계')?
@@ -98,7 +98,7 @@ UI 글꼴은 원래 Android UI용으로 만들어졌습니다. UI 글꼴은 세�
 
 ### Noto와 Droid는 어떤 관계인가요?
 
-Google의 Droid 글꼴은 Noto로 대체되었습니다. Noto는 Droid로 시작했으며 현재 Noto 글꼴만 업데이트되고 있습니다. 이제 Noto는 Droid에서 지원하는 모든 언어를 더욱 효과적으로 지원하며, 버그는 더 적으면서 더 많은 문자와 언어를 지원합니다.  Android와 ChromeOS 모두 Noto로 전환되었으며, Google에서는 Droid를 Noto로 대체하는 것을 권장합니다. 마찬가지로 Droid Sans Fallback 글꼴은 Noto Sans CJK로 대체되었으며, [noto-cjk](https://github.com/googlei18n/noto-cjk)에서 찾아볼 수 있습니다.
+Google의 Droid 글꼴은 Noto로 대체되었습니다. Noto는 Droid로 시작했으며 현재 Noto 글꼴만 업데이트되고 있습니다. 이제 Noto는 Droid에서 지원하는 모든 언어를 더욱 효과적으로 지원하며, 버그는 더 적으면서 더 많은 문자와 언어를 지원합니다.  Android와 ChromeOS 모두 Noto로 전환되었으며, Google에서는 Droid를 Noto로 대체하는 것을 권장합니다. 마찬가지로 Droid Sans Fallback 글꼴은 Noto Sans CJK로 대체되었으며, [noto-cjk](https://github.com/googlefonts/noto-cjk)에서 찾아볼 수 있습니다.
 
 
 ### 모든 언어(또는 적어도 최대한 많은 문자)를 지원하는 하나의 글꼴 파일을 제공해줄 수 있나요?

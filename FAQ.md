@@ -7,7 +7,7 @@ When text is rendered by a computer, sometimes characters display as little boxe
 
 ### How do I file a bug?
 
-Visit our project’s [bug list](https://github.com/googlei18n/noto-fonts/issues). Please be sure to give as much detail as possible. If it’s a technical issue then list the software and operating system being used as well as versions. If it’s a design issue then images and diagrams are very helpful.
+Visit our project’s [bug list](https://github.com/googlefonts/noto-fonts/issues). Please be sure to give as much detail as possible. If it’s a technical issue then list the software and operating system being used as well as versions. If it’s a design issue then images and diagrams are very helpful.
 
 
 ### How do I contribute?
@@ -19,11 +19,11 @@ Clone the repositories, try out the fonts, and report bugs. If you wish to contr
 
 The fonts are in multiple repositories.
 
-* Most of the Noto fonts are in [this GitHub repository](https://github.com/googlei18n/noto-fonts).
-* Noto CJK fonts are in [noto-cjk](https://github.com/googlei18n/noto-cjk).
-* Noto Emoji and Noto Color Emoji are in [noto-emoji](https://github.com/googlei18n/noto-emoji).
+* Most of the Noto fonts are in [this GitHub repository](https://github.com/googlefonts/noto-fonts).
+* Noto CJK fonts are in [noto-cjk](https://github.com/googlefonts/noto-cjk).
+* Noto Emoji and Noto Color Emoji are in [noto-emoji](https://github.com/googlefonts/noto-emoji).
 
-The comprehensive set of Noto fonts and tools are available in [these GitHub repositories](https://github.com/googlei18n?query=noto).
+The comprehensive set of Noto fonts and tools are available in [these GitHub repositories](https://github.com/googlefonts?query=noto).
 
 
 ### Is there a discussion group?
@@ -42,12 +42,12 @@ As of September 2016, Noto fonts support all scripts/writing systems defined in 
 
 ### The hinted version of the font is missing
 
-If your favorite font is in the Noto's unhinted directory, but is missing from the [hinted directory](https://github.com/googlei18n/noto-fonts/tree/master/hinted), first please check [noto-hinted](https://github.com/lemzwerg/noto-hinted). It might be already there. If it is not there, then you can help to make it by running the hinting process using [ttfautohint](https://www.freetype.org/ttfautohint/). The process is described in the [noto-hinted README](https://github.com/lemzwerg/noto-hinted/blob/master/README.md).  Note however that this tool does not work on all scripts, and in particular, not on many of the living scripts we do not provide hinted veresions for.  Please see [extending ttfautohint with new wscripts](https://www.freetype.org/ttfautohint/doc/ttfautohint.html#extending-ttfautohint-with-new-scripts) on the freetype website if you are so inclined.
+If your favorite font is in the Noto's unhinted directory, but is missing from the [hinted directory](https://github.com/googlefonts/noto-fonts/tree/master/hinted), first please check [noto-hinted](https://github.com/lemzwerg/noto-hinted). It might be already there. If it is not there, then you can help to make it by running the hinting process using [ttfautohint](https://www.freetype.org/ttfautohint/). The process is described in the [noto-hinted README](https://github.com/lemzwerg/noto-hinted/blob/master/README.md).  Note however that this tool does not work on all scripts, and in particular, not on many of the living scripts we do not provide hinted veresions for.  Please see [extending ttfautohint with new wscripts](https://www.freetype.org/ttfautohint/doc/ttfautohint.html#extending-ttfautohint-with-new-scripts) on the freetype website if you are so inclined.
 
 
 ### What are Google's plans for Noto (so called "Phase 3")?
 * We plan to extend character/script coverage to cover 100% of Unicode 9.0 except for CJK. For CJK, we plan to cover Plane 0 (BMP) CJK characters in Unicode 9.0
-* We plan to extend Noto from two weights (regular and bold) and one width to a number of weights (thin to heavy) and a number of widths (condensed to normal). 
+* We plan to extend Noto from two weights (regular and bold) and one width to a number of weights (thin to heavy) and a number of widths (condensed to normal).
 * we plan to open source glyph and other source data for all Noto fonts (except CJK fonts whose source is owned by Adobe), and provide a pipeline to build binary fonts from these sources. With the font sources and pipeline, everyone can build their own fonts and use Noto as the base font for free.
 
 
@@ -83,7 +83,7 @@ Noto Sans for Latin was designed by the same person, Steve Matteson, who has wor
 
 ### What’s the difference between the UI and non-UI versions?
 
-The UI fonts were initially prepared for use in Android’s UI. They have tighter vertical metrics, and some glyphs that would be clipped are redrawn to fit within the constrained space. They can be used anywhere that has limited vertical space. There are no UI verions of scripts that do not need such adjustment, and the non-UI versions should be preferred for use in body text. 
+The UI fonts were initially prepared for use in Android’s UI. They have tighter vertical metrics, and some glyphs that would be clipped are redrawn to fit within the constrained space. They can be used anywhere that has limited vertical space. There are no UI verions of scripts that do not need such adjustment, and the non-UI versions should be preferred for use in body text.
 
 
 ### What about Han unification?
@@ -98,10 +98,10 @@ Once Klingon / Elvish / etc. is included in Unicode :). Please [contact the Unic
 
 ### How does Noto relate to Droid?
 
-Google’s Droid fonts have been superseded by Noto. Noto began as Droid, and all updates are now made to the Noto fonts. Today, Noto gives better support to all languages covered by Droid, with more characters and fewer bugs, and it covers many more languages.  Both Android and ChromeOS have switched to Noto, and we strongly recommend everyone to replace Droid with Noto. Similarly, the Droid Sans Fallback font is superseded by Noto Sans CJK, available from [noto-cjk](https://github.com/googlei18n/noto-cjk).
+Google’s Droid fonts have been superseded by Noto. Noto began as Droid, and all updates are now made to the Noto fonts. Today, Noto gives better support to all languages covered by Droid, with more characters and fewer bugs, and it covers many more languages.  Both Android and ChromeOS have switched to Noto, and we strongly recommend everyone to replace Droid with Noto. Similarly, the Droid Sans Fallback font is superseded by Noto Sans CJK, available from [noto-cjk](https://github.com/googlefonts/noto-cjk).
 
 
-### Could you provide a single font file that covers every language (or at least as many scripts as possible)?	
+### Could you provide a single font file that covers every language (or at least as many scripts as possible)?
 
 A single file is not possible, because there are many more glyphs in Noto than can fit into a single font. CJK alone is as large as it can get. In addition, different scripts prefer different line metrics. Noto tries to provide suitable line metrics for each script rather than forcing all scripts to fit one. The UI fonts are an exception to this, however, so using them we could generate a single font sharing a single line height. However, we are working on a possible repackaging of the fonts into a few files. We can probably get one for CJK, one for common scripts in living languages, and one for obscure scripts-- depends if Tangut pushes us over the limit of what non-CJK we can fit into a single font. There are tools that can be used to merge fonts but the devil is in the details-- some common characters are in a few source fonts and if they behave differently we'd have to work that out.
 
