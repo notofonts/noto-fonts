@@ -1,5 +1,5 @@
 ## Defect Report
-Use this template for filing a defect report. For feature requests and other matters, you can use part of the template and delete what you don't need.
+> Noto fonts can be obtained from https://github.com/googlefonts/noto-fonts/tree/master/unhinted/otf/ (unhinted OTF) or https://github.com/googlefonts/noto-fonts/tree/master/hinted/ttf/ (hinted TTF). If you find a problem with either of these then please use this template to file a defect report. For feature requests and other matters, you can use part of the template and delete what you don't need.
 
 ### Title 
   > Should be brief but contain essential information.
