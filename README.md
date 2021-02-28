@@ -8,6 +8,6 @@ For background, technical details, and how to contribute, see the [FAQ](FAQ.md).
 
 Have fun with Noto! — Google Fonts Team
 
-#2021.02.28
+## 2021.02.28
 
 We have recompiled all the existing sources with a new version of the fontmake compiler. The released fonts have the same version, and virtually are the same (but compilation date) as the fonts which were released previously. Therefore, there's no need to update anything if you track the fonts in this repository.
