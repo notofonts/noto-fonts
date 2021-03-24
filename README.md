@@ -8,6 +8,10 @@ For background, technical details, and how to contribute, see the [EN FAQ](FAQ.m
 
 Have fun with Noto! — Google Fonts Team
 
+## 2021.03.24
+
+This is work in progress - published an update to Greek codepoints in Noto Sans. Similar changes will arrive between now and end of 2021 to all Latin Greek Cyrillic Noto fonts. For changes please see [NotoSans update](https://github.com/googlefonts/noto-source/blob/main/WIP-GRK/20210310-NotoSans-MM.pdf). In other files in https://github.com/googlefonts/noto-source/blob/main/WIP-GRK/ you'll find various update details. The next update, to NotoSansDisplay will arive in early April.
+
 ## 2021.02.28
 
 We have recompiled all the existing sources with a new version of the fontmake compiler. The released fonts have the same version, and virtually are the same (but compilation date) as the fonts which were released previously. Therefore, there's no need to update anything if you track the fonts in this repository.
