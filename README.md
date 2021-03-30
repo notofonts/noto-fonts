@@ -1,6 +1,6 @@
 ![Noto](images/noto.png)
 
-# Noto fonts
+# Noto Fonts
 
 Noto’s goal is to provide a beautiful reading experience for all languages. It is a free, professionally-designed, open-source collection of fonts with a harmonious look and feel in multiple weights and styles. All Noto fonts are published under the [SIL Open Font License (OFL) v1.1](http://scripts.sil.org/OFL), which allows you to copy, modify, and redistribute them if you need to.
 
@@ -10,7 +10,7 @@ Have fun with Noto! — Google Fonts Team
 
 PS. If you want to use Noto on Windows, please download [hinted fonts](https://github.com/googlefonts/noto-fonts/tree/main/hinted/ttf)
 
-## Noto issues
+## Noto Issues
 
 When you, a user, create Noto issues for every problem that you encounter using Noto fonts, it helps us to improve our offering. We appreciate your contributions to Noto improvements.  Here are the statistics related to Noto issues
 
