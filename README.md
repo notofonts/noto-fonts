@@ -12,7 +12,7 @@ PS. If you want to use Noto on Windows, please download [hinted fonts](https://g
 
 ## Noto Issues
 
-When you, a user, create Noto issues for every problem that you encounter using Noto fonts, it helps us to improve our offering. We appreciate your contributions to Noto improvements.  Here are the statistics related to Noto issues
+When you, a user, create Noto issues for every problem that you encounter using Noto fonts, it helps us to improve our offering. We appreciate your contributions to Noto improvements.  Here are the statistics, updated weekly, related to Noto issues
 
 ![Scripts with More Than 10 Issues](images/topscripts-data.png)
 
