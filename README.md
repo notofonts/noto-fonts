@@ -10,6 +10,19 @@ Have fun with Noto! — Google Fonts Team
 
 PS. If you want to use Noto on Windows, please download [hinted fonts](https://github.com/googlefonts/noto-fonts/tree/main/hinted/ttf)
 
+## Noto issues
+
+When you, a user, create Noto issues for every problem that you encounter using Noto fonts, it helps us to improve our offering. We appreciate your contributions to Noto improvements.  Here are the statistics related to Noto issues
+
+[Scripts with More Than 10 Issues] (images/topscripts-data.png)
+
+[Per Month Issues Created and Closed over the Last 12 Months] (images/12-month-data.png)
+
+[Per Month Issues Created and Closed Since Noto Started] (images/periodic-data.png)
+
+[Total Issues Created and Closed Since Noto Started] (images/cumulative-data.png)
+
+
 ## 2021.03.24
 
 This is work in progress - we have published an update to Greek codepoints in NotoSans. Similar changes will arrive between now and end of 2021 to all Latin Greek Cyrillic Noto fonts. For changes please see [NotoSans update](https://github.com/googlefonts/noto-source/blob/main/WIP-GRK/20210310-NotoSans-MM.pdf). In other files in https://github.com/googlefonts/noto-source/blob/main/WIP-GRK/ you'll find various update details. The next update, to NotoSansDisplay will arive in early April.
