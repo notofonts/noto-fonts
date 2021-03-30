@@ -14,13 +14,13 @@ PS. If you want to use Noto on Windows, please download [hinted fonts](https://g
 
 When you, a user, create Noto issues for every problem that you encounter using Noto fonts, it helps us to improve our offering. We appreciate your contributions to Noto improvements.  Here are the statistics related to Noto issues
 
-[Scripts with More Than 10 Issues] (images/topscripts-data.png)
+![Scripts with More Than 10 Issues] (images/topscripts-data.png)
 
-[Per Month Issues Created and Closed over the Last 12 Months] (images/12-month-data.png)
+![Per Month Issues Created and Closed over the Last 12 Months] (images/12-month-data.png)
 
-[Per Month Issues Created and Closed Since Noto Started] (images/periodic-data.png)
+![Per Month Issues Created and Closed Since Noto Started] (images/periodic-data.png)
 
-[Total Issues Created and Closed Since Noto Started] (images/cumulative-data.png)
+![Total Issues Created and Closed Since Noto Started] (images/cumulative-data.png)
 
 
 ## 2021.03.24
