@@ -16,6 +16,8 @@ When you, a user, create Noto issues for every problem that you encounter using 
 
 ![Scripts with More Than 10 Issues](images/topscripts-data.png)
 
+![Per Week Issues Created and Closed over the Last 17 Weeks](https://github.com/googlefonts/noto-fonts/blob/main/images/15-weeks-data.png)
+
 ![Per Month Issues Created and Closed over the Last 12 Months](images/12-month-data.png)
 
 ![Per Month Issues Created and Closed Since Noto Started](images/periodic-data.png)
