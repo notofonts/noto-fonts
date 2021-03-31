@@ -1,7 +1,5 @@
 # set terminal pngcairo nocrop enhanced size 600,400 font ",8"
 set datafile separator ","
-set output '12-month-data.png'
-set title "Noto Issues Last 12 Month" font ",20"
 set key left box
 set term png
 set timefmt '%Y-%m-%d'
@@ -27,7 +25,17 @@ set linetype 2 lc rgb '#2a3990'
 absoluteBoxwidth = 0.8
 dx = 1/6.0 * (1 - absoluteBoxwidth)/2.0
 
+set output '12-month-data.png'
+set title "Noto Issues: Last 13 Months" font ",20"
 plot 'googlefonts.noto-fonts.12month-data.csv' using 2:xtic(1),\
          '' u 3,\
          '' u ($0 - dx):2:2 with labels right offset 0,1 ,\
          '' u ($0 + dx):3:3 with labels left offset 0,1
+
+set output '15-weeks-data.png'
+set title "Noto Issues: Last 17 Weeks" font ",20"
+plot 'googlefonts.noto-fonts.weekly-data.csv' using 2:xtic(1),\
+         '' u 3,\
+         '' u ($0 - dx):2:2 with labels right offset 0,1 ,\
+         '' u ($0 + dx):3:3 with labels left offset 0,1
+				 
