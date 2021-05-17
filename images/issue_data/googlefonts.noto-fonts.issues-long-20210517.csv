@@ -1,0 +1,2084 @@
+,number,closed,created,closedAt,openedBy,labels
+0,2086,False,2021-05-16 15:53:17+00:00,,vvasuki,
+1,2085,True,2021-05-06 15:40:09+00:00,2021-05-14 17:43:55+00:00,ebraminio,Script-Arabic
+2,2084,True,2021-05-06 13:00:13+00:00,2021-05-14 15:38:29+00:00,ryuran,
+3,2083,False,2021-05-06 04:03:47+00:00,,soshial,
+4,2082,False,2021-05-05 10:45:18+00:00,,twardoch,
+5,2081,False,2021-05-05 10:40:39+00:00,,twardoch,Script-Tamil
+6,2080,False,2021-05-02 08:00:11+00:00,,mandel59,Script-Siddham
+7,2079,True,2021-05-02 04:19:14+00:00,2021-05-04 16:48:22+00:00,nizarsq,"Naskh,Script-Arabic"
+8,2078,True,2021-05-02 03:54:08+00:00,2021-05-04 16:48:22+00:00,nizarsq,"Naskh,Script-Arabic"
+9,2077,True,2021-05-01 18:57:35+00:00,2021-05-04 16:48:22+00:00,nizarsq,"Naskh,Script-Arabic"
+10,2076,False,2021-04-30 08:02:35+00:00,,Binary-Hazard,Script-Symbol
+11,2075,True,2021-04-26 02:38:48+00:00,2021-05-04 16:48:22+00:00,nizarsq,"Naskh,Script-Arabic"
+12,2074,False,2021-04-25 13:11:28+00:00,,davelab6,Script-Coptic
+13,2073,False,2021-04-25 00:28:44+00:00,,berrymot,Component-Website
+14,2072,False,2021-04-21 12:06:55+00:00,,collimarco,"Component-Website,WebFonts"
+15,2071,False,2021-04-19 07:51:12+00:00,,Binary-Hazard,Component-wiki-info
+16,2070,True,2021-04-19 04:52:47+00:00,2021-05-14 17:43:05+00:00,nizarsq,"Naskh,Script-Arabic"
+17,2069,True,2021-04-19 01:10:39+00:00,2021-05-04 16:48:21+00:00,nizarsq,"Naskh,Script-Arabic"
+18,2068,True,2021-04-17 19:51:26+00:00,2021-05-04 16:48:21+00:00,nizarsq,"Naskh,Script-Arabic"
+19,2067,False,2021-04-15 20:16:08+00:00,,dscorbett,Script-Hebrew
+20,2066,False,2021-04-15 07:32:06+00:00,,moyogo,"Platform-Windows,Script-LatinGreekCyrillic,Script-Manichaean,Script-Math,Script-Mongolian,Script-Myanmar,Script-Phagspa"
+21,2065,False,2021-04-12 19:39:25+00:00,,davelab6,Script-OldHungarian
+22,2064,False,2021-04-11 19:52:12+00:00,,Kanjilearner817,"Rashi,Script-Hebrew"
+23,2063,True,2021-04-11 14:14:39+00:00,2021-04-12 19:36:10+00:00,rovasinfo,
+24,2062,False,2021-04-11 05:32:07+00:00,,moyogo,Script-LatinGreekCyrillic
+25,2061,True,2021-04-10 17:40:04+00:00,2021-04-12 19:36:34+00:00,rovasinfo,
+26,2060,True,2021-04-08 20:22:18+00:00,2021-04-09 01:44:13+00:00,soheilkhanalipur,"Script-Arabic,Status-NotABug"
+27,2059,False,2021-04-07 11:30:16+00:00,,jonpinhorn,Script-Ethiopic
+28,2058,False,2021-04-06 15:01:22+00:00,,dscorbett,Script-InscriptionalPahlavi
+29,2057,False,2021-04-05 16:16:19+00:00,,dscorbett,Script-InscriptionalPahlavi
+30,2056,False,2021-04-04 22:52:32+00:00,,lyndondrake,"Script-Hebrew,Type-Enhancement"
+31,2055,False,2021-04-04 16:44:38+00:00,,dscorbett,Script-InscriptionalParthian
+32,2054,True,2021-04-03 18:56:20+00:00,2021-04-12 19:36:46+00:00,tamasbartos,Script-OldHungarian
+33,2053,False,2021-04-03 15:11:04+00:00,,dscorbett,Script-InscriptionalParthian
+34,2052,False,2021-04-02 18:15:56+00:00,,dscorbett,Script-InscriptionalParthian
+35,2051,False,2021-04-02 11:00:05+00:00,,Binary-Hazard,Script-CJK
+36,2050,False,2021-04-01 22:39:24+00:00,,dscorbett,Script-N'Ko
+37,2049,False,2021-04-01 05:06:01+00:00,,KazunariTsuboi,Script-Bengali
+38,2048,False,2021-03-31 16:31:12+00:00,,dscorbett,ArimoTinosCousine
+39,2047,False,2021-03-31 07:56:49+00:00,,twardoch,Noto-Process-Issue
+40,2046,False,2021-03-30 21:53:16+00:00,,dscorbett,Script-Georgian
+41,2045,True,2021-03-30 19:15:47+00:00,2021-04-07 17:40:05+00:00,Binary-Hazard,Status-NeedsMoreInformation
+42,2044,False,2021-03-29 21:23:37+00:00,,cheuk879,"Script-Miao,in-evaluation"
+43,2043,False,2021-03-29 15:32:11+00:00,,dscorbett,Script-Mandaic
+44,2042,False,2021-03-28 15:25:11+00:00,,dscorbett,Script-Phagspa
+45,2041,False,2021-03-26 22:34:22+00:00,,dscorbett,Script-LatinGreekCyrillic
+46,2040,True,2021-03-26 18:55:19+00:00,2021-04-02 02:34:34+00:00,davelab6,Noto-Process-Issue
+47,2039,True,2021-03-24 22:30:08+00:00,2021-03-26 01:46:11+00:00,dscorbett,Script-LatinGreekCyrillic
+48,2038,False,2021-03-24 02:54:16+00:00,,davelab6,Noto-Process-Issue
+49,2037,False,2021-03-23 18:01:12+00:00,,davelab6,Noto-Process-Issue
+50,2036,False,2021-03-18 15:22:42+00:00,,davelab6,Noto-Process-Issue
+51,2035,False,2021-03-18 14:53:04+00:00,,davelab6,Script-OldHungarian
+52,2034,True,2021-03-17 04:56:02+00:00,2021-03-17 22:12:12+00:00,nizarsq,"Naskh,Script-Arabic"
+53,2033,True,2021-03-17 04:25:48+00:00,2021-03-17 22:12:12+00:00,nizarsq,"Naskh,Script-Arabic"
+54,2032,True,2021-03-17 04:11:27+00:00,2021-03-17 22:12:12+00:00,nizarsq,"Naskh,Script-Arabic"
+55,2031,True,2021-03-15 08:29:22+00:00,2021-03-15 15:43:23+00:00,nizarsq,"Sans,Script-Arabic"
+56,2030,True,2021-03-15 08:17:49+00:00,2021-03-15 15:43:23+00:00,nizarsq,"Sans,Script-Arabic"
+57,2029,True,2021-03-13 05:14:36+00:00,2021-03-15 15:36:03+00:00,nizarsq,"Kufi,Script-Arabic"
+58,2028,True,2021-03-11 09:02:07+00:00,2021-03-11 14:14:46+00:00,StatisticalProgrammer,Status-NeedsMoreInformation
+59,2027,True,2021-03-10 03:04:06+00:00,2021-03-15 15:36:03+00:00,nizarsq,"Kufi,Script-Arabic"
+60,2026,True,2021-03-06 17:33:43+00:00,2021-03-15 15:43:24+00:00,nizarsq,"Fix-in-progress,Sans,Script-Arabic"
+61,2025,True,2021-03-06 16:45:15+00:00,2021-03-15 15:43:23+00:00,nizarsq,"Sans,Script-Arabic"
+62,2024,True,2021-03-06 16:36:56+00:00,2021-03-15 15:36:03+00:00,nizarsq,"Kufi,Script-Arabic"
+63,2023,True,2021-03-06 16:27:59+00:00,2021-03-15 15:36:03+00:00,nizarsq,"Kufi,Script-Arabic"
+64,2022,True,2021-03-04 12:17:34+00:00,2021-03-17 22:12:12+00:00,khaledhosny,"Naskh,Script-Arabic"
+65,2021,True,2021-03-03 10:23:02+00:00,2021-04-11 22:26:03+00:00,robihorvath,Script-OldHungarian
+66,2020,True,2021-03-03 02:59:25+00:00,2021-03-15 15:36:03+00:00,nizarsq,"Kufi,Script-Arabic"
+67,2019,True,2021-03-03 02:56:36+00:00,2021-03-15 15:36:03+00:00,nizarsq,"Kufi,Script-Arabic"
+68,2018,True,2021-03-03 02:53:25+00:00,2021-03-15 15:36:03+00:00,nizarsq,"Kufi,Sans,Script-Arabic"
+69,2017,False,2021-03-03 02:48:29+00:00,,nizarsq,"Kufi,Naskh,Sans,Script-Arabic"
+70,2016,True,2021-03-03 02:42:09+00:00,2021-03-17 22:12:12+00:00,nizarsq,"Naskh,Script-Arabic"
+71,2015,True,2021-03-01 14:41:07+00:00,2021-03-05 19:36:42+00:00,robihorvath,
+72,2014,False,2021-03-01 10:38:02+00:00,,r12a,Noto-Process-Issue
+73,2013,False,2021-02-28 22:07:43+00:00,,dscorbett,Script-Takri
+74,2012,True,2021-02-28 20:38:21+00:00,2021-02-28 20:38:29+00:00,marekjez86,
+75,2011,True,2021-02-28 20:24:21+00:00,2021-02-28 20:24:27+00:00,marekjez86,
+76,2010,True,2021-02-28 20:19:30+00:00,2021-02-28 20:19:37+00:00,marekjez86,
+77,2009,False,2021-02-28 01:21:05+00:00,,dscorbett,Script-Sharada
+78,2008,True,2021-02-19 16:29:24+00:00,2021-02-24 19:25:27+00:00,robihorvath,
+79,2007,False,2021-02-19 07:37:53+00:00,,r12a,Script-OldPersian
+80,2006,True,2021-02-19 05:53:38+00:00,2021-02-19 15:05:59+00:00,raydoc,Script-LatinGreekCyrillic
+81,2005,False,2021-02-18 10:45:01+00:00,,r12a,Script-Thai
+82,2004,False,2021-02-15 08:01:14+00:00,,john-cj,Script-LatinGreekCyrillic
+83,2003,False,2021-02-12 20:59:57+00:00,,nico,Script-Symbol
+84,2002,False,2021-02-10 18:34:00+00:00,,42837531,"Platform-Windows,Script-LatinGreekCyrillic"
+85,2001,True,2021-02-07 11:34:08+00:00,2021-04-12 19:36:55+00:00,tamasbartos,Script-OldHungarian
+86,2000,False,2021-02-04 19:38:26+00:00,,shira17255,Script-Hebrew
+87,1999,False,2021-02-03 21:01:30+00:00,,dy,Script-LatinGreekCyrillic
+88,1998,False,2021-02-02 18:49:23+00:00,,sven-oly,Script-LatinGreekCyrillic
+89,1997,False,2021-02-02 18:14:58+00:00,,dscorbett,Script-Tibetan
+90,1996,False,2021-02-01 15:20:44+00:00,,dscorbett,Script-Symbol
+91,1995,False,2021-02-01 02:03:13+00:00,,dscorbett,Script-Symbol
+92,1994,False,2021-01-30 17:36:24+00:00,,dscorbett,Script-Marchen
+93,1993,False,2021-01-29 17:15:56+00:00,,dscorbett,Script-LatinGreekCyrillic
+94,1992,False,2021-01-29 08:10:10+00:00,,KrasnayaPloshchad,"Script-Arabic,evaluation-completed"
+95,1991,False,2021-01-29 02:17:03+00:00,,dscorbett,Script-Brahmi
+96,1990,False,2021-01-27 22:40:13+00:00,,Kanjilearner817,Script-Tibetan
+97,1989,True,2021-01-25 08:20:10+00:00,2021-04-12 18:38:44+00:00,tamasbartos,Script-OldHungarian
+98,1988,False,2021-01-24 16:32:05+00:00,,dscorbett,"Nastaliq,Script-Arabic"
+99,1987,True,2021-01-23 19:09:31+00:00,2021-01-27 22:58:56+00:00,dscorbett,"Naskh,Script-Arabic"
+100,1986,True,2021-01-20 04:18:44+00:00,2021-04-10 19:44:30+00:00,Linguistx,Script-LatinGreekCyrillic
+101,1985,True,2021-01-19 09:27:21+00:00,2021-04-12 19:36:47+00:00,tamasbartos,Script-OldHungarian
+102,1984,True,2021-01-18 07:51:15+00:00,2021-04-12 19:36:49+00:00,tamasbartos,Script-OldHungarian
+103,1983,True,2021-01-17 18:32:32+00:00,2021-04-03 19:03:23+00:00,tamasbartos,Script-OldHungarian
+104,1982,True,2021-01-15 13:31:08+00:00,2021-04-16 06:49:31+00:00,MattMayuga,"Script-LatinGreekCyrillic,Type-Enhancement"
+105,1981,True,2021-01-15 05:36:57+00:00,2021-01-22 00:09:31+00:00,nizarsq,"Naskh,Script-Arabic"
+106,1980,False,2021-01-14 09:39:22+00:00,,NickEman132,Script-Hanunoo
+107,1979,False,2021-01-11 00:00:23+00:00,,dscorbett,Script-LatinGreekCyrillic
+108,1978,False,2021-01-10 23:55:50+00:00,,kidasund,Script-Kannada
+109,1977,False,2021-01-10 23:19:51+00:00,,Linguistx,Script-LatinGreekCyrillic
+110,1976,True,2021-01-05 14:07:15+00:00,2021-01-11 11:15:17+00:00,SurbhiAtal,Script-Khmer
+111,1975,False,2021-01-05 06:35:35+00:00,,abhidesh128,Script-Modi
+112,1974,True,2021-01-02 19:27:17+00:00,2021-01-04 17:54:47+00:00,pheiduck,Script-LatinGreekCyrillic
+113,1973,True,2021-01-01 20:57:18+00:00,2021-01-06 01:44:05+00:00,nizarsq,"Sans,Script-Arabic"
+114,1972,False,2021-01-01 18:16:58+00:00,,dscorbett,Script-Signwriting
+115,1971,False,2020-12-31 19:53:55+00:00,,dscorbett,Script-Adlam
+116,1970,False,2020-12-31 14:36:37+00:00,,r12a,Nastaliq
+117,1969,False,2020-12-30 19:39:13+00:00,,dscorbett,"Script-Yezidi,Serif"
+118,1968,False,2020-12-30 04:38:24+00:00,,nizarsq,"Kufi,Naskh,Nastaliq,Sans,Script-Arabic"
+119,1967,False,2020-12-29 19:40:11+00:00,,dscorbett,"Sans,Script-Arabic"
+120,1966,True,2020-12-28 21:14:20+00:00,2021-01-13 04:38:51+00:00,dscorbett,"Sans,Script-Arabic"
+121,1965,True,2020-12-28 13:01:35+00:00,2020-12-29 06:43:06+00:00,gerald-drissner,"Sans,Script-Arabic"
+122,1964,True,2020-12-27 20:54:15+00:00,2021-02-12 04:16:35+00:00,jongarmendia966,
+123,1963,True,2020-12-27 15:56:16+00:00,2021-01-22 00:09:31+00:00,dscorbett,"Naskh,Sans,Script-Arabic"
+124,1962,True,2020-12-27 06:16:37+00:00,2021-01-06 01:44:05+00:00,nizarsq,"Sans,Script-Arabic"
+125,1961,True,2020-12-26 17:49:56+00:00,2021-01-13 04:38:51+00:00,dscorbett,"Sans,Script-Arabic"
+126,1960,True,2020-12-25 23:55:58+00:00,2021-01-11 18:56:32+00:00,TheBabu,"Script-LatinGreekCyrillic,app-dependent-behavior"
+127,1959,True,2020-12-25 15:08:13+00:00,2021-01-06 01:44:05+00:00,dscorbett,"Sans,Script-Arabic"
+128,1958,False,2020-12-24 20:38:11+00:00,,nizarsq,"Fix-in-progress,Naskh,Script-Arabic"
+129,1957,True,2020-12-24 18:09:43+00:00,2021-01-06 01:44:05+00:00,dscorbett,"Sans,Script-Arabic"
+130,1956,False,2020-12-24 14:27:01+00:00,,moocan,Noto-Process-Issue
+131,1955,False,2020-12-23 17:07:42+00:00,,dscorbett,Script-Ahom
+132,1954,False,2020-12-22 15:01:59+00:00,,dscorbett,Script-Bhaiksuki
+133,1953,False,2020-12-22 02:53:58+00:00,,dscorbett,Script-TaiLe
+134,1952,False,2020-12-20 23:37:57+00:00,,DaveJarvis,Script-LatinGreekCyrillic
+135,1951,False,2020-12-20 23:22:45+00:00,,schuelermine,Script-LatinGreekCyrillic
+136,1950,False,2020-12-20 16:04:05+00:00,,dscorbett,Script-Mandaic
+137,1949,False,2020-12-19 19:58:58+00:00,,dscorbett,Script-Balinese
+138,1948,True,2020-12-18 16:14:02+00:00,2021-01-11 20:17:05+00:00,kmuncie,Noto-Process-Issue
+139,1947,True,2020-12-18 15:40:12+00:00,2021-04-12 18:37:52+00:00,tamasbartos,Script-OldHungarian
+140,1946,True,2020-12-18 13:02:41+00:00,2021-04-12 18:31:26+00:00,tamasbartos,Script-OldHungarian
+141,1945,True,2020-12-18 08:44:45+00:00,2021-04-12 18:38:21+00:00,tamasbartos,Script-OldHungarian
+142,1944,True,2020-12-18 08:13:06+00:00,2021-02-22 22:21:37+00:00,tamasbartos,Script-OldHungarian
+143,1943,False,2020-12-18 00:52:51+00:00,,codeman38,Noto-Process-Issue
+144,1942,True,2020-12-16 22:20:26+00:00,2020-12-23 20:15:20+00:00,dscorbett,Script-Hebrew
+145,1941,True,2020-12-15 15:06:05+00:00,2021-01-27 22:58:56+00:00,dscorbett,"Naskh,Sans,Script-Arabic"
+146,1940,False,2020-12-15 04:24:15+00:00,,mahalisyarifuddin,Script-LatinGreekCyrillic
+147,1939,False,2020-12-15 00:54:57+00:00,,dscorbett,Script-Brahmi
+148,1938,True,2020-12-13 23:00:51+00:00,2020-12-30 03:55:52+00:00,nizarsq,"Naskh,Script-Arabic"
+149,1937,False,2020-12-13 22:54:33+00:00,,DaveJarvis,Script-LatinGreekCyrillic
+150,1936,True,2020-12-12 03:17:37+00:00,2020-12-18 21:00:10+00:00,nizarsq,"Naskh,Script-Arabic,UI-compact"
+151,1935,False,2020-12-11 15:00:32+00:00,,marekjez86,"Sans,Script-Arabic,UI-compact"
+152,1934,False,2020-12-08 07:15:06+00:00,,KazunariTsuboi,Script-LatinGreekCyrillic
+153,1933,False,2020-12-06 23:02:23+00:00,,tsimhawj,Script-PahawhHmong
+154,1932,False,2020-12-06 17:35:24+00:00,,davelab6,Noto-Process-Issue
+155,1931,False,2020-12-06 16:10:00+00:00,,dscorbett,Script-Signwriting
+156,1930,True,2020-12-06 11:31:03+00:00,2021-04-12 19:36:48+00:00,ghost,Script-OldHungarian
+157,1929,False,2020-12-05 19:24:59+00:00,,dscorbett,Script-Signwriting
+158,1928,False,2020-12-05 00:27:12+00:00,,dscorbett,Script-Signwriting
+159,1927,False,2020-12-03 22:35:17+00:00,,nizarsq,"Naskh,Sans,Script-Arabic"
+160,1926,False,2020-12-03 03:44:58+00:00,,Anontamon,Script-Myanmar
+161,1925,True,2020-12-01 12:56:02+00:00,2020-12-04 09:16:52+00:00,ghost,Script-OldHungarian
+162,1924,True,2020-11-30 20:36:21+00:00,2021-04-12 19:36:45+00:00,ghost,Script-OldHungarian
+163,1923,True,2020-11-26 22:04:59+00:00,2020-11-28 06:04:38+00:00,ghost,Script-OldHungarian
+164,1922,False,2020-11-26 20:32:22+00:00,,sven-oly,Script-Chakma
+165,1921,True,2020-11-24 22:10:10+00:00,2020-11-30 20:21:50+00:00,ghost,Script-OldHungarian
+166,1920,True,2020-11-20 00:31:06+00:00,2020-12-03 13:00:55+00:00,fullmetal2000,
+167,1919,True,2020-11-16 15:35:41+00:00,2020-11-19 04:50:12+00:00,mahalisyarifuddin,"Sans,Script-Balinese,Serif"
+168,1918,True,2020-11-16 14:55:30+00:00,2020-11-19 04:50:29+00:00,mahalisyarifuddin,Script-Balinese
+169,1917,True,2020-11-16 13:12:29+00:00,2020-11-19 04:50:38+00:00,mahalisyarifuddin,Script-Balinese
+170,1916,True,2020-11-15 11:36:10+00:00,2021-02-19 13:51:31+00:00,frpatte2,Script-Grantha
+171,1915,True,2020-11-14 10:45:29+00:00,2020-11-18 17:00:47+00:00,ghost,Script-OldHungarian
+172,1914,True,2020-11-14 00:08:33+00:00,2021-01-27 03:54:25+00:00,nizarsq,"Sans,Script-Arabic,UI-compact"
+173,1913,True,2020-11-12 09:47:05+00:00,2020-12-01 09:47:46+00:00,ghost,Script-OldHungarian
+174,1912,True,2020-11-06 22:42:57+00:00,2020-11-12 01:15:06+00:00,nizarsq,"Sans,Script-Arabic"
+175,1911,True,2020-10-31 05:22:11+00:00,2020-10-31 21:29:55+00:00,Buernia,Script-Symbol
+176,1910,False,2020-10-28 20:34:26+00:00,,dscorbett,Script-Tibetan
+177,1909,True,2020-10-26 15:43:24+00:00,2020-10-27 16:43:58+00:00,marekjez86,"Kufi,Script-Arabic,Script-Dogra,Script-Elymaic,Script-GunjalaGondi,Script-MasaramGondi,Script-Medefaidrin,Script-NyiakengPuachueHmong"
+178,1908,False,2020-10-23 03:11:55+00:00,,nizarsq,"Nastaliq,Script-Arabic"
+179,1907,True,2020-10-23 02:41:53+00:00,2020-10-23 06:44:38+00:00,nizarsq,"Sans,Script-Arabic"
+180,1906,False,2020-10-20 04:34:23+00:00,,madhavkiransodum,"Script-Bengali,design-question"
+181,1905,True,2020-10-20 03:39:50+00:00,2020-11-24 06:55:07+00:00,nizarsq,"Sans,Script-Arabic"
+182,1904,True,2020-10-19 19:21:15+00:00,2020-10-20 22:15:45+00:00,marekjez86,Script-Lao
+183,1903,True,2020-10-16 03:00:56+00:00,2020-10-25 18:56:12+00:00,fawazahmed0,"Kufi,Script-Arabic"
+184,1902,True,2020-10-16 02:35:28+00:00,2020-11-24 06:55:06+00:00,fawazahmed0,"Kufi,Script-Arabic"
+185,1901,True,2020-10-14 05:33:45+00:00,2020-10-20 02:12:29+00:00,nizarsq,"Kufi,Script-Arabic"
+186,1900,True,2020-10-13 23:08:05+00:00,2020-12-11 21:55:52+00:00,nizarsq,"Naskh,Script-Arabic"
+187,1899,True,2020-10-13 23:00:37+00:00,2021-01-18 22:36:34+00:00,nizarsq,"Kufi,Script-Arabic"
+188,1898,True,2020-10-13 22:54:25+00:00,2020-10-19 22:17:32+00:00,nizarsq,"Sans,Script-Arabic"
+189,1897,True,2020-10-13 22:26:16+00:00,2020-10-27 18:35:13+00:00,nizarsq,"Priority-Medium,Sans,Script-Arabic"
+190,1896,False,2020-10-13 03:52:09+00:00,,nizarsq,"Nastaliq,Script-Arabic"
+191,1895,True,2020-10-12 19:23:29+00:00,2021-01-16 17:59:22+00:00,nizarsq,"Kufi,Naskh,Sans,Script-Arabic"
+192,1894,True,2020-10-10 13:00:23+00:00,2021-01-22 00:09:31+00:00,khaledhosny,"Naskh,Script-Arabic"
+193,1893,True,2020-10-10 01:23:14+00:00,2020-12-19 04:19:49+00:00,nizarsq,"Kufi,Script-Arabic"
+194,1892,True,2020-10-09 23:28:50+00:00,2021-05-04 16:48:22+00:00,nizarsq,"Kufi,Naskh,Script-Arabic"
+195,1891,False,2020-10-09 09:46:34+00:00,,nik9hil,"Script-Takri,in-evaluation,possibly-shaping-issue"
+196,1890,False,2020-10-09 03:58:52+00:00,,nizarsq,"Nastaliq,Script-Arabic,design-question"
+197,1889,True,2020-10-08 22:54:10+00:00,2020-12-11 08:03:55+00:00,nizarsq,"Naskh,Script-Arabic"
+198,1888,True,2020-10-08 22:00:02+00:00,2020-10-19 20:06:46+00:00,nizarsq,"Kufi,Priority-High,Script-Arabic"
+199,1887,False,2020-10-08 20:29:30+00:00,,nizarsq,"Naskh,Script-Arabic"
+200,1886,True,2020-10-08 18:00:11+00:00,2021-01-27 05:01:05+00:00,nizarsq,"Naskh,Sans,Script-Arabic"
+201,1885,True,2020-10-08 01:15:45+00:00,2020-10-17 19:30:00+00:00,KazunariTsuboi,"Naskh,Script-Arabic"
+202,1884,True,2020-10-07 03:05:42+00:00,2020-10-30 20:37:49+00:00,nizarsq,"Kufi,Script-Arabic"
+203,1883,True,2020-10-06 23:25:59+00:00,2020-12-11 21:55:52+00:00,nizarsq,"Naskh,Priority-High,Script-Arabic"
+204,1882,False,2020-10-05 14:12:50+00:00,,vk-github18,"Script-LatinGreekCyrillic,in-evaluation"
+205,1881,False,2020-10-05 04:02:07+00:00,,nizarsq,"Nastaliq,Priority-High,Script-Arabic"
+206,1880,True,2020-10-05 00:43:57+00:00,2021-01-04 22:29:05+00:00,nizarsq,"Naskh,Script-Arabic"
+207,1879,True,2020-10-03 06:23:48+00:00,2021-01-06 01:44:07+00:00,nizarsq,"Kufi,Priority-High,Script-Arabic"
+208,1878,False,2020-10-02 09:11:48+00:00,,Astavie,"ArimoTinosCousine,Script-LatinGreekCyrillic,in-evaluation"
+209,1877,False,2020-10-02 04:59:37+00:00,,nizarsq,"Nastaliq,Priority-Medium,Script-Arabic,Script-Nastaliq"
+210,1876,True,2020-10-02 04:24:10+00:00,2020-11-17 01:38:44+00:00,nizarsq,"Priority-Medium,Sans,Script-Arabic,UI-compact"
+211,1875,True,2020-10-02 04:11:21+00:00,2020-11-17 01:40:28+00:00,nizarsq,"Priority-Medium,Script-Arabic"
+212,1874,True,2020-10-01 18:27:27+00:00,2020-12-16 22:07:00+00:00,nizarsq,"Naskh,Priority-High,Script-Arabic"
+213,1873,False,2020-10-01 16:47:13+00:00,,nizarsq,"Nastaliq,Script-Arabic"
+214,1872,False,2020-10-01 07:04:15+00:00,,nizarsq,"Sans,Script-Arabic"
+215,1871,False,2020-10-01 05:26:07+00:00,,nizarsq,"Naskh,Script-Arabic"
+216,1870,False,2020-10-01 05:15:30+00:00,,nizarsq,"Kufi,Script-Arabic"
+217,1869,False,2020-09-30 04:37:30+00:00,,nizarsq,"Kufi,Script-Arabic,Script-Nastaliq"
+218,1868,False,2020-09-30 03:29:59+00:00,,nizarsq,"Kufi,Naskh,Script-Arabic,Script-Nastaliq"
+219,1867,True,2020-09-29 15:17:11+00:00,2020-10-01 17:33:16+00:00,bitigchi,Script-Symbol
+220,1866,True,2020-09-29 04:08:59+00:00,2021-01-16 18:04:56+00:00,nizarsq,"Naskh,Sans,Script-Arabic,UI-compact"
+221,1865,True,2020-09-29 00:22:55+00:00,2020-10-02 13:22:36+00:00,dscorbett,Script-Medefaidrin
+222,1864,False,2020-09-28 16:42:47+00:00,,ohbendy,Script-Thai
+223,1863,False,2020-09-28 15:00:48+00:00,,r12a,Script-Syriac
+224,1862,True,2020-09-28 04:25:08+00:00,2020-12-12 03:05:11+00:00,nizarsq,"Naskh,Priority-Medium,Sans,Script-Arabic"
+225,1861,True,2020-09-28 03:43:43+00:00,2020-11-17 01:41:04+00:00,nizarsq,"Priority-Medium,Sans,Script-Arabic"
+226,1860,True,2020-09-27 23:37:57+00:00,2020-12-16 22:07:00+00:00,nizarsq,"Naskh,Nastaliq,Priority-Medium,Sans,Script-Arabic"
+227,1859,True,2020-09-27 22:04:37+00:00,2020-10-27 00:09:03+00:00,nizarsq,"Priority-Medium,Sans,Script-Arabic"
+228,1858,True,2020-09-27 21:15:24+00:00,2020-12-03 02:59:59+00:00,nizarsq,"Priority-Medium,Script-Arabic"
+229,1857,True,2020-09-26 07:43:28+00:00,2020-12-20 02:40:02+00:00,Jellby,"Script-LatinGreekCyrillic,Type-Enhancement"
+230,1856,False,2020-09-26 03:47:23+00:00,,nizarsq,"Kufi,Nastaliq,Priority-Medium,Script-Arabic"
+231,1855,False,2020-09-24 11:21:14+00:00,,Jellby,"Script-LatinGreekCyrillic,design-question,in-evaluation"
+232,1854,True,2020-09-21 21:41:45+00:00,2020-09-24 05:12:22+00:00,punchcutter,
+233,1853,True,2020-09-16 18:09:31+00:00,2020-09-17 18:33:43+00:00,RohingyaProject,Script-HanifiRohingya
+234,1852,False,2020-09-14 10:31:35+00:00,,r12a,"Script-Myanmar,in-evaluation"
+235,1851,True,2020-09-14 01:03:02+00:00,2020-09-20 00:27:04+00:00,dscorbett,Script-Marchen
+236,1850,True,2020-09-12 10:43:47+00:00,2020-09-13 15:40:19+00:00,Assiraj,Script-Arabic
+237,1849,False,2020-09-11 10:08:10+00:00,,sumitj,"ExpertReview,Script-Modi,in-evaluation"
+238,1848,True,2020-09-10 10:19:56+00:00,2020-09-15 23:12:39+00:00,r12a,Script-Mongolian
+239,1847,False,2020-09-09 20:35:34+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+240,1846,False,2020-09-09 11:57:04+00:00,,calixteman,"Script-Mongolian,in-evaluation"
+241,1845,True,2020-09-08 22:23:18+00:00,2020-12-20 02:40:03+00:00,dscorbett,"Script-LatinGreekCyrillic,design-question"
+242,1844,False,2020-09-08 12:01:29+00:00,,ulikozok,Script-Batak
+243,1843,False,2020-09-07 23:26:20+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+244,1842,False,2020-09-06 16:00:35+00:00,,dscorbett,"Script-LatinGreekCyrillic,design-question,in-evaluation"
+245,1841,False,2020-09-05 23:53:27+00:00,,dscorbett,Script-LatinGreekCyrillic
+246,1840,False,2020-09-05 01:23:17+00:00,,dscorbett,"Italic,Script-LatinGreekCyrillic,design-question,in-evaluation"
+247,1839,False,2020-09-03 19:41:39+00:00,,dscorbett,Script-LatinGreekCyrillic
+248,1838,False,2020-09-02 17:36:54+00:00,,dscorbett,"Script-LatinGreekCyrillic,design-question,in-evaluation"
+249,1837,False,2020-09-01 21:53:23+00:00,,dscorbett,"Italic,Script-LatinGreekCyrillic,design-question,in-evaluation"
+250,1836,False,2020-08-31 23:26:00+00:00,,dscorbett,"Italic,Script-LatinGreekCyrillic,in-evaluation"
+251,1835,False,2020-08-30 21:39:36+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+252,1834,False,2020-08-30 03:30:51+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+253,1833,False,2020-08-28 19:48:19+00:00,,dscorbett,"Italic,Script-LatinGreekCyrillic,in-evaluation"
+254,1832,False,2020-08-27 12:14:40+00:00,,dscorbett,"Italic,Script-LatinGreekCyrillic,design-question,in-evaluation,wrong glyph(s)"
+255,1831,False,2020-08-26 20:37:56+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+256,1830,False,2020-08-25 16:05:34+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+257,1829,False,2020-08-25 05:22:06+00:00,,TServicmm,"Script-Myanmar,in-evaluation"
+258,1828,False,2020-08-24 16:11:26+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+259,1827,False,2020-08-23 20:42:38+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation,wrong glyph(s)"
+260,1826,False,2020-08-22 13:40:19+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+261,1825,False,2020-08-21 16:57:19+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+262,1824,False,2020-08-21 09:10:36+00:00,,TServicmm,"Script-Myanmar,in-evaluation"
+263,1823,False,2020-08-20 23:21:07+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+264,1822,False,2020-08-20 06:16:38+00:00,,NorbertLindenberg,"Script-Devanagari,in-evaluation,wrong glyph(s)"
+265,1821,True,2020-08-19 18:01:18+00:00,2020-10-26 04:44:32+00:00,dscorbett,Script-LatinGreekCyrillic
+266,1820,False,2020-08-19 01:04:46+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+267,1819,False,2020-08-18 00:20:50+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+268,1818,False,2020-08-16 16:38:45+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+269,1817,False,2020-08-15 18:20:30+00:00,,dscorbett,"Script-LatinGreekCyrillic,design-question,in-evaluation,wrong glyph(s)"
+270,1816,False,2020-08-14 23:30:06+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+271,1815,False,2020-08-14 00:02:06+00:00,,dscorbett,"Monotype,Script-LatinGreekCyrillic,in-evaluation"
+272,1814,False,2020-08-13 01:23:25+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+273,1813,False,2020-08-11 12:51:41+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+274,1812,False,2020-08-10 16:22:01+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+275,1811,False,2020-08-09 14:18:23+00:00,,SZTSIIT,"Script-Myanmar,in-evaluation"
+276,1810,False,2020-08-09 13:50:44+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+277,1809,False,2020-08-08 12:03:41+00:00,,dscorbett,"Italic,Script-LatinGreekCyrillic,in-evaluation"
+278,1808,False,2020-08-07 17:32:57+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+279,1807,False,2020-08-06 21:26:30+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+280,1806,False,2020-08-06 05:22:40+00:00,,NorbertLindenberg,Component-Website
+281,1805,False,2020-08-05 14:22:22+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+282,1804,False,2020-08-04 16:09:37+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+283,1803,False,2020-08-03 15:15:10+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+284,1802,False,2020-08-03 06:20:58+00:00,,KazunariTsuboi,"Script-Gurmukhi,in-evaluation"
+285,1801,False,2020-08-02 12:18:26+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+286,1800,False,2020-08-02 00:57:24+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+287,1799,False,2020-08-01 20:09:00+00:00,,Jellby,"Script-LatinGreekCyrillic,Type-Enhancement,in-evaluation"
+288,1798,True,2020-07-30 16:11:16+00:00,2020-07-31 04:54:25+00:00,raviiya,Script-Kaithi
+289,1797,False,2020-07-30 15:06:01+00:00,,atoponce,"Script-Symbol,in-evaluation"
+290,1796,True,2020-07-29 23:51:59+00:00,2020-07-30 04:18:01+00:00,KazunariTsuboi,Script-LatinGreekCyrillic
+291,1795,False,2020-07-29 23:49:35+00:00,,KazunariTsuboi,"Script-Oriya,in-evaluation"
+292,1794,True,2020-07-24 18:12:37+00:00,2020-07-28 22:25:50+00:00,jcrippen,Script-Monospace
+293,1793,False,2020-07-21 11:42:56+00:00,,vizzmay,"Script-Gujarati,in-evaluation"
+294,1792,True,2020-07-21 06:57:49+00:00,2020-07-22 01:16:56+00:00,aaabbbcccddd00001111,
+295,1791,False,2020-07-19 14:57:59+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+296,1790,False,2020-07-18 17:07:36+00:00,,sumitj,"Script-Modi,design-question,in-evaluation"
+297,1789,False,2020-07-15 16:03:48+00:00,,vizzmay,"Script-Gujarati,in-evaluation"
+298,1788,False,2020-07-14 16:59:57+00:00,,nik9hil,"Script-Takri,in-evaluation"
+299,1787,False,2020-07-12 09:10:22+00:00,,nik9hil,"Script-Takri,design-question,in-evaluation"
+300,1786,False,2020-07-11 07:20:45+00:00,,simoncozens,"Script-Nastaliq,Script-Urdu,in-evaluation"
+301,1785,False,2020-07-11 00:42:37+00:00,,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace,in-evaluation"
+302,1784,True,2020-07-08 05:08:37+00:00,2020-07-09 16:39:01+00:00,stone-zeng,Script-Nushu
+303,1783,True,2020-06-29 13:24:56+00:00,2020-06-30 08:47:02+00:00,simoncozens,Script-Nastaliq
+304,1782,False,2020-06-28 13:52:25+00:00,,marekjez86,"Script-Khmer,in-evaluation"
+305,1781,True,2020-06-28 12:34:56+00:00,2020-07-04 14:21:55+00:00,ghost,
+306,1780,False,2020-06-26 19:21:51+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+307,1779,False,2020-06-26 12:57:33+00:00,,moyogo,"Script-LatinGreekCyrillic,in-evaluation"
+308,1778,False,2020-06-25 04:04:28+00:00,,MayuraVerma,"Script-Kannada,in-evaluation"
+309,1777,False,2020-06-25 03:53:16+00:00,,MayuraVerma,"Script-Kannada,in-evaluation"
+310,1776,True,2020-06-23 06:56:40+00:00,2020-11-23 18:15:49+00:00,ghost,Script-OldHungarian
+311,1775,True,2020-06-22 23:32:41+00:00,2020-10-23 06:31:21+00:00,The-neophyte,"Kufi,Priority-High,Sans,Script-Arabic"
+312,1774,True,2020-06-21 05:23:03+00:00,2020-09-29 04:28:53+00:00,Chen-TX,"Priority-High,Script-Arabic"
+313,1773,False,2020-06-20 16:12:09+00:00,,matrixgram-zz,"Script-Nastaliq,Script-Urdu,in-evaluation"
+314,1772,False,2020-06-19 16:50:50+00:00,,vizzmay,"Script-Gujarati,in-evaluation"
+315,1771,False,2020-06-19 13:45:07+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation,wrong glyph(s)"
+316,1770,False,2020-06-19 01:59:15+00:00,,marekjez86,"BIS-2020-Changes,Script-Oriya,in-evaluation"
+317,1769,True,2020-06-19 01:58:10+00:00,2020-10-23 15:04:36+00:00,marekjez86,"BIS-2020-Changes,Script-OlChiki"
+318,1768,True,2020-06-19 01:46:21+00:00,2020-10-25 22:59:28+00:00,marekjez86,"BIS-2020-Changes,Script-Gujarati"
+319,1767,True,2020-06-17 03:54:41+00:00,2020-06-17 12:46:44+00:00,iwsfutcmd,
+320,1766,True,2020-06-16 20:54:03+00:00,2020-06-20 03:57:44+00:00,nik-suri,"Script-Devanagari,app-dependent-behavior"
+321,1765,True,2020-06-08 07:58:24+00:00,2020-06-10 21:22:25+00:00,nidhi-wgl,
+322,1764,True,2020-06-06 16:24:00+00:00,2020-06-10 21:22:48+00:00,louiseyousre888,
+323,1763,False,2020-06-02 08:47:08+00:00,,ClintGoss,Script-Monospace
+324,1762,True,2020-06-02 01:25:17+00:00,2020-06-12 05:29:05+00:00,lianghai,Script-Nushu
+325,1761,False,2020-06-01 16:17:05+00:00,,lianghai,"Script-GunjalaGondi,in-evaluation"
+326,1760,False,2020-05-31 01:17:51+00:00,,omor1,"Script-Phoenician,app-dependent-behavior,in-evaluation"
+327,1759,False,2020-05-29 15:38:26+00:00,,vizzmay,"Script-Gujarati,in-evaluation"
+328,1758,False,2020-05-28 16:02:24+00:00,,vizzmay,"Script-Gujarati,in-evaluation"
+329,1757,False,2020-05-27 09:39:42+00:00,,bhansali-mukesh,Script-CJK
+330,1756,True,2020-05-26 04:26:12+00:00,2020-05-28 07:00:38+00:00,georgioajency,Platform-Windows
+331,1755,False,2020-05-24 05:39:14+00:00,,vvasuki,"Script-Modi,in-evaluation"
+332,1754,False,2020-05-24 05:24:35+00:00,,vvasuki,"Script-Brahmi,in-evaluation"
+333,1753,False,2020-05-24 05:19:30+00:00,,vvasuki,"Script-Sharada,in-evaluation"
+334,1752,False,2020-05-16 04:34:20+00:00,,vvasuki,"Script-Gujarati,in-evaluation"
+335,1751,True,2020-05-15 13:23:33+00:00,2020-05-18 17:04:40+00:00,nik9hil,Script-Takri
+336,1750,False,2020-05-15 12:53:23+00:00,,dscorbett,"Script-Dogra,in-evaluation"
+337,1749,False,2020-05-15 08:31:26+00:00,,Arloka,"Script-TaiTham,in-evaluation"
+338,1748,False,2020-05-14 12:57:28+00:00,,dscorbett,"Script-ZanabazarSquare,in-evaluation"
+339,1747,False,2020-05-14 12:10:49+00:00,,tarrinw,"Script-LatinGreekCyrillic,in-evaluation"
+340,1746,False,2020-05-13 14:40:19+00:00,,dscorbett,"Script-ZanabazarSquare,in-evaluation"
+341,1745,False,2020-05-12 14:39:48+00:00,,dscorbett,"Script-ZanabazarSquare,in-evaluation"
+342,1744,True,2020-05-11 21:01:59+00:00,2020-06-01 17:37:42+00:00,dscorbett,Script-ZanabazarSquare
+343,1743,True,2020-05-10 15:23:55+00:00,2020-05-23 09:37:40+00:00,nik9hil,Script-Takri
+344,1742,True,2020-05-10 15:00:17+00:00,2020-05-19 02:22:02+00:00,nik9hil,Script-Takri
+345,1741,True,2020-05-10 14:23:23+00:00,2020-05-19 02:21:48+00:00,nik9hil,Script-Takri
+346,1740,False,2020-05-10 14:07:14+00:00,,dscorbett,"Script-Khudawadi,in-evaluation"
+347,1739,True,2020-05-09 15:15:06+00:00,2020-08-26 20:30:31+00:00,dscorbett,Script-TaiTham
+348,1738,False,2020-05-09 01:45:45+00:00,,agguser,"Script-Myanmar,design-question,in-evaluation"
+349,1737,False,2020-05-08 18:47:06+00:00,,dscorbett,"Script-TaiTham,in-evaluation"
+350,1736,False,2020-05-07 18:35:45+00:00,,dscorbett,"Script-TaiTham,design-question,in-evaluation"
+351,1735,False,2020-05-06 23:47:56+00:00,,dscorbett,"Script-Modi,design-question,in-evaluation"
+352,1734,False,2020-05-06 01:02:01+00:00,,dscorbett,"Script-Lepcha,in-evaluation"
+353,1733,False,2020-05-05 02:28:30+00:00,,dscorbett,"Script-Tirhuta,in-evaluation"
+354,1732,False,2020-05-03 21:01:38+00:00,,dscorbett,"Script-Symbol,in-evaluation"
+355,1731,False,2020-05-02 21:34:26+00:00,,dscorbett,"ExpertReview,Script-Devanagari,in-evaluation"
+356,1730,False,2020-05-01 21:25:30+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+357,1729,False,2020-04-30 20:58:35+00:00,,dscorbett,"Script-Symbol,in-evaluation"
+358,1728,False,2020-04-30 20:22:06+00:00,,olow,ExternalDependency
+359,1727,False,2020-04-29 13:56:58+00:00,,dscorbett,"Script-Tibetan,design-question,in-evaluation"
+360,1726,True,2020-04-29 03:57:16+00:00,2020-09-09 20:54:06+00:00,toddbeeby,Script-Tibetan
+361,1725,True,2020-04-28 13:37:18+00:00,2020-09-13 05:13:53+00:00,dscorbett,Script-Marchen
+362,1724,False,2020-04-28 02:02:07+00:00,,dscorbett,"Script-Soyombo,in-evaluation"
+363,1723,False,2020-04-26 21:21:50+00:00,,dscorbett,"Script-Devanagari,in-evaluation"
+364,1722,False,2020-04-26 01:12:22+00:00,,dscorbett,"Script-Bhaiksuki,in-evaluation"
+365,1721,False,2020-04-24 15:20:19+00:00,,dscorbett,"Script-Music,design-question,in-evaluation"
+366,1720,False,2020-04-23 23:17:34+00:00,,dscorbett,"Script-Tirhuta,in-evaluation"
+367,1719,False,2020-04-23 01:36:32+00:00,,dscorbett,Script-EgyptianHieroglyphs
+368,1718,False,2020-04-21 20:26:21+00:00,,dscorbett,"Script-Bhaiksuki,in-evaluation"
+369,1717,False,2020-04-20 21:16:10+00:00,,dscorbett,Script-Newa
+370,1716,False,2020-04-19 18:04:28+00:00,,dscorbett,Script-Newa
+371,1715,False,2020-04-19 01:35:15+00:00,,dscorbett,"Script-Tamil,in-evaluation"
+372,1714,False,2020-04-17 14:04:58+00:00,,dscorbett,Script-CanadianAboriginal
+373,1713,False,2020-04-16 19:43:26+00:00,,vizzmay,"Script-Gujarati,in-evaluation"
+374,1712,False,2020-04-16 13:51:27+00:00,,dscorbett,Script-Grantha
+375,1711,False,2020-04-15 14:29:05+00:00,,dscorbett,Script-Myanmar
+376,1710,False,2020-04-15 02:29:58+00:00,,arrowtype,
+377,1709,False,2020-04-14 19:47:19+00:00,,dscorbett,Script-Myanmar
+378,1708,True,2020-04-14 15:42:52+00:00,2020-04-14 17:56:57+00:00,dscorbett,
+379,1707,False,2020-04-13 20:43:13+00:00,,dscorbett,"Script-MasaramGondi,in-evaluation"
+380,1706,False,2020-04-13 14:56:45+00:00,,vizzmay,"Script-Gujarati,in-evaluation"
+381,1705,True,2020-04-13 02:36:15+00:00,2020-09-13 23:10:48+00:00,karthikraman,Script-Grantha
+382,1704,False,2020-04-12 18:50:17+00:00,,vizzmay,"Script-Gujarati,in-evaluation"
+383,1703,False,2020-04-12 18:17:54+00:00,,vizzmay,"Script-Devanagari,in-evaluation"
+384,1702,False,2020-04-12 12:59:05+00:00,,dscorbett,Script-GunjalaGondi
+385,1701,False,2020-04-11 21:03:00+00:00,,dscorbett,Script-Tifinagh
+386,1700,False,2020-04-10 23:39:33+00:00,,dscorbett,"Script-Math,design-question,wrong glyph(s)"
+387,1699,False,2020-04-09 13:40:56+00:00,,dscorbett,"Script-Symbol,in-evaluation,wrong glyph(s)"
+388,1698,False,2020-04-08 14:19:47+00:00,,dscorbett,"Script-Tamil,in-evaluation"
+389,1697,True,2020-04-08 02:34:30+00:00,2020-09-14 03:10:34+00:00,dscorbett,Script-Malayalam
+390,1696,False,2020-04-06 22:54:01+00:00,,kmuncie,"Script-LatinGreekCyrillic,in-evaluation"
+391,1695,False,2020-04-06 22:20:49+00:00,,dscorbett,Script-OldSogdian
+392,1694,True,2020-04-05 21:57:25+00:00,2020-05-19 02:21:34+00:00,dscorbett,Script-Takri
+393,1693,True,2020-04-04 15:16:11+00:00,2020-05-19 02:21:22+00:00,dscorbett,Script-Takri
+394,1692,False,2020-04-04 00:35:38+00:00,,dscorbett,"Script-Modi,in-evaluation"
+395,1691,True,2020-04-03 12:05:03+00:00,2020-10-31 23:41:12+00:00,yn0793,"Script-Symbol,wrong glyph(s)"
+396,1690,False,2020-04-02 22:40:33+00:00,,dscorbett,"Script-Modi,design-question,in-evaluation"
+397,1689,False,2020-04-01 13:56:27+00:00,,dscorbett,Script-Elymaic
+398,1688,True,2020-03-31 23:31:57+00:00,2020-10-02 02:08:33+00:00,kmuncie,Script-Khmer
+399,1687,False,2020-03-31 16:56:02+00:00,,dscorbett,Script-Mandaic
+400,1686,True,2020-03-30 16:08:02+00:00,2020-11-24 06:55:07+00:00,dscorbett,Script-Arabic
+401,1685,False,2020-03-29 14:41:07+00:00,,dscorbett,"ProductManagement,Script-Syriac,in-evaluation"
+402,1684,False,2020-03-29 02:29:12+00:00,,dscorbett,"Script-Soyombo,in-evaluation"
+403,1683,False,2020-03-28 12:47:50+00:00,,r12a,"Script-Syriac,in-evaluation"
+404,1682,False,2020-03-28 00:11:15+00:00,,dscorbett,Script-Tirhuta
+405,1681,False,2020-03-27 22:12:50+00:00,,aniket1k,"Script-Modi,design-question,in-evaluation"
+406,1680,False,2020-03-26 13:44:40+00:00,,dscorbett,Script-Tirhuta
+407,1679,False,2020-03-25 19:42:46+00:00,,dscorbett,
+408,1678,False,2020-03-24 06:44:08+00:00,,sameerma01,"Script-CJK,app-dependent-behavior"
+409,1677,False,2020-03-11 01:48:12+00:00,,dscorbett,"Script-LatinGreekCyrillic,wrong glyph(s)"
+410,1676,False,2020-03-09 13:52:29+00:00,,dscorbett,"Sans,Serif"
+411,1675,False,2020-03-08 16:07:19+00:00,,dscorbett,wrong glyph(s)
+412,1674,False,2020-03-07 15:01:15+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+413,1673,False,2020-03-07 00:21:44+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+414,1672,True,2020-03-02 16:06:36+00:00,2020-06-27 19:42:44+00:00,vk-github18,Script-LatinGreekCyrillic
+415,1671,False,2020-02-03 19:07:41+00:00,,kmuncie,"Script-Myanmar,in-evaluation"
+416,1670,True,2020-01-24 18:43:02+00:00,2021-02-19 13:42:12+00:00,punchcutter,Script-Bhaiksuki
+417,1669,False,2020-01-21 20:42:05+00:00,,dscorbett,Script-Elymaic
+418,1668,True,2020-01-21 11:53:19+00:00,2020-05-20 23:49:32+00:00,schwantuschke,Script-Arabic
+419,1667,False,2020-01-21 04:06:08+00:00,,dscorbett,Script-Elymaic
+420,1666,False,2020-01-17 18:58:48+00:00,,dscorbett,Script-Tirhuta
+421,1665,False,2020-01-16 19:57:21+00:00,,dscorbett,Script-Tirhuta
+422,1664,False,2020-01-15 18:14:43+00:00,,dscorbett,Script-Manichaean
+423,1663,False,2020-01-15 14:30:54+00:00,,thlinard,"Other-Enhancement,merge-fonts"
+424,1662,True,2020-01-15 11:30:45+00:00,2020-01-21 13:40:24+00:00,ghost,
+425,1661,False,2020-01-14 21:09:42+00:00,,dscorbett,Script-Tibetan
+426,1660,False,2020-01-13 18:34:21+00:00,,dscorbett,Script-Tibetan
+427,1659,False,2020-01-12 18:49:31+00:00,,dscorbett,Script-Tibetan
+428,1658,False,2020-01-11 21:03:10+00:00,,dscorbett,Script-Tibetan
+429,1657,False,2020-01-10 16:44:26+00:00,,dscorbett,Script-Tibetan
+430,1656,False,2020-01-09 16:17:52+00:00,,dscorbett,Script-Tibetan
+431,1655,False,2020-01-09 00:58:36+00:00,,dscorbett,Script-Tibetan
+432,1654,False,2020-01-08 03:12:35+00:00,,dscorbett,Script-Adlam
+433,1653,True,2020-01-06 15:57:29+00:00,2020-09-27 17:20:19+00:00,dscorbett,Script-Adlam
+434,1652,True,2020-01-06 07:38:08+00:00,2020-11-12 09:07:35+00:00,ghost,Script-OldHungarian
+435,1651,True,2020-01-06 06:26:41+00:00,2020-01-12 06:03:09+00:00,ghost,
+436,1650,True,2020-01-06 06:21:55+00:00,2020-01-06 06:23:08+00:00,ghost,
+437,1649,False,2020-01-05 16:50:27+00:00,,dscorbett,Script-Adlam
+438,1648,False,2020-01-04 17:33:58+00:00,,dscorbett,Script-Tibetan
+439,1647,True,2020-01-04 17:29:08+00:00,2020-01-06 05:47:27+00:00,ghost,
+440,1646,True,2020-01-04 16:29:04+00:00,2020-01-04 17:05:49+00:00,ghost,
+441,1645,False,2020-01-03 03:49:59+00:00,,dscorbett,Script-Tibetan
+442,1644,False,2020-01-01 19:23:45+00:00,,dscorbett,Script-Chakma
+443,1643,False,2019-12-31 15:16:51+00:00,,dscorbett,Script-Chakma
+444,1642,False,2019-12-31 15:11:47+00:00,,marekjez86,"Script-Tibetan,Variable,in-evaluation"
+445,1641,False,2019-12-30 16:36:26+00:00,,dscorbett,Script-Chakma
+446,1640,False,2019-12-30 02:15:24+00:00,,dscorbett,Script-Chakma
+447,1639,False,2019-12-28 20:34:15+00:00,,dscorbett,Script-Hebrew
+448,1638,True,2019-12-27 21:03:35+00:00,2020-12-23 20:15:20+00:00,dscorbett,Script-Hebrew
+449,1637,True,2019-12-26 14:22:43+00:00,2020-08-04 20:26:14+00:00,dscorbett,Script-Hebrew
+450,1636,True,2019-12-25 14:50:04+00:00,2020-12-23 20:15:21+00:00,dscorbett,Script-Hebrew
+451,1635,False,2019-12-24 02:00:23+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation,wrong glyph(s)"
+452,1634,False,2019-12-22 21:25:13+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+453,1633,False,2019-12-21 16:56:08+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation,wrong glyph(s)"
+454,1632,False,2019-12-21 02:15:30+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+455,1631,False,2019-12-19 17:34:52+00:00,,SurayaAtouraya,"Script-Syriac,in-evaluation"
+456,1630,False,2019-12-17 16:09:04+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+457,1629,True,2019-12-16 07:21:23+00:00,2020-09-18 04:34:25+00:00,vapier,Script-Monospace
+458,1628,False,2019-12-09 17:55:53+00:00,,devosb,"Script-Bengali,in-evaluation"
+459,1627,True,2019-12-08 06:44:26+00:00,2020-03-10 18:39:09+00:00,SalviaSage,Script-Gujarati
+460,1626,True,2019-12-08 06:31:00+00:00,2020-06-16 05:49:04+00:00,SalviaSage,Script-Kannada
+461,1625,False,2019-12-08 05:37:22+00:00,,SalviaSage,Script-Makasar
+462,1624,True,2019-12-04 21:35:48+00:00,2021-01-09 01:33:28+00:00,dscorbett,"Script-Arabic,wrong glyph(s)"
+463,1623,True,2019-12-04 00:08:04+00:00,2021-03-17 19:42:43+00:00,devosb,Script-Limbu
+464,1622,True,2019-12-03 04:09:00+00:00,2020-06-16 06:05:38+00:00,MayuraVerma,Script-Kannada
+465,1621,True,2019-12-02 09:35:24+00:00,2020-06-29 04:34:38+00:00,ailintom,Script-LatinGreekCyrillic
+466,1620,False,2019-11-24 16:25:21+00:00,,saadatm,"Script-Urdu,in-evaluation"
+467,1619,False,2019-11-23 22:40:50+00:00,,digitalheir,"Script-Tifinagh,design-question"
+468,1618,False,2019-11-21 20:27:45+00:00,,felipesanches,*add to FAQ or documentation
+469,1617,True,2019-11-21 15:03:11+00:00,2020-11-17 01:56:08+00:00,visionario2,"Kufi,Sans,Script-Arabic"
+470,1616,False,2019-11-20 23:51:15+00:00,,dscorbett,"ExpertReview,Script-Armenian,in-evaluation"
+471,1615,False,2019-11-13 18:44:13+00:00,,MayuraVerma,"Script-Kannada,app-dependent-behavior,in-evaluation,os-dependent-behavior"
+472,1614,False,2019-11-13 16:25:02+00:00,,dscorbett,"Script-Soyombo,in-evaluation"
+473,1613,False,2019-11-12 18:41:32+00:00,,dscorbett,Script-OldSogdian
+474,1612,False,2019-11-07 21:13:47+00:00,,dscorbett,Script-Manichaean
+475,1611,False,2019-11-06 21:43:56+00:00,,dscorbett,Script-OldSogdian
+476,1610,True,2019-11-05 14:03:47+00:00,2020-12-07 00:31:51+00:00,dscorbett,"Priority-Medium,Sans,Script-Arabic"
+477,1609,True,2019-11-05 05:38:26+00:00,2019-11-12 05:23:01+00:00,SalviaSage,Script-Sogdian
+478,1608,True,2019-11-04 19:32:49+00:00,2020-06-11 04:53:52+00:00,dscorbett,Script-Bengali
+479,1607,False,2019-11-04 01:16:44+00:00,,Etewilak,"Script-Nastaliq,in-evaluation"
+480,1606,False,2019-11-03 19:23:59+00:00,,dscorbett,Script-Khojki
+481,1605,False,2019-11-02 16:46:34+00:00,,dscorbett,Script-Kaithi
+482,1604,False,2019-11-01 21:27:10+00:00,,Sagir8453,"Script-Kaithi,in-evaluation,wrong glyph(s)"
+483,1603,False,2019-11-01 19:49:37+00:00,,dscorbett,Script-LatinGreekCyrillic
+484,1602,False,2019-10-30 17:59:36+00:00,,dscorbett,Script-Wancho
+485,1601,False,2019-10-29 17:32:50+00:00,,dscorbett,Script-Khudawadi
+486,1600,False,2019-10-28 20:56:06+00:00,,dscorbett,Script-PsalterPahlavi
+487,1599,True,2019-10-28 12:44:12+00:00,2020-06-12 03:36:36+00:00,mdqara,"Platform-Windows,Script-Arabic"
+488,1598,False,2019-10-27 13:53:42+00:00,,dscorbett,Script-Georgian
+489,1597,False,2019-10-26 20:13:45+00:00,,dscorbett,Script-MasaramGondi
+490,1596,False,2019-10-25 16:11:15+00:00,,dscorbett,Script-GunjalaGondi
+491,1595,False,2019-10-25 01:38:13+00:00,,dscorbett,"Script-Tifinagh,wrong glyph(s)"
+492,1594,False,2019-10-23 22:10:08+00:00,,Dico200,Platform-Java
+493,1593,False,2019-10-22 19:46:50+00:00,,dscorbett,"Script-Devanagari,in-evaluation"
+494,1592,False,2019-10-21 15:42:22+00:00,,dscorbett,"Script-Devanagari,in-evaluation"
+495,1591,False,2019-10-20 16:25:11+00:00,,dscorbett,"Script-Devanagari,in-evaluation"
+496,1590,False,2019-10-18 20:51:40+00:00,,dscorbett,"Script-Bengali,in-evaluation"
+497,1589,True,2019-10-13 20:55:59+00:00,2020-10-23 00:46:18+00:00,dscorbett,"Kufi,Priority-High,Script-Arabic"
+498,1588,False,2019-10-12 14:14:18+00:00,,dscorbett,"Nastaliq,Script-Arabic,evaluation-completed"
+499,1587,False,2019-10-11 16:02:24+00:00,,dscorbett,"Script-Arabic,in-evaluation"
+500,1586,False,2019-10-07 10:49:20+00:00,,madig,Script-Syriac
+501,1585,True,2019-10-06 13:22:13+00:00,2020-10-07 19:13:43+00:00,dscorbett,"Script-ZanabazarSquare,wrong glyph(s)"
+502,1584,False,2019-10-05 22:48:29+00:00,,dscorbett,Script-Dogra
+503,1583,True,2019-10-03 11:47:26+00:00,2019-10-03 11:58:20+00:00,Kage-Yami,
+504,1582,False,2019-09-29 01:44:01+00:00,,dscorbett,Script-Dogra
+505,1581,False,2019-09-27 18:24:51+00:00,,dscorbett,Script-ZanabazarSquare
+506,1580,False,2019-09-25 18:52:51+00:00,,dscorbett,Script-Dogra
+507,1579,True,2019-09-25 15:25:21+00:00,2020-03-10 18:37:18+00:00,vsayikiran,Script-Telugu
+508,1578,False,2019-09-24 13:23:58+00:00,,dscorbett,Script-Dogra
+509,1577,True,2019-09-21 22:25:02+00:00,2020-09-19 05:53:23+00:00,Singkiring57,Script-WarangCiti
+510,1576,True,2019-09-21 11:56:48+00:00,2020-06-17 04:57:10+00:00,rali20,Script-Kannada
+511,1575,False,2019-09-17 19:17:22+00:00,,htruong,Noto-Process-Issue
+512,1574,False,2019-09-14 10:41:55+00:00,,saadatm,"Script-Nastaliq,design-question,in-evaluation"
+513,1573,True,2019-09-09 12:05:10+00:00,2020-06-29 04:50:31+00:00,mkpoli,Script-LatinGreekCyrillic
+514,1572,False,2019-09-03 14:56:28+00:00,,ijaradnam,Script-Siddham
+515,1571,False,2019-08-30 22:50:47+00:00,,iwsfutcmd,Script-Tifinagh
+516,1570,False,2019-08-26 00:53:23+00:00,,verdy-p,"Script-Syriac,in-evaluation"
+517,1569,True,2019-08-25 21:22:46+00:00,2019-08-28 17:47:26+00:00,david-young-fax,
+518,1568,False,2019-08-24 00:19:41+00:00,,verdy-p,Component-Website
+519,1567,True,2019-08-18 09:50:57+00:00,2019-09-27 05:14:08+00:00,ghost,Script-OldHungarian
+520,1566,False,2019-08-01 07:52:10+00:00,,KazunariTsuboi,Platform-Windows
+521,1565,False,2019-07-31 23:41:49+00:00,,avitaleli,"Script-Hebrew,in-evaluation,merge-fonts"
+522,1564,True,2019-07-26 12:45:31+00:00,2019-07-30 10:21:28+00:00,robinwhittleton,
+523,1563,False,2019-07-22 18:02:01+00:00,,Sagir8453,"Script-Siddham,in-evaluation"
+524,1562,False,2019-07-20 09:02:04+00:00,,verdy-p,"Script-Symbol,in-evaluation"
+525,1561,False,2019-07-20 06:53:10+00:00,,verdy-p,Noto-Process-Issue
+526,1560,True,2019-07-19 12:51:14+00:00,2019-07-23 21:02:10+00:00,ashakoshti1988,
+527,1559,True,2019-07-15 20:13:20+00:00,2019-12-04 19:09:32+00:00,mrg0lden,Script-Arabic
+528,1558,False,2019-07-12 20:04:44+00:00,,CJLippert,Script-CanadianAboriginal
+529,1557,False,2019-07-12 14:56:23+00:00,,kmuncie,"Script-LatinGreekCyrillic,in-evaluation"
+530,1556,False,2019-07-11 05:59:06+00:00,,KazunariTsuboi,Script-Mongolian
+531,1555,True,2019-07-10 18:27:58+00:00,2020-10-28 05:26:44+00:00,kmuncie,"Priority-High,Sans,Script-Arabic"
+532,1554,False,2019-07-09 09:39:18+00:00,,mhosken,Script-Myanmar
+533,1553,False,2019-07-09 01:36:53+00:00,,verdy-p,"Script-LatinGreekCyrillic,in-evaluation"
+534,1552,False,2019-07-07 12:19:06+00:00,,dscorbett,Script-Chakma
+535,1551,False,2019-07-07 11:36:28+00:00,,sridatta1,"Script-Devanagari,in-evaluation"
+536,1550,False,2019-07-05 03:56:45+00:00,,dscorbett,Script-Manichaean
+537,1549,False,2019-07-04 02:28:45+00:00,,dscorbett,Script-Myanmar
+538,1548,True,2019-07-04 02:28:31+00:00,2020-03-10 18:39:50+00:00,KazunariTsuboi,Script-Gujarati
+539,1547,False,2019-07-03 22:28:23+00:00,,cssobral2013,"Script-LatinGreekCyrillic,in-evaluation"
+540,1546,False,2019-07-02 16:44:26+00:00,,dscorbett,Script-Chakma
+541,1545,True,2019-07-02 13:23:53+00:00,2020-01-23 01:30:17+00:00,jthomerson,
+542,1544,False,2019-07-01 19:19:51+00:00,,dscorbett,Script-Chakma
+543,1543,True,2019-06-30 17:52:41+00:00,2020-02-06 10:43:07+00:00,khaledhosny,Script-Tibetan
+544,1542,True,2019-06-29 08:30:04+00:00,2020-06-12 03:34:24+00:00,mdqara,"Platform-Windows,Script-Arabic,app-dependent-behavior"
+545,1541,False,2019-06-28 14:46:37+00:00,,dscorbett,Script-Lepcha
+546,1540,True,2019-06-28 00:53:17+00:00,2020-06-23 01:16:26+00:00,KazunariTsuboi,Script-Tibetan
+547,1539,False,2019-06-28 00:36:38+00:00,,KazunariTsuboi,"Platform-Windows,Script-Tibetan"
+548,1538,False,2019-06-26 02:28:04+00:00,,dscorbett,"Script-HanifiRohingya,design-question"
+549,1537,True,2019-06-25 00:26:54+00:00,2020-03-10 18:44:01+00:00,KazunariTsuboi,Script-Gujarati
+550,1536,False,2019-06-21 01:22:09+00:00,,dscorbett,Script-Myanmar
+551,1535,False,2019-06-19 19:49:44+00:00,,dscorbett,Script-Myanmar
+552,1534,False,2019-06-19 07:36:56+00:00,,KazunariTsuboi,"Script-Gujarati,in-evaluation"
+553,1533,True,2019-06-19 06:10:31+00:00,2019-06-30 14:24:36+00:00,KazunariTsuboi,"Script-LatinGreekCyrillic,Script-Monospace"
+554,1532,True,2019-06-19 00:28:26+00:00,2020-06-25 20:07:28+00:00,jungshik,Script-Tamil
+555,1531,False,2019-06-18 12:56:27+00:00,,dscorbett,Script-Myanmar
+556,1530,False,2019-06-17 14:44:26+00:00,,dscorbett,Script-Myanmar
+557,1529,False,2019-06-16 14:20:41+00:00,,dscorbett,"Script-Tibetan,wrong glyph(s)"
+558,1528,False,2019-06-15 19:39:45+00:00,,dscorbett,Script-Tibetan
+559,1527,False,2019-06-14 12:06:39+00:00,,dscorbett,Script-Tibetan
+560,1526,False,2019-06-13 10:55:58+00:00,,mdqara,"Platform-Windows,Script-Arabic,Status-Unreproducible,app-dependent-behavior"
+561,1525,False,2019-06-11 13:24:05+00:00,,dscorbett,Script-Myanmar
+562,1524,False,2019-06-10 15:06:08+00:00,,dscorbett,"Script-Myanmar,wrong glyph(s)"
+563,1523,False,2019-06-09 12:52:51+00:00,,dscorbett,Script-Myanmar
+564,1522,False,2019-06-06 13:08:10+00:00,,dscorbett,Script-Siddham
+565,1521,False,2019-06-05 18:18:57+00:00,,dscorbett,Script-Siddham
+566,1520,False,2019-06-04 16:17:33+00:00,,dscorbett,Script-Siddham
+567,1519,False,2019-06-03 12:55:10+00:00,,dscorbett,Script-Siddham
+568,1518,False,2019-06-01 14:40:35+00:00,,dscorbett,Script-Balinese
+569,1517,True,2019-05-26 07:28:47+00:00,2021-02-12 04:19:44+00:00,jungshik,Noto-Process-Issue
+570,1516,False,2019-05-22 23:50:48+00:00,,dscorbett,"Script-Math,in-evaluation"
+571,1515,False,2019-05-22 23:48:36+00:00,,jungshik,Other-Defect
+572,1514,True,2019-05-19 16:36:32+00:00,2019-05-22 04:10:14+00:00,thammarith,"Platform-Windows,Script-Thai,app-dependent-behavior"
+573,1513,True,2019-05-19 16:34:39+00:00,2019-07-23 13:41:25+00:00,Azzert,Script-LatinGreekCyrillic
+574,1512,False,2019-05-18 22:27:49+00:00,,dscorbett,Script-Newa
+575,1511,False,2019-05-17 16:26:55+00:00,,dscorbett,Script-Newa
+576,1510,True,2019-05-14 10:10:59+00:00,2019-06-21 23:38:31+00:00,lyvrus,"Script-LatinGreekCyrillic,Type-Enhancement"
+577,1509,True,2019-05-12 07:25:08+00:00,2019-07-05 06:41:55+00:00,ghost,"Other-Enhancement,Script-OldHungarian"
+578,1508,False,2019-05-11 15:47:51+00:00,,cssobral2013,Other-Enhancement
+579,1507,False,2019-05-10 16:49:44+00:00,,dscorbett,Script-Tirhuta
+580,1506,False,2019-05-06 15:52:42+00:00,,dscorbett,Script-Balinese
+581,1505,False,2019-05-06 00:07:53+00:00,,dscorbett,Script-Syriac
+582,1504,False,2019-05-04 14:30:45+00:00,,dscorbett,Script-Mandaic
+583,1503,False,2019-05-03 15:52:06+00:00,,dscorbett,Script-Tangut
+584,1502,False,2019-05-02 18:43:17+00:00,,sven-oly,Script-Adlam
+585,1501,True,2019-05-02 18:36:50+00:00,2020-09-25 05:35:38+00:00,sven-oly,Script-Adlam
+586,1500,False,2019-05-02 15:39:01+00:00,,dscorbett,Script-MeeteiMayek
+587,1499,True,2019-05-02 01:32:04+00:00,2020-06-30 05:11:55+00:00,alercah,Script-LatinGreekCyrillic
+588,1498,False,2019-05-01 14:30:00+00:00,,dscorbett,Script-Saurashtra
+589,1497,False,2019-04-30 13:37:33+00:00,,dscorbett,Script-Phagspa
+590,1496,True,2019-04-30 12:46:02+00:00,2020-06-30 05:54:57+00:00,Kogurex,"Script-LatinGreekCyrillic,Script-Monospace"
+591,1495,False,2019-04-29 14:04:56+00:00,,dscorbett,Script-MeeteiMayek
+592,1494,False,2019-04-29 05:39:53+00:00,,jhuits,Script-LatinGreekCyrillic
+593,1493,False,2019-04-28 16:31:59+00:00,,dscorbett,Script-Saurashtra
+594,1492,False,2019-04-27 14:39:38+00:00,,dscorbett,Script-Syriac
+595,1491,True,2019-04-26 13:01:42+00:00,2019-08-28 21:08:19+00:00,dscorbett,Script-KayahLi
+596,1490,False,2019-04-25 15:18:13+00:00,,dscorbett,Script-Myanmar
+597,1489,False,2019-04-24 13:58:08+00:00,,dscorbett,Script-Tirhuta
+598,1488,False,2019-04-23 13:58:42+00:00,,dscorbett,Script-Myanmar
+599,1487,False,2019-04-22 14:18:11+00:00,,dscorbett,"Script-Ahom,in-evaluation"
+600,1486,False,2019-04-21 13:54:36+00:00,,dscorbett,Script-Myanmar
+601,1485,True,2019-04-21 08:11:01+00:00,2019-04-21 08:29:01+00:00,ghost,
+602,1484,True,2019-04-20 16:42:26+00:00,2020-06-25 21:11:11+00:00,dscorbett,Script-Ahom
+603,1483,True,2019-04-19 14:06:12+00:00,2020-06-25 21:16:43+00:00,dscorbett,Script-Ahom
+604,1482,False,2019-04-18 17:59:53+00:00,,dscorbett,"Script-Ahom,in-evaluation"
+605,1481,True,2019-04-18 15:27:54+00:00,2019-04-18 17:34:05+00:00,Ronser,"*multiScriptFontNeeded,Script-Arabic"
+606,1480,False,2019-04-12 08:22:54+00:00,,GPodkolzin,"Script-Hebrew,app-dependent-behavior"
+607,1479,False,2019-04-10 23:30:35+00:00,,dlevineBC,"Script-LatinGreekCyrillic,design-question,in-evaluation"
+608,1478,True,2019-04-10 20:54:42+00:00,2020-07-01 22:05:55+00:00,dlevineBC,Script-LatinGreekCyrillic
+609,1477,False,2019-04-08 17:52:03+00:00,,E-train-Liu,"Platform-Windows,Script-LatinGreekCyrillic,Script-Monospace,app-dependent-behavior,in-evaluation"
+610,1476,False,2019-03-25 03:02:37+00:00,,NorbertLindenberg,Script-Javanese
+611,1475,False,2019-03-25 02:50:51+00:00,,NorbertLindenberg,Script-Javanese
+612,1474,False,2019-03-25 02:40:11+00:00,,NorbertLindenberg,Script-Javanese
+613,1473,False,2019-03-25 02:27:30+00:00,,NorbertLindenberg,Script-Javanese
+614,1472,False,2019-03-24 19:48:57+00:00,,Sagir8453,"Script-Syloti-Nagri,design-question"
+615,1471,False,2019-03-19 09:30:59+00:00,,guocuozuoduo,Script-Lao
+616,1470,True,2019-03-14 11:19:29+00:00,2020-05-21 12:53:18+00:00,r12a,Script-Georgian
+617,1469,False,2019-03-11 11:29:43+00:00,,stone-zeng,Script-EgyptianHieroglyphs
+618,1468,False,2019-03-07 17:46:35+00:00,,kcohar,"Script-Symbol,app-dependent-behavior"
+619,1467,False,2019-03-06 03:05:24+00:00,,ghost,"Script-LatinGreekCyrillic,Script-Monospace,Type-Enhancement"
+620,1466,True,2019-03-04 02:26:51+00:00,2019-03-05 05:39:57+00:00,hechangjiu,Script-CJK
+621,1465,True,2019-03-02 22:43:53+00:00,2020-07-02 18:39:31+00:00,JonWFergus,"Platform-Windows,Script-LatinGreekCyrillic"
+622,1464,False,2019-03-01 22:00:19+00:00,,dscorbett,Script-Siddham
+623,1463,False,2019-03-01 03:01:27+00:00,,dscorbett,"Script-Monospace,Type-Enhancement"
+624,1462,True,2019-02-28 18:22:42+00:00,2019-03-01 18:07:10+00:00,ghost,Script-OldHungarian
+625,1461,True,2019-02-28 18:13:05+00:00,2019-02-28 18:14:22+00:00,ghost,
+626,1460,True,2019-02-27 22:03:56+00:00,2020-06-20 05:54:35+00:00,dscorbett,Script-Malayalam
+627,1459,True,2019-02-26 20:24:11+00:00,2019-05-18 05:12:21+00:00,dscorbett,Script-Malayalam
+628,1458,False,2019-02-25 20:26:56+00:00,,dscorbett,"Script-Brahmi,wrong glyph(s)"
+629,1457,True,2019-02-25 00:29:27+00:00,2019-10-02 23:52:44+00:00,dscorbett,Script-Devanagari
+630,1456,False,2019-02-23 20:44:42+00:00,,dscorbett,Script-Khojki
+631,1455,False,2019-02-22 19:58:51+00:00,,dscorbett,"Script-Gurmukhi,in-evaluation"
+632,1454,True,2019-02-21 21:25:36+00:00,2020-03-10 21:24:33+00:00,dscorbett,Script-Gurmukhi
+633,1453,False,2019-02-20 21:37:56+00:00,,dscorbett,Script-MeroiticCursive
+634,1452,True,2019-02-19 21:22:08+00:00,2020-06-22 22:07:47+00:00,robert-ross,
+635,1451,False,2019-02-19 20:04:59+00:00,,dscorbett,"Script-MeroiticCursive,Script-MeroiticHieroglyphs"
+636,1450,False,2019-02-18 22:54:08+00:00,,dscorbett,Script-Math
+637,1449,False,2019-02-17 23:16:54+00:00,,dscorbett,"Script-Symbol,in-evaluation"
+638,1448,True,2019-02-16 15:09:38+00:00,2019-05-18 03:39:30+00:00,dscorbett,Script-Math
+639,1447,True,2019-02-15 17:46:47+00:00,2019-05-18 03:07:58+00:00,dscorbett,Script-Math
+640,1446,False,2019-02-14 17:17:01+00:00,,dscorbett,Script-Math
+641,1445,False,2019-02-14 16:59:42+00:00,,cssobral2013,"Script-LatinGreekCyrillic,Type-Enhancement,in-evaluation"
+642,1444,False,2019-02-13 17:45:25+00:00,,dscorbett,"Script-Math,design-question"
+643,1443,False,2019-02-12 19:41:31+00:00,,dscorbett,"Script-Math,Type-Enhancement"
+644,1442,False,2019-02-11 17:08:48+00:00,,dscorbett,Script-Math
+645,1441,True,2019-02-10 23:03:42+00:00,2019-05-18 02:23:34+00:00,dscorbett,Script-Math
+646,1440,True,2019-02-10 08:20:57+00:00,2019-02-27 17:45:54+00:00,ghost,Script-OldHungarian
+647,1439,False,2019-02-09 17:00:25+00:00,,dscorbett,"Script-Math,Type-Enhancement"
+648,1438,False,2019-02-08 19:56:13+00:00,,dscorbett,"Script-Monospace,wrong glyph(s)"
+649,1437,True,2019-02-07 17:05:34+00:00,2019-05-18 02:23:19+00:00,dscorbett,Script-Math
+650,1436,False,2019-02-06 16:25:01+00:00,,dscorbett,Script-Math
+651,1435,True,2019-02-05 15:40:20+00:00,2019-05-18 03:23:15+00:00,dscorbett,Script-Math
+652,1434,True,2019-02-04 19:29:14+00:00,2019-05-18 02:26:34+00:00,dscorbett,Script-Math
+653,1433,True,2019-02-03 21:57:59+00:00,2019-11-01 20:13:54+00:00,dscorbett,Script-Kaithi
+654,1432,True,2019-02-03 00:28:06+00:00,2019-11-01 20:14:26+00:00,dscorbett,Script-Kaithi
+655,1431,False,2019-02-01 19:08:19+00:00,,dscorbett,"Script-LatinGreekCyrillic,design-question,in-evaluation,wrong glyph(s)"
+656,1430,True,2019-01-30 14:38:28+00:00,2020-06-17 05:03:31+00:00,mnavada,Script-Kannada
+657,1429,True,2019-01-28 22:07:59+00:00,2019-09-19 01:17:13+00:00,vinodvar,
+658,1428,False,2019-01-22 08:14:16+00:00,,silentmage,"Script-PahawhHmong,Type-Enhancement"
+659,1427,False,2019-01-20 05:20:27+00:00,,bennylin,Script-Javanese
+660,1426,True,2019-01-18 18:52:05+00:00,2019-01-20 01:57:49+00:00,bennylin,
+661,1425,False,2019-01-18 15:42:02+00:00,,bennylin,"Script-Javanese,wrong glyph(s)"
+662,1424,False,2019-01-15 23:46:58+00:00,,cssobral2013,"Script-LatinGreekCyrillic,Type-Enhancement"
+663,1423,False,2019-01-13 13:29:03+00:00,,Azzert,"Script-LatinGreekCyrillic,in-evaluation"
+664,1422,False,2019-01-10 15:21:55+00:00,,Sagir8453,"Script-Bengali,Script-Tirhuta,Type-Enhancement,in-evaluation,non-Traditional"
+665,1421,False,2019-01-10 14:49:28+00:00,,fketchakeu,"Script-Monospace,Type-Enhancement"
+666,1420,False,2019-01-10 14:44:18+00:00,,fketchakeu,"Script-Monospace,Type-Enhancement"
+667,1419,False,2019-01-08 21:13:22+00:00,,NeilSureshPatel,"Script-N'Ko,Type-Enhancement,Unicode-11"
+668,1418,True,2018-12-26 21:56:47+00:00,2020-07-06 20:21:44+00:00,ousia,"Script-LatinGreekCyrillic,Type-Enhancement"
+669,1417,False,2018-12-23 03:56:10+00:00,,mahalisyarifuddin,Script-Javanese
+670,1416,False,2018-12-20 23:11:31+00:00,,madig,"Script-LatinGreekCyrillic,Script-Monospace,Type-Enhancement,design-question,in-evaluation"
+671,1415,False,2018-12-20 17:44:43+00:00,,thomassuckow,"Script-Symbol,in-evaluation"
+672,1414,False,2018-12-20 01:04:43+00:00,,dscorbett,"Script-Mongolian,design-question,wrong glyph(s)"
+673,1413,False,2018-12-19 09:57:51+00:00,,mahalisyarifuddin,Script-Javanese
+674,1412,False,2018-12-19 07:13:12+00:00,,NorbertLindenberg,Script-Javanese
+675,1411,True,2018-12-18 15:32:52+00:00,2018-12-18 16:04:03+00:00,adtbayuperdana,
+676,1410,False,2018-12-13 19:03:23+00:00,,dscorbett,"Script-Tibetan,StylisticChoice"
+677,1409,True,2018-12-12 17:25:46+00:00,2019-06-13 19:54:40+00:00,dscorbett,Script-Tibetan
+678,1408,False,2018-12-10 19:59:02+00:00,,dscorbett,Script-Kaithi
+679,1407,False,2018-12-09 18:39:17+00:00,,alercah,"ArimoTinosCousine,in-evaluation"
+680,1406,False,2018-12-07 15:56:18+00:00,,dscorbett,"Script-LatinGreekCyrillic,Type-Enhancement,in-evaluation"
+681,1405,True,2018-12-06 21:35:39+00:00,2019-04-23 19:09:48+00:00,dscorbett,Script-Tirhuta
+682,1404,False,2018-12-06 00:47:33+00:00,,colemickens,Script-Monospace
+683,1403,True,2018-12-05 22:30:30+00:00,2019-04-23 19:08:36+00:00,dscorbett,Script-Tirhuta
+684,1402,True,2018-12-05 00:46:13+00:00,2019-03-20 19:07:12+00:00,dscorbett,"Script-Sharada,wrong glyph(s)"
+685,1401,False,2018-12-04 13:21:33+00:00,,Sagir8453,Script-Syloti-Nagri
+686,1400,False,2018-12-04 12:20:38+00:00,,Sagir8453,Script-Syloti-Nagri
+687,1399,True,2018-12-03 19:41:10+00:00,2019-11-01 20:15:28+00:00,dscorbett,Script-Kaithi
+688,1398,True,2018-12-02 19:40:50+00:00,2019-11-01 20:16:00+00:00,dscorbett,Script-Kaithi
+689,1397,False,2018-12-01 16:10:17+00:00,,dscorbett,Script-Grantha
+690,1396,True,2018-11-30 15:50:12+00:00,2019-02-23 10:50:09+00:00,dscorbett,Script-Khojki
+691,1395,True,2018-11-29 15:35:33+00:00,2020-07-02 19:54:14+00:00,dscorbett,Script-LatinGreekCyrillic
+692,1394,False,2018-11-28 18:41:48+00:00,,dscorbett,Script-CaucasianAlbanian
+693,1393,False,2018-11-27 18:37:00+00:00,,Tsengtsz,"Script-Deseret,wrong glyph(s)"
+694,1392,True,2018-11-27 16:42:25+00:00,2021-03-31 08:55:08+00:00,dscorbett,"Script-LatinGreekCyrillic,in-evaluation,wrong glyph(s)"
+695,1391,True,2018-11-26 19:08:55+00:00,2020-07-02 23:07:25+00:00,dscorbett,"Script-LatinGreekCyrillic,wrong glyph(s)"
+696,1390,True,2018-11-25 17:45:20+00:00,2019-03-20 19:07:59+00:00,dscorbett,Script-Sharada
+697,1389,True,2018-11-24 14:10:15+00:00,2019-03-20 19:08:35+00:00,dscorbett,Script-Sharada
+698,1388,False,2018-11-23 15:58:27+00:00,,dscorbett,"Script-Sharada,StylisticChoice,wrong glyph(s)"
+699,1387,True,2018-11-22 13:57:35+00:00,2019-03-20 19:09:11+00:00,dscorbett,Script-Sharada
+700,1386,False,2018-11-21 20:28:18+00:00,,dscorbett,Script-Sharada
+701,1385,True,2018-11-20 19:09:22+00:00,2020-03-26 17:50:11+00:00,dscorbett,Script-Bhaiksuki
+702,1384,False,2018-11-20 03:43:20+00:00,,dscorbett,Script-Grantha
+703,1383,False,2018-11-16 20:41:38+00:00,,dscorbett,Script-Elbasan
+704,1382,False,2018-11-16 04:52:01+00:00,,zenodotus,"Script-BassaVah,design-question"
+705,1381,False,2018-11-16 00:53:20+00:00,,dscorbett,Script-Grantha
+706,1380,True,2018-11-15 13:38:25+00:00,2018-12-04 06:04:04+00:00,davelab6,
+707,1379,True,2018-11-14 20:32:15+00:00,2019-05-16 17:02:33+00:00,dscorbett,Script-Newa
+708,1378,True,2018-11-13 15:47:34+00:00,2021-02-19 13:45:39+00:00,dscorbett,Script-Bhaiksuki
+709,1377,True,2018-11-12 18:22:55+00:00,2019-05-16 17:12:30+00:00,dscorbett,Script-Newa
+710,1376,False,2018-11-12 06:06:33+00:00,,phyllisstein,Script-Monospace
+711,1375,False,2018-11-11 17:38:48+00:00,,dscorbett,Script-Bhaiksuki
+712,1374,True,2018-11-10 22:03:41+00:00,2021-04-12 19:36:43+00:00,dscorbett,Script-OldHungarian
+713,1373,False,2018-11-09 23:59:55+00:00,,dscorbett,"Script-Sharada,StylisticChoice"
+714,1372,True,2018-11-08 19:39:23+00:00,2019-03-20 19:03:33+00:00,dscorbett,Script-Ahom
+715,1371,True,2018-11-08 04:20:24+00:00,2018-11-08 17:50:37+00:00,jungshik,Script-Arabic
+716,1370,True,2018-11-07 21:53:41+00:00,2019-05-16 17:32:37+00:00,dscorbett,Script-Newa
+717,1369,False,2018-11-05 16:04:25+00:00,,Pomax,Noto-Process-Issue
+718,1368,False,2018-11-04 22:34:37+00:00,,dscorbett,"Script-CypriotSyllabary,Script-LinearA"
+719,1367,False,2018-11-03 15:34:56+00:00,,dscorbett,"Script-Ethiopic,wrong glyph(s)"
+720,1366,False,2018-11-02 20:26:40+00:00,,dscorbett,Script-NewTaiLue
+721,1365,False,2018-11-02 01:11:58+00:00,,dscorbett,Script-Runic
+722,1364,True,2018-10-31 23:08:01+00:00,2021-04-12 19:36:44+00:00,dscorbett,Script-OldHungarian
+723,1363,False,2018-10-30 19:02:43+00:00,,dscorbett,Script-Elbasan
+724,1362,False,2018-10-29 20:55:20+00:00,,dscorbett,Script-Elbasan
+725,1361,True,2018-10-28 16:10:19+00:00,2019-03-20 19:03:04+00:00,dscorbett,"Script-Ahom,wrong glyph(s)"
+726,1360,True,2018-10-26 23:29:21+00:00,2019-03-20 19:04:14+00:00,dscorbett,"Script-Ahom,wrong glyph(s)"
+727,1359,True,2018-10-25 19:44:46+00:00,2019-03-20 19:05:49+00:00,dscorbett,Script-Ahom
+728,1358,True,2018-10-25 00:02:51+00:00,2019-03-20 19:06:43+00:00,dscorbett,Script-Ahom
+729,1357,True,2018-10-24 21:35:56+00:00,2018-10-25 16:00:18+00:00,ghost,
+730,1356,False,2018-10-24 01:49:05+00:00,,zeerakahmed,"Nastaliq,Script-Arabic,app-dependent-behavior"
+731,1355,False,2018-10-23 20:46:00+00:00,,sven-oly,Script-Myanmar
+732,1354,False,2018-10-23 18:23:44+00:00,,dscorbett,Script-Chakma
+733,1353,False,2018-10-22 21:58:51+00:00,,EricEnglert,"Nastaliq,Script-Arabic"
+734,1352,False,2018-10-22 21:52:06+00:00,,dscorbett,"Script-Modi,design-question,in-evaluation"
+735,1351,True,2018-10-21 23:55:08+00:00,2018-10-22 21:25:52+00:00,dscorbett,
+736,1350,False,2018-10-21 23:40:16+00:00,,dscorbett,"Script-LatinGreekCyrillic,Script-TaiViet,in-evaluation"
+737,1349,False,2018-10-21 01:09:53+00:00,,dscorbett,Script-TaiViet
+738,1348,False,2018-10-20 02:57:24+00:00,,minkyuxyz,Script-Phagspa
+739,1347,False,2018-10-20 00:10:17+00:00,,dscorbett,Script-Glagolitic
+740,1346,True,2018-10-18 20:54:32+00:00,2021-02-09 21:51:19+00:00,dscorbett,Script-Arabic
+741,1345,True,2018-10-17 15:45:16+00:00,2019-06-13 19:55:19+00:00,dscorbett,Script-Tibetan
+742,1344,True,2018-10-16 22:59:08+00:00,2019-06-13 19:56:02+00:00,dscorbett,Script-Tibetan
+743,1343,True,2018-10-15 23:24:02+00:00,2019-06-13 19:56:44+00:00,dscorbett,Script-Tibetan
+744,1342,False,2018-10-14 22:38:07+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+745,1341,True,2018-10-14 14:07:23+00:00,2020-06-17 05:12:27+00:00,sridatta1,Script-Kannada
+746,1340,True,2018-10-14 13:17:38+00:00,2020-05-17 10:13:13+00:00,sridatta1,Script-Kannada
+747,1339,True,2018-10-13 23:34:32+00:00,2019-06-13 19:57:49+00:00,dscorbett,Script-Tibetan
+748,1338,True,2018-10-13 15:34:46+00:00,2019-04-23 19:08:02+00:00,sridatta1,Script-Tirhuta
+749,1337,True,2018-10-13 01:33:35+00:00,2019-06-13 19:58:22+00:00,dscorbett,Script-Tibetan
+750,1336,False,2018-10-12 08:08:03+00:00,,adtbayuperdana,Script-Balinese
+751,1335,False,2018-10-12 07:48:44+00:00,,adtbayuperdana,Script-Balinese
+752,1334,False,2018-10-12 07:35:39+00:00,,adtbayuperdana,Script-Balinese
+753,1333,True,2018-10-12 00:25:03+00:00,2019-03-20 19:09:45+00:00,dscorbett,Script-Sharada
+754,1332,False,2018-10-11 09:06:51+00:00,,ThomBaker,"Script-LatinGreekCyrillic,in-evaluation"
+755,1331,False,2018-10-10 22:21:31+00:00,,dscorbett,Script-Takri
+756,1330,False,2018-10-10 13:53:02+00:00,,gschervish,WebFonts
+757,1329,True,2018-10-10 00:17:36+00:00,2019-04-23 19:05:31+00:00,dscorbett,Script-Tirhuta
+758,1328,False,2018-10-08 18:20:08+00:00,,davelab6,"Script-LatinGreekCyrillic,in-evaluation"
+759,1327,False,2018-10-08 14:57:33+00:00,,dscorbett,"Script-LatinGreekCyrillic,Type-Enhancement,in-evaluation"
+760,1326,False,2018-10-07 16:23:34+00:00,,dscorbett,Script-Cham
+761,1325,False,2018-10-06 15:49:35+00:00,,sridatta1,Script-Grantha
+762,1324,False,2018-10-06 15:38:41+00:00,,sridatta1,Script-Grantha
+763,1323,False,2018-10-06 13:51:23+00:00,,dscorbett,Script-Cham
+764,1322,False,2018-10-06 03:09:36+00:00,,dscorbett,Script-Grantha
+765,1321,False,2018-10-04 13:27:30+00:00,,dscorbett,Script-Grantha
+766,1320,False,2018-10-03 16:22:34+00:00,,dscorbett,Script-Grantha
+767,1319,True,2018-10-03 14:10:06+00:00,2020-06-18 16:04:26+00:00,sridatta1,Script-Grantha
+768,1318,False,2018-10-03 12:57:16+00:00,,sridatta1,Script-Grantha
+769,1317,False,2018-10-02 21:30:05+00:00,,dscorbett,"Script-Grantha,wrong glyph(s)"
+770,1316,False,2018-10-02 04:45:24+00:00,,sridatta1,Script-Grantha
+771,1315,False,2018-10-01 19:03:13+00:00,,dscorbett,Script-Sharada
+772,1314,True,2018-10-01 10:19:38+00:00,2018-10-08 16:51:35+00:00,kyungsik8090,Script-CJK
+773,1313,False,2018-09-30 13:22:14+00:00,,dscorbett,Script-Music
+774,1312,False,2018-09-30 01:07:17+00:00,,dscorbett,Script-Music
+775,1311,False,2018-09-29 03:03:37+00:00,,dscorbett,"Script-Music,design-question,wrong glyph(s)"
+776,1310,False,2018-09-28 02:33:16+00:00,,dscorbett,"Script-Music,wrong glyph(s)"
+777,1309,False,2018-09-26 13:47:13+00:00,,dscorbett,"Script-Modi,design-question,in-evaluation"
+778,1308,True,2018-09-25 13:56:27+00:00,2020-06-01 17:36:42+00:00,dscorbett,Script-WarangCiti
+779,1307,False,2018-09-24 13:43:50+00:00,,dscorbett,"Script-Multani,wrong glyph(s)"
+780,1306,True,2018-09-24 06:11:16+00:00,2021-02-19 13:40:44+00:00,punchcutter,Script-Bhaiksuki
+781,1305,True,2018-09-24 01:29:17+00:00,2020-07-13 21:02:29+00:00,einemarc,"Script-LatinGreekCyrillic,app-dependent-behavior"
+782,1304,False,2018-09-23 15:41:52+00:00,,dscorbett,Script-PsalterPahlavi
+783,1303,True,2018-09-23 13:51:05+00:00,2020-06-22 22:08:54+00:00,jeffmcneill,
+784,1302,True,2018-09-22 14:00:05+00:00,2021-03-30 15:00:13+00:00,dscorbett,Script-Miao
+785,1301,True,2018-09-21 14:43:48+00:00,2019-02-13 01:53:07+00:00,dscorbett,"Script-Math,wrong glyph(s)"
+786,1300,True,2018-09-20 13:40:06+00:00,2019-05-18 02:30:31+00:00,dscorbett,"Script-Math,wrong glyph(s)"
+787,1299,True,2018-09-19 13:56:58+00:00,2019-02-13 02:52:08+00:00,dscorbett,"Script-Math,wrong glyph(s)"
+788,1298,True,2018-09-18 16:45:51+00:00,2019-05-18 03:41:49+00:00,dscorbett,Script-Math
+789,1297,True,2018-09-17 18:27:53+00:00,2019-02-13 01:26:27+00:00,dscorbett,"Script-Math,wrong glyph(s)"
+790,1296,True,2018-09-17 03:01:32+00:00,2019-05-18 02:45:19+00:00,dscorbett,"Script-Math,wrong glyph(s)"
+791,1295,False,2018-09-15 17:11:51+00:00,,dscorbett,"Script-Kharoshthi,hinted"
+792,1294,True,2018-09-14 16:40:47+00:00,2020-06-17 05:49:04+00:00,chandrab699,"Platform-Windows,Script-Kannada,hinted"
+793,1293,True,2018-09-14 15:05:50+00:00,2020-06-17 06:21:12+00:00,MayuraVerma,"Platform-Windows,Script-Kannada,app-dependent-behavior,hinted"
+794,1292,True,2018-09-14 14:55:56+00:00,2019-02-13 01:17:33+00:00,dscorbett,"Script-Math,wrong glyph(s)"
+795,1291,True,2018-09-14 01:22:19+00:00,2018-12-18 13:22:57+00:00,iwsfutcmd,Script-Javanese
+796,1290,True,2018-09-13 13:56:56+00:00,2019-05-18 02:48:22+00:00,dscorbett,"Script-Math,wrong glyph(s)"
+797,1289,True,2018-09-12 13:44:23+00:00,2019-05-18 03:44:25+00:00,dscorbett,Script-Math
+798,1288,True,2018-09-11 19:53:09+00:00,2021-03-30 15:10:36+00:00,dscorbett,"Script-Miao,hinted"
+799,1287,False,2018-09-10 23:37:45+00:00,,cssobral2013,Script-LatinGreekCyrillic
+800,1286,True,2018-09-10 19:10:08+00:00,2020-07-25 06:00:23+00:00,dscorbett,"Script-Symbol,wrong glyph(s)"
+801,1285,False,2018-09-09 19:39:48+00:00,,dscorbett,Script-Duployan
+802,1284,False,2018-09-08 18:54:32+00:00,,dscorbett,Script-Duployan
+803,1283,False,2018-09-07 15:18:36+00:00,,dscorbett,Script-Phagspa
+804,1282,True,2018-09-07 08:13:25+00:00,2018-09-07 16:27:09+00:00,Eneen,
+805,1281,False,2018-09-06 21:14:54+00:00,,dscorbett,Script-Myanmar
+806,1280,False,2018-09-05 18:13:02+00:00,,dscorbett,Script-Myanmar
+807,1279,True,2018-09-05 05:14:14+00:00,2020-07-06 19:05:00+00:00,moyogo,"DM,Script-LatinGreekCyrillic"
+808,1278,False,2018-09-05 02:19:29+00:00,,dscorbett,Script-Myanmar
+809,1277,False,2018-09-03 13:36:37+00:00,,dscorbett,Script-Myanmar
+810,1276,False,2018-09-03 00:52:00+00:00,,dscorbett,"Script-Myanmar,in-evaluation"
+811,1275,False,2018-09-01 20:02:07+00:00,,dscorbett,Script-Phagspa
+812,1274,False,2018-08-30 18:33:06+00:00,,Lo-Dyih-Yuaan,Script-Phagspa
+813,1273,True,2018-08-30 09:21:28+00:00,2021-04-11 04:50:51+00:00,mohorko,"Platform-Windows,Script-LatinGreekCyrillic"
+814,1272,True,2018-08-27 14:10:08+00:00,2020-03-10 20:21:53+00:00,blagae,Script-Gujarati
+815,1271,True,2018-08-23 21:47:56+00:00,2018-08-29 21:37:21+00:00,cssobral2013,Script-LatinGreekCyrillic
+816,1270,False,2018-08-21 14:07:37+00:00,,annainfo,
+817,1269,True,2018-08-19 18:19:04+00:00,2018-08-19 18:29:15+00:00,superpoincare,
+818,1268,False,2018-08-19 14:12:34+00:00,,dscorbett,Script-Kharoshthi
+819,1267,True,2018-08-09 01:08:57+00:00,2020-10-31 04:04:59+00:00,dscorbett,"Monotype,Script-Arabic"
+820,1266,False,2018-08-07 19:33:56+00:00,,dscorbett,"Script-Arabic,evaluation-completed"
+821,1265,False,2018-08-07 14:37:40+00:00,,mjansche,"Script-LatinGreekCyrillic,design-question,hinted,in-evaluation"
+822,1264,True,2018-07-31 18:52:07+00:00,2018-09-03 12:49:57+00:00,mathiasjespersen,Script-Thai
+823,1263,False,2018-07-21 11:23:16+00:00,,Bivuti,Script-Chakma
+824,1262,False,2018-07-19 01:16:57+00:00,,dscorbett,"Nastaliq,Script-Arabic,in-evaluation"
+825,1261,False,2018-07-18 19:10:21+00:00,,jungshik,Script-Georgian
+826,1260,False,2018-07-18 00:10:45+00:00,,dscorbett,Script-Monospace
+827,1259,True,2018-07-16 20:59:20+00:00,2020-07-06 06:02:06+00:00,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace"
+828,1258,True,2018-07-15 13:35:19+00:00,2020-07-07 17:05:04+00:00,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace"
+829,1257,False,2018-07-14 14:52:34+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+830,1256,False,2018-07-14 14:23:45+00:00,,dscorbett,Script-Monospace
+831,1255,True,2018-07-12 20:28:41+00:00,2020-07-07 18:02:15+00:00,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace,wrong glyph(s)"
+832,1254,True,2018-07-11 14:35:13+00:00,2020-07-08 15:37:17+00:00,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace,wrong glyph(s)"
+833,1253,True,2018-07-11 02:09:49+00:00,2020-07-26 19:15:39+00:00,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace"
+834,1252,True,2018-07-09 19:21:15+00:00,2020-07-08 18:12:57+00:00,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace"
+835,1251,True,2018-07-08 15:44:41+00:00,2020-07-10 03:56:32+00:00,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace"
+836,1250,True,2018-07-08 14:13:28+00:00,2020-06-20 22:31:54+00:00,KrasnayaPloshchad,"Script-LatinGreekCyrillic,Script-Monospace"
+837,1249,False,2018-07-08 01:58:43+00:00,,dscorbett,Script-Cham
+838,1248,True,2018-07-07 05:54:03+00:00,2018-07-08 13:38:12+00:00,Porges,
+839,1247,False,2018-07-07 02:02:46+00:00,,dscorbett,"Script-Symbol,in-evaluation,wrong glyph(s)"
+840,1246,False,2018-07-05 19:58:00+00:00,,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace,in-evaluation"
+841,1245,False,2018-07-04 12:59:40+00:00,,dscorbett,Script-Cham
+842,1244,False,2018-07-03 13:40:52+00:00,,dscorbett,Script-Limbu
+843,1243,True,2018-07-03 08:48:17+00:00,2018-07-31 16:18:23+00:00,awsdert,
+844,1242,False,2018-07-02 12:59:15+00:00,,dscorbett,Script-Rejang
+845,1241,True,2018-07-01 20:27:10+00:00,2020-07-10 04:25:35+00:00,cmfwyp,"Script-LatinGreekCyrillic,hinted"
+846,1240,False,2018-07-01 16:09:24+00:00,,dscorbett,Script-Bamum
+847,1239,False,2018-06-30 22:21:36+00:00,,dscorbett,Script-Bamum
+848,1238,False,2018-06-29 16:06:23+00:00,,dscorbett,Script-Batak
+849,1237,False,2018-06-28 19:00:36+00:00,,dscorbett,Script-Batak
+850,1236,False,2018-06-27 19:48:01+00:00,,dscorbett,Script-Kharoshthi
+851,1235,True,2018-06-27 00:19:44+00:00,2020-12-07 00:31:51+00:00,dscorbett,"Sans,Script-Arabic,wrong glyph(s)"
+852,1234,True,2018-06-25 13:16:31+00:00,2020-09-03 23:55:20+00:00,dscorbett,"Script-Malayalam,design-question"
+853,1233,True,2018-06-24 14:39:53+00:00,2020-07-26 00:46:46+00:00,dscorbett,Script-Symbol
+854,1232,False,2018-06-23 13:01:48+00:00,,dscorbett,Script-Kharoshthi
+855,1231,False,2018-06-22 18:31:34+00:00,,dscorbett,Script-Monospace
+856,1230,False,2018-06-21 21:06:34+00:00,,dscorbett,"Script-Hebrew,in-evaluation"
+857,1229,False,2018-06-20 14:22:03+00:00,,dscorbett,"Script-Hebrew,in-evaluation"
+858,1228,False,2018-06-19 16:15:37+00:00,,dscorbett,Script-Kharoshthi
+859,1227,True,2018-06-19 10:22:00+00:00,2018-12-18 13:23:09+00:00,Limitspaced,Script-Javanese
+860,1226,False,2018-06-18 15:33:16+00:00,,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace,in-evaluation"
+861,1225,False,2018-06-18 08:02:48+00:00,,Zabolekar,ExternalIssue
+862,1224,False,2018-06-17 14:46:18+00:00,,dscorbett,Script-MeeteiMayek
+863,1223,True,2018-06-16 13:46:27+00:00,2021-04-11 04:56:56+00:00,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace"
+864,1222,True,2018-06-15 13:29:07+00:00,2020-07-11 00:19:41+00:00,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace"
+865,1221,True,2018-06-14 15:32:20+00:00,2020-07-10 23:19:49+00:00,dscorbett,"Script-LatinGreekCyrillic,Script-Monospace,wrong glyph(s)"
+866,1220,True,2018-06-14 10:29:57+00:00,2020-06-17 20:35:06+00:00,GNNMURTHY,"Script-Kannada,hinted"
+867,1219,True,2018-06-13 20:41:44+00:00,2020-07-26 13:28:59+00:00,dscorbett,Script-Symbol
+868,1218,False,2018-06-12 15:03:01+00:00,,dscorbett,Script-MeeteiMayek
+869,1217,False,2018-06-11 18:08:20+00:00,,dscorbett,"Script-Symbol,in-evaluation"
+870,1216,False,2018-06-10 14:53:53+00:00,,dscorbett,Script-MeeteiMayek
+871,1215,False,2018-06-09 12:46:02+00:00,,dscorbett,Script-Kharoshthi
+872,1214,False,2018-06-08 15:08:24+00:00,,dscorbett,Script-Kharoshthi
+873,1213,False,2018-06-07 15:23:29+00:00,,dscorbett,"Script-Devanagari,in-evaluation"
+874,1212,True,2018-06-07 10:48:12+00:00,2018-06-10 12:31:44+00:00,ghost,
+875,1211,False,2018-06-06 18:55:38+00:00,,dscorbett,Script-Kharoshthi
+876,1210,True,2018-06-05 13:52:08+00:00,2020-07-26 04:20:58+00:00,dscorbett,"Script-Symbol,wrong glyph(s)"
+877,1209,True,2018-06-04 20:22:03+00:00,2020-07-26 04:24:13+00:00,dscorbett,"Script-Symbol,wrong glyph(s)"
+878,1208,False,2018-06-03 16:37:59+00:00,,dscorbett,Script-Kharoshthi
+879,1207,False,2018-06-02 21:44:52+00:00,,dscorbett,Script-Kharoshthi
+880,1206,False,2018-06-01 13:07:51+00:00,,dscorbett,Script-Myanmar
+881,1205,False,2018-06-01 11:16:43+00:00,,adtbayuperdana,"Script-Balinese,TestSuite-Candidate"
+882,1204,False,2018-05-31 20:15:46+00:00,,dscorbett,"Script-Monospace,wrong glyph(s)"
+883,1203,False,2018-05-31 18:17:42+00:00,,anandakm,Script-Newa
+884,1202,True,2018-05-30 22:47:53+00:00,2018-06-01 14:34:23+00:00,derektoplasm,
+885,1201,True,2018-05-30 14:38:14+00:00,2020-05-22 04:22:34+00:00,dscorbett,"Script-Arabic,wrong glyph(s)"
+886,1200,True,2018-05-29 17:49:39+00:00,2021-01-06 01:44:05+00:00,dscorbett,"Monotype,Script-Arabic,Status-Duplicate"
+887,1199,False,2018-05-28 15:50:23+00:00,,dscorbett,Script-LatinGreekCyrillic
+888,1198,True,2018-05-27 23:10:05+00:00,2020-05-27 09:24:15+00:00,dscorbett,"Monotype,Script-Arabic"
+889,1197,True,2018-05-27 01:08:18+00:00,2020-11-24 06:55:07+00:00,dscorbett,Script-Arabic
+890,1196,False,2018-05-25 13:19:21+00:00,,dscorbett,Script-Tagalog
+891,1195,False,2018-05-24 15:02:47+00:00,,dscorbett,"Monotype,Script-Arabic"
+892,1194,True,2018-05-23 15:20:14+00:00,2020-05-27 09:04:01+00:00,dscorbett,"Monotype,Script-Arabic"
+893,1193,True,2018-05-23 14:12:42+00:00,2020-06-18 15:48:22+00:00,sridatta1,"Platform-Windows,Script-Kannada"
+894,1192,True,2018-05-22 15:24:51+00:00,2020-11-17 01:51:05+00:00,dscorbett,Script-Arabic
+895,1191,True,2018-05-21 13:55:39+00:00,2021-01-30 06:16:14+00:00,dscorbett,Script-Arabic
+896,1190,True,2018-05-21 11:22:48+00:00,2019-10-03 00:33:18+00:00,todbichig,"Script-Mongolian,Type-Enhancement"
+897,1189,True,2018-05-20 16:11:30+00:00,2020-05-24 01:33:38+00:00,dscorbett,"Monotype,Script-Arabic"
+898,1188,True,2018-05-19 19:46:46+00:00,2021-01-06 01:44:07+00:00,mnh48,"Kufi,Priority-Medium,Sans,Script-Arabic,hinted,wrong glyph(s)"
+899,1187,True,2018-05-19 18:29:38+00:00,2021-01-27 22:58:54+00:00,dscorbett,"Sans,Script-Arabic"
+900,1186,True,2018-05-18 13:39:09+00:00,2021-04-11 05:33:02+00:00,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+901,1185,True,2018-05-18 11:00:50+00:00,2019-06-05 11:01:50+00:00,matt201005,Script-Tagalog
+902,1184,True,2018-05-18 02:02:28+00:00,2020-07-11 00:31:21+00:00,dscorbett,"Script-LatinGreekCyrillic,wrong glyph(s)"
+903,1183,False,2018-05-16 22:20:38+00:00,,dscorbett,"ExpertReview,Script-Arabic,in-evaluation"
+904,1182,True,2018-05-15 16:39:21+00:00,2021-01-27 22:58:54+00:00,dscorbett,"Monotype,Script-Arabic"
+905,1181,False,2018-05-14 17:19:47+00:00,,behdad,"Sans,Script-Arabic,design-question"
+906,1180,True,2018-05-14 13:45:37+00:00,2021-02-09 21:51:19+00:00,dscorbett,"Script-Arabic,wrong glyph(s)"
+907,1179,True,2018-05-13 12:16:41+00:00,2020-05-28 08:07:03+00:00,dscorbett,"Monotype,Script-Arabic,wrong glyph(s)"
+908,1178,True,2018-05-13 00:03:57+00:00,2021-02-09 21:51:17+00:00,dscorbett,"Kufi,Script-Arabic"
+909,1177,False,2018-05-11 18:04:40+00:00,,dscorbett,"Kufi,Naskh,Nastaliq,Priority-High,Sans,Script-Arabic,in-evaluation"
+910,1176,True,2018-05-10 17:50:40+00:00,2020-07-26 04:27:21+00:00,dscorbett,"Script-Symbol,wrong glyph(s)"
+911,1175,False,2018-05-09 20:10:12+00:00,,dscorbett,"Script-LatinGreekCyrillic,design-question,in-evaluation,wrong glyph(s)"
+912,1174,False,2018-05-08 19:52:57+00:00,,dscorbett,Script-Tifinagh
+913,1173,False,2018-05-07 15:04:38+00:00,,dscorbett,Script-Tifinagh
+914,1172,True,2018-05-06 23:27:24+00:00,2020-11-24 06:55:07+00:00,dscorbett,"Naskh,Nastaliq,Sans,Script-Arabic,wrong glyph(s)"
+915,1171,False,2018-05-05 18:44:25+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation,wrong glyph(s)"
+916,1170,False,2018-05-04 13:06:45+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+917,1169,False,2018-05-03 13:43:11+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+918,1168,True,2018-05-02 16:45:02+00:00,2020-07-13 04:25:38+00:00,dscorbett,Script-LatinGreekCyrillic
+919,1167,True,2018-05-01 18:11:24+00:00,2020-12-16 22:07:00+00:00,dscorbett,Script-Arabic
+920,1166,False,2018-04-30 17:25:30+00:00,,dscorbett,"Script-LatinGreekCyrillic,design-question,in-evaluation,wrong glyph(s)"
+921,1165,False,2018-04-29 17:26:01+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+922,1164,True,2018-04-29 13:42:00+00:00,2020-11-12 01:26:13+00:00,marekjez86,"Priority-High,Sans,Script-Arabic,design-question"
+923,1163,False,2018-04-28 17:42:16+00:00,,dscorbett,Script-Coptic
+924,1162,False,2018-04-28 17:16:34+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+925,1161,False,2018-04-28 11:56:24+00:00,,Denubis,"Script-LatinGreekCyrillic,in-evaluation"
+926,1160,False,2018-04-28 02:41:39+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation,wrong glyph(s)"
+927,1159,True,2018-04-25 21:33:32+00:00,2020-07-26 22:03:54+00:00,dscorbett,Script-Symbol
+928,1158,False,2018-04-24 20:57:58+00:00,,dscorbett,Script-Myanmar
+929,1157,True,2018-04-23 20:09:52+00:00,2020-07-15 05:20:26+00:00,dscorbett,Script-LatinGreekCyrillic
+930,1156,False,2018-04-23 14:54:09+00:00,,ytx21cn,WebFonts
+931,1155,False,2018-04-22 15:52:31+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+932,1154,False,2018-04-21 17:39:27+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+933,1153,False,2018-04-20 15:02:32+00:00,,dscorbett,Script-Myanmar
+934,1152,False,2018-04-20 13:40:17+00:00,,dscorbett,Script-Myanmar
+935,1151,False,2018-04-20 04:27:56+00:00,,akccakcctw,Script-TaiViet
+936,1150,False,2018-04-19 06:46:59+00:00,,kiwi0fruit,Script-Monospace
+937,1149,False,2018-04-18 18:20:45+00:00,,dscorbett,"Script-Coptic,Script-Symbol,in-evaluation"
+938,1148,False,2018-04-17 16:59:35+00:00,,dscorbett,"Script-Arabic,design-question,in-evaluation,wrong glyph(s)"
+939,1147,False,2018-04-17 12:55:25+00:00,,r12a,Type-Task
+940,1146,True,2018-04-16 20:44:08+00:00,2020-07-26 22:10:32+00:00,dscorbett,Script-Symbol
+941,1145,False,2018-04-15 16:31:39+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+942,1144,True,2018-04-14 14:23:25+00:00,2019-11-20 22:29:01+00:00,dscorbett,Script-Armenian
+943,1143,False,2018-04-13 13:37:24+00:00,,dscorbett,"Script-Symbol,in-evaluation"
+944,1142,False,2018-04-12 18:13:22+00:00,,dscorbett,"Script-Symbol,in-evaluation"
+945,1141,False,2018-04-11 14:15:11+00:00,,dscorbett,Script-Thai
+946,1140,True,2018-04-10 19:52:32+00:00,2019-11-20 22:30:19+00:00,dscorbett,Script-Armenian
+947,1139,True,2018-04-10 11:03:28+00:00,2020-11-16 00:37:39+00:00,ariasuni,"Platform-Linux,Script-LatinGreekCyrillic,wrong glyph(s)"
+948,1138,True,2018-04-10 10:23:38+00:00,2019-05-22 00:40:47+00:00,M86xKC,"Script-Arabic,Status-Duplicate"
+949,1137,False,2018-04-09 16:17:12+00:00,,dscorbett,Script-Kharoshthi
+950,1136,True,2018-04-09 15:22:04+00:00,2020-07-26 19:15:18+00:00,ariasuni,"Other-Enhancement,Script-Monospace"
+951,1135,False,2018-04-08 16:30:58+00:00,,dscorbett,Script-Thai
+952,1134,True,2018-04-07 18:24:14+00:00,2018-12-10 14:55:07+00:00,Bivuti,Script-Chakma
+953,1133,True,2018-04-07 18:05:38+00:00,2019-11-20 22:31:12+00:00,dscorbett,Script-Armenian
+954,1132,False,2018-04-06 15:09:24+00:00,,dscorbett,"Script-N'Ko,Type-Enhancement"
+955,1131,False,2018-04-05 14:51:18+00:00,,Porkepix,Script-Monospace
+956,1130,True,2018-04-05 14:17:00+00:00,2020-08-04 23:47:17+00:00,dscorbett,Script-Hebrew
+957,1129,True,2018-04-05 10:55:16+00:00,2018-04-05 14:04:04+00:00,antonio-rojas,
+958,1128,False,2018-04-05 10:52:07+00:00,,antonio-rojas,"Script-Monospace,design-question,help wanted"
+959,1127,False,2018-04-05 09:31:54+00:00,,horrovac,Script-Monospace
+960,1126,True,2018-04-04 23:21:59+00:00,2020-07-26 19:15:05+00:00,ataraxia937,"Script-LatinGreekCyrillic,Script-Monospace"
+961,1125,False,2018-04-04 14:37:08+00:00,,dscorbett,Script-TaiLe
+962,1124,True,2018-04-03 21:11:23+00:00,2020-07-26 22:31:43+00:00,dscorbett,Script-Symbol
+963,1123,False,2018-04-02 16:41:23+00:00,,dscorbett,Script-Balinese
+964,1122,True,2018-04-02 15:46:23+00:00,2020-11-12 01:18:02+00:00,Gue3bara,Script-Arabic
+965,1121,False,2018-04-02 11:56:30+00:00,,Ilhamkang,Script-Sundanese
+966,1120,True,2018-04-01 13:22:49+00:00,2020-08-04 22:30:01+00:00,dscorbett,"Script-Hebrew,wrong glyph(s)"
+967,1119,False,2018-03-31 15:13:24+00:00,,dscorbett,Script-Thai
+968,1118,True,2018-03-30 14:23:39+00:00,2020-07-14 00:26:37+00:00,ariasuni,"Script-LatinGreekCyrillic,Script-Monospace"
+969,1117,True,2018-03-30 14:06:09+00:00,2020-03-10 21:28:14+00:00,dscorbett,Script-Gurmukhi
+970,1116,True,2018-03-29 14:18:36+00:00,2019-11-01 20:16:33+00:00,dscorbett,Script-Kaithi
+971,1115,True,2018-03-28 19:14:12+00:00,2020-07-26 22:33:47+00:00,dscorbett,Script-Symbol
+972,1114,True,2018-03-27 16:50:29+00:00,2019-11-01 20:17:02+00:00,dscorbett,Script-Kaithi
+973,1113,False,2018-03-27 14:52:15+00:00,,donderstorm,"Script-LatinGreekCyrillic,Type-Enhancement,in-evaluation"
+974,1112,True,2018-03-26 13:24:11+00:00,2020-07-28 03:40:13+00:00,dscorbett,"Script-Symbol,wrong glyph(s)"
+975,1111,True,2018-03-25 21:53:06+00:00,2019-11-01 20:17:33+00:00,dscorbett,Script-Kaithi
+976,1110,True,2018-03-24 14:32:49+00:00,2020-07-28 03:41:55+00:00,dscorbett,"Script-Symbol,wrong glyph(s)"
+977,1109,False,2018-03-24 10:55:45+00:00,,Apsodia,Script-Javanese
+978,1108,False,2018-03-23 16:54:33+00:00,,dscorbett,"Script-Thai,design-question"
+979,1107,True,2018-03-23 11:02:31+00:00,2018-12-18 13:23:42+00:00,Apsodia,Script-Javanese
+980,1106,True,2018-03-22 19:57:49+00:00,2019-05-17 22:21:25+00:00,dscorbett,Script-Tibetan
+981,1105,False,2018-03-22 08:58:03+00:00,,eroux,"Script-Tibetan,StylisticChoice"
+982,1104,False,2018-03-21 23:33:34+00:00,,dscorbett,"Script-Tibetan,TestSuite-Candidate"
+983,1103,True,2018-03-21 10:05:38+00:00,2019-06-13 20:00:38+00:00,eroux,Script-Tibetan
+984,1102,True,2018-03-20 20:42:38+00:00,2018-09-14 14:11:03+00:00,MayuraVerma,Script-Kannada
+985,1101,False,2018-03-20 14:39:32+00:00,,dscorbett,Script-Sundanese
+986,1100,False,2018-03-19 17:06:04+00:00,,dscorbett,Script-Sundanese
+987,1099,True,2018-03-19 00:01:46+00:00,2020-07-14 00:29:23+00:00,dscorbett,"Script-LatinGreekCyrillic,wrong glyph(s)"
+988,1098,False,2018-03-18 11:27:46+00:00,,khaledhosny,"Kufi,Sans,Script-Arabic"
+989,1097,False,2018-03-17 16:41:48+00:00,,dscorbett,"Script-LatinGreekCyrillic,in-evaluation,wrong glyph(s)"
+990,1096,True,2018-03-17 02:42:52+00:00,2020-07-17 04:20:54+00:00,dscorbett,"Script-LatinGreekCyrillic,wrong glyph(s)"
+991,1095,False,2018-03-16 13:33:20+00:00,,ohbendy,Script-Myanmar
+992,1094,False,2018-03-15 20:12:21+00:00,,elnazsarbar,"Script-Arabic,in-evaluation"
+993,1093,False,2018-03-15 13:58:49+00:00,,dscorbett,Script-N'Ko
+994,1092,True,2018-03-15 02:44:21+00:00,2020-07-17 04:24:04+00:00,dscorbett,Script-LatinGreekCyrillic
+995,1091,True,2018-03-14 17:55:44+00:00,2018-03-15 05:37:13+00:00,jungshik,
+996,1090,True,2018-03-13 18:17:26+00:00,2020-07-15 04:11:15+00:00,dscorbett,"Script-LatinGreekCyrillic,wrong glyph(s)"
+997,1089,True,2018-03-13 17:13:32+00:00,2018-03-13 18:31:37+00:00,davelab6,
+998,1088,True,2018-03-13 11:11:37+00:00,2020-06-08 03:51:13+00:00,JeetendraJ,Script-Devanagari
+999,1087,True,2018-03-12 23:45:36+00:00,2018-12-10 14:54:23+00:00,sven-oly,Script-Chakma
+1000,1086,False,2018-03-12 16:23:34+00:00,,dscorbett,"Script-LatinGreekCyrillic,design-question,in-evaluation,wrong glyph(s)"
+1001,1085,True,2018-03-12 03:48:29+00:00,2018-03-13 18:32:12+00:00,coldfog,
+1002,1084,False,2018-03-12 01:28:41+00:00,,dscorbett,Script-N'Ko
+1003,1083,False,2018-03-10 23:26:20+00:00,,dscorbett,"Script-Hebrew,in-evaluation"
+1004,1082,False,2018-03-09 15:17:06+00:00,,dscorbett,Script-Brahmi
+1005,1081,False,2018-03-08 17:05:28+00:00,,cssobral2013,"Script-LatinGreekCyrillic,help wanted,in-evaluation"
+1006,1080,True,2018-03-07 15:41:29+00:00,2020-08-05 03:49:29+00:00,dscorbett,Script-Hebrew
+1007,1079,True,2018-03-07 06:15:27+00:00,2018-03-19 16:47:36+00:00,JaewonKimCJK,
+1008,1078,False,2018-03-07 04:00:35+00:00,,dscorbett,"Script-Hebrew,in-evaluation"
+1009,1077,False,2018-03-07 03:38:04+00:00,,dscorbett,"Script-Hebrew,in-evaluation"
+1010,1076,True,2018-03-06 23:40:10+00:00,2020-06-18 07:06:46+00:00,MayuraVerma,"Script-Kannada,app-dependent-behavior"
+1011,1075,False,2018-03-06 21:20:10+00:00,,jungshik,Type-Task
+1012,1074,True,2018-03-06 03:07:24+00:00,2019-11-01 20:18:04+00:00,dscorbett,Script-Kaithi
+1013,1073,False,2018-03-06 02:22:11+00:00,,dscorbett,Script-Limbu
+1014,1072,True,2018-03-06 01:36:59+00:00,2021-02-12 04:40:09+00:00,marekjez86,
+1015,1071,True,2018-03-06 00:52:11+00:00,2020-08-05 15:03:07+00:00,dscorbett,Script-Hebrew
+1016,1070,True,2018-03-05 23:19:08+00:00,2018-03-16 15:37:31+00:00,LornaSIL,Script-Osage
+1017,1069,False,2018-03-05 22:11:55+00:00,,dscorbett,"Script-Hebrew,in-evaluation"
+1018,1068,False,2018-03-05 21:32:30+00:00,,dscorbett,"Script-Hebrew,in-evaluation"
+1019,1067,False,2018-03-05 21:16:19+00:00,,dscorbett,"Rashi,Script-Hebrew,in-evaluation"
+1020,1066,False,2018-03-05 06:27:26+00:00,,cathree3,"Script-LatinGreekCyrillic,Type-Enhancement,help wanted"
+1021,1065,False,2018-03-05 04:02:17+00:00,,dscorbett,"Script-Cham,design-question"
+1022,1064,False,2018-03-04 20:29:23+00:00,,dscorbett,Script-Balinese
+1023,1063,False,2018-03-03 17:27:52+00:00,,dscorbett,"Script-Syriac,wrong glyph(s)"
+1024,1062,True,2018-03-02 17:29:16+00:00,2018-03-02 17:50:42+00:00,dscorbett,Script-Devanagari
+1025,1061,False,2018-03-02 02:09:26+00:00,,dscorbett,Script-Adlam
+1026,1060,False,2018-03-02 00:32:58+00:00,,dscorbett,"Script-Symbol,design-question"
+1027,1059,True,2018-03-01 23:34:28+00:00,2020-07-28 03:45:44+00:00,dscorbett,Script-Symbol
+1028,1058,False,2018-03-01 22:03:12+00:00,,dscorbett,"Script-TaiTham,in-evaluation"
+1029,1057,False,2018-03-01 19:45:30+00:00,,marekjez86,Type-Enhancement
+1030,1056,True,2018-03-01 17:23:23+00:00,2018-03-01 21:11:54+00:00,cssobral2013,Script-LatinGreekCyrillic
+1031,1055,True,2018-02-28 23:58:52+00:00,2019-10-03 00:23:26+00:00,dscorbett,Script-Bengali
+1032,1054,True,2018-02-28 07:54:08+00:00,2018-03-01 21:51:47+00:00,abumoallim,Script-Gujarati
+1033,1053,True,2018-02-27 19:14:46+00:00,2020-09-03 23:58:00+00:00,cibu,Script-Malayalam
+1034,1052,True,2018-02-24 18:29:34+00:00,2021-03-31 23:01:54+00:00,dscorbett,"Script-LatinGreekCyrillic,in-evaluation"
+1035,1051,True,2018-02-24 18:15:48+00:00,2020-11-03 01:10:34+00:00,dscorbett,Script-LatinGreekCyrillic
+1036,1050,True,2018-02-21 13:20:17+00:00,2021-02-12 04:26:43+00:00,brawer,
+1037,1049,False,2018-02-19 07:01:06+00:00,,jungshik,"Script-Thai,design-question,non-Traditional"
+1038,1048,False,2018-02-16 17:18:31+00:00,,marekjez86,"Script-LatinGreekCyrillic,in-evaluation"
+1039,1047,False,2018-02-16 02:14:21+00:00,,DLasher106,"Script-Symbol,in-evaluation"
+1040,1046,False,2018-02-15 16:01:54+00:00,,joseterreiro,"Platform-Windows,Script-LatinGreekCyrillic,app-dependent-behavior"
+1041,1045,True,2018-02-06 15:02:09+00:00,2018-03-02 19:42:25+00:00,cibu,Script-Malayalam
+1042,1044,True,2018-02-04 18:40:15+00:00,2021-02-10 18:24:59+00:00,dscorbett,"Priority-High,Script-Arabic"
+1043,1043,True,2018-02-04 18:11:29+00:00,2020-12-20 02:39:04+00:00,dscorbett,"Priority-High,Sans,Script-Arabic"
+1044,1042,True,2018-02-04 17:22:32+00:00,2021-02-09 21:51:19+00:00,dscorbett,"Monotype,Script-Arabic"
+1045,1041,True,2018-02-04 17:13:10+00:00,2020-10-27 00:08:48+00:00,dscorbett,"Monotype,Script-Arabic"
+1046,1040,True,2018-02-04 17:07:33+00:00,2020-10-31 04:02:28+00:00,dscorbett,"Kufi,Monotype,Script-Arabic"
+1047,1039,True,2018-02-04 16:59:51+00:00,2021-01-28 20:39:02+00:00,dscorbett,"Kufi,Priority-High,Script-Arabic,Status-Duplicate"
+1048,1038,True,2018-01-24 16:34:05+00:00,2020-12-16 05:20:13+00:00,tianblr,"Priority-High,Sans,Script-Arabic"
+1049,1037,True,2018-01-24 07:24:39+00:00,2018-12-18 13:23:56+00:00,dkuspawono,Script-Javanese
+1050,1036,True,2018-01-24 06:58:49+00:00,2018-03-02 19:51:11+00:00,dkuspawono,
+1051,1035,False,2018-01-16 12:09:40+00:00,,sommerluk,"Script-Monospace,wrong glyph(s)"
+1052,1034,True,2018-01-15 19:57:33+00:00,2020-08-02 01:11:04+00:00,tankmohit,Script-LatinGreekCyrillic
+1053,1033,True,2018-01-14 16:03:15+00:00,2020-12-03 14:29:19+00:00,dscorbett,"Priority-High,Sans,Script-Arabic,TestSuite-Candidate"
+1054,1032,True,2018-01-14 15:41:55+00:00,2020-12-07 00:31:51+00:00,dscorbett,"Script-Arabic,TestSuite-Candidate"
+1055,1031,True,2018-01-14 15:30:41+00:00,2020-05-31 22:24:48+00:00,dscorbett,"Monotype,Script-Arabic,TestSuite-Candidate"
+1056,1030,False,2018-01-14 14:17:38+00:00,,dscorbett,Script-Cherokee
+1057,1029,True,2018-01-11 19:46:57+00:00,2018-01-11 19:48:44+00:00,dougfelt,
+1058,1028,True,2018-01-11 18:46:53+00:00,2018-01-11 19:40:20+00:00,dougfelt,
+1059,1027,False,2018-01-09 16:38:41+00:00,,KrasnayaPloshchad,"Script-Arabic,in-evaluation"
+1060,1026,False,2018-01-07 11:09:09+00:00,,moyogo,"DM,Script-LatinGreekCyrillic,Script-Monospace,design-question,in-evaluation"
+1061,1025,True,2018-01-05 22:40:31+00:00,2020-07-15 05:05:39+00:00,soviet-man,Script-LatinGreekCyrillic
+1062,1024,False,2018-01-02 09:01:26+00:00,,Rajesh-Kagathara,"Script-LatinGreekCyrillic,help wanted,in-evaluation"
+1063,1023,True,2018-01-01 16:14:08+00:00,2018-12-10 15:18:56+00:00,sridatta1,"Script-Bengali,Script-Devanagari,Script-Gujarati,Script-Kannada,Script-Oriya"
+1064,1022,True,2017-12-30 03:25:25+00:00,2018-01-02 19:32:45+00:00,mjansche,
+1065,1021,True,2017-12-29 17:32:21+00:00,2019-04-18 17:38:07+00:00,sommerluk,"Script-LatinGreekCyrillic,Script-Monospace"
+1066,1020,True,2017-12-27 21:31:25+00:00,2018-12-10 15:19:10+00:00,marekjez86,Script-Kannada
+1067,1019,True,2017-12-26 22:40:39+00:00,2020-06-23 06:26:11+00:00,marekjez86,Script-Tamil
+1068,1018,False,2017-12-23 08:37:42+00:00,,sridatta1,Script-Brahmi
+1069,1017,True,2017-12-20 13:58:25+00:00,2020-11-12 01:14:08+00:00,Buernia,Script-Arabic
+1070,1016,True,2017-12-18 23:50:35+00:00,2017-12-19 01:04:48+00:00,jungshik,
+1071,1015,True,2017-12-18 18:13:42+00:00,2018-01-11 19:40:54+00:00,ytx21cn,
+1072,1014,False,2017-12-13 13:54:48+00:00,,baskerville,"Script-LatinGreekCyrillic,in-evaluation"
+1073,1013,True,2017-12-13 13:47:21+00:00,2017-12-13 19:59:21+00:00,baskerville,
+1074,1012,False,2017-12-10 05:11:08+00:00,,punchcutter,Script-Khmer
+1075,1011,True,2017-12-10 05:10:25+00:00,2018-01-16 16:53:03+00:00,punchcutter,Script-Khmer
+1076,1010,False,2017-12-08 01:23:48+00:00,,punchcutter,Script-Chakma
+1077,1009,False,2017-12-08 01:17:03+00:00,,punchcutter,Script-Khmer
+1078,1008,True,2017-12-06 11:29:20+00:00,2018-06-05 12:42:22+00:00,Azzert,Script-LatinGreekCyrillic
+1079,1007,True,2017-12-01 08:37:34+00:00,2020-06-15 21:47:59+00:00,Sagir8453,"Script-Bengali,Type-Enhancement,non-Traditional"
+1080,1006,False,2017-12-01 08:17:07+00:00,,Sagir8453,"Script-Bengali,design-question,in-evaluation"
+1081,1005,True,2017-11-30 13:35:09+00:00,2021-03-10 07:44:03+00:00,librarhyme,"Script-LatinGreekCyrillic,app-dependent-behavior,in-evaluation"
+1082,1004,True,2017-11-29 15:17:35+00:00,2020-06-08 04:10:49+00:00,srinidhi97,Script-Devanagari
+1083,1003,False,2017-11-28 20:38:49+00:00,,dscorbett,"Script-Tifinagh,design-question"
+1084,1002,True,2017-11-27 07:27:59+00:00,2018-05-02 18:06:16+00:00,davelab6,"Priority-High,Script-LatinGreekCyrillic,Type-Enhancement"
+1085,1001,True,2017-11-23 17:07:39+00:00,2018-12-10 15:25:15+00:00,n8willis,Script-Malayalam
+1086,1000,True,2017-11-22 17:20:18+00:00,2018-01-20 06:18:39+00:00,sommerluk,"Script-LatinGreekCyrillic,Script-Monospace"
+1087,999,True,2017-11-18 14:38:19+00:00,2018-12-10 15:19:24+00:00,MayuraVerma,Script-Kannada
+1088,998,False,2017-11-07 06:48:41+00:00,,Sagir8453,Script-Syloti-Nagri
+1089,997,True,2017-11-07 06:28:26+00:00,2017-11-08 03:53:40+00:00,Sagir8453,
+1090,996,True,2017-11-05 23:58:52+00:00,2020-07-17 05:14:35+00:00,ytx21cn,"FireFox-issue,Script-LatinGreekCyrillic"
+1091,995,True,2017-11-04 09:39:28+00:00,2020-07-18 05:25:26+00:00,rhodium-103,Script-LatinGreekCyrillic
+1092,994,True,2017-11-02 06:04:44+00:00,2018-09-14 14:06:31+00:00,MayuraVerma,"Safari-Issue,Script-Kannada"
+1093,993,True,2017-10-31 23:56:49+00:00,2017-11-01 00:39:24+00:00,brawer,Script-LatinGreekCyrillic
+1094,992,True,2017-10-30 14:41:41+00:00,2017-10-31 03:37:02+00:00,MayuraVerma,
+1095,991,False,2017-10-28 17:40:37+00:00,,KrasnayaPloshchad,Script-Urdu
+1096,990,True,2017-10-26 17:47:55+00:00,2017-11-15 03:18:25+00:00,marekjez86,"Indic-support,Script-Telugu"
+1097,989,True,2017-10-26 13:31:41+00:00,2017-10-26 18:00:08+00:00,davelab6,
+1098,988,True,2017-10-25 23:52:37+00:00,2020-09-27 14:43:17+00:00,roozbehp,"Priority-Medium,Script-Devanagari"
+1099,987,True,2017-10-24 16:51:43+00:00,2017-10-24 16:51:49+00:00,dougfelt,
+1100,986,True,2017-10-24 05:02:43+00:00,2020-06-11 16:00:54+00:00,marekjez86,"Indic-support,Priority-High,Script-Bengali"
+1101,985,True,2017-10-23 19:34:10+00:00,2017-10-24 16:39:14+00:00,dougfelt,
+1102,984,True,2017-10-18 19:55:11+00:00,2017-12-05 20:33:14+00:00,khaledhosny,
+1103,983,True,2017-10-18 18:11:41+00:00,2017-10-18 19:29:33+00:00,dougfelt,
+1104,982,False,2017-10-18 03:51:22+00:00,,brawer,"Script-LatinGreekCyrillic,in-evaluation"
+1105,981,True,2017-10-17 23:48:33+00:00,2017-10-18 11:05:17+00:00,brawer,Script-LatinGreekCyrillic
+1106,980,True,2017-10-16 06:44:37+00:00,2017-11-18 14:04:54+00:00,MayuraVerma,Script-Kannada
+1107,979,False,2017-10-16 02:28:17+00:00,,MayuraVerma,"Script-Kannada,in-evaluation,wrong glyph(s)"
+1108,978,False,2017-10-14 00:54:39+00:00,,kphillisjr,Type-Enhancement
+1109,977,True,2017-10-13 12:51:32+00:00,2018-07-15 04:31:22+00:00,sridatta1,Script-Kannada
+1110,976,False,2017-10-10 22:43:34+00:00,,roozbehp,"Indic-support,Priority-High,Sans,Script-Arabic,in-evaluation"
+1111,975,True,2017-10-10 18:20:05+00:00,2017-12-19 01:04:48+00:00,roozbehp,"Android,Indic-support,Priority-Critical,Script-Arabic"
+1112,974,True,2017-10-09 14:13:39+00:00,2020-06-08 18:04:02+00:00,gsksarath,Script-Devanagari
+1113,973,True,2017-10-05 04:16:30+00:00,2018-12-10 15:20:14+00:00,MayuraVerma,Script-Kannada
+1114,972,True,2017-10-04 12:22:46+00:00,2020-07-27 05:53:18+00:00,yuriy7779,Script-LatinGreekCyrillic
+1115,971,True,2017-10-01 23:49:15+00:00,2018-12-10 15:20:36+00:00,MayuraVerma,Script-Kannada
+1116,970,True,2017-09-26 06:27:45+00:00,2020-07-18 05:08:04+00:00,JoeyLi-1,"Script-LatinGreekCyrillic,Type-Defect"
+1117,969,False,2017-09-25 23:00:27+00:00,,dougfelt,Script-Yi
+1118,968,True,2017-09-20 02:12:27+00:00,2017-10-18 19:29:33+00:00,JackfromMc,"Priority-High,Script-Myanmar,Type-Defect"
+1119,967,True,2017-09-20 00:34:43+00:00,2017-09-20 15:55:08+00:00,dougfelt,
+1120,966,False,2017-09-19 03:19:34+00:00,,Ldweisser,Script-Khmer
+1121,965,True,2017-09-15 20:00:34+00:00,2021-02-12 04:49:01+00:00,shreevatsa,
+1122,964,True,2017-09-11 14:32:33+00:00,2020-06-24 06:18:30+00:00,lirang,Script-Telugu
+1123,963,True,2017-09-08 08:54:47+00:00,2018-12-19 10:27:22+00:00,DirkWong,"Monotype,Script-Mongolian"
+1124,962,True,2017-09-05 13:32:03+00:00,2017-09-06 08:31:20+00:00,GolnarKat,
+1125,961,True,2017-09-01 18:46:55+00:00,2020-07-18 05:18:39+00:00,sarmstrong,Script-LatinGreekCyrillic
+1126,960,True,2017-08-30 12:29:12+00:00,2017-08-31 01:38:23+00:00,mikeday,
+1127,959,False,2017-08-28 08:49:43+00:00,,Ilhamkang,"Android,Priority-Medium,Script-Sundanese,in-evaluation"
+1128,958,True,2017-08-16 08:57:05+00:00,2020-06-09 05:46:11+00:00,JeetendraJ,"Priority-High,Script-Devanagari"
+1129,957,True,2017-08-02 14:30:29+00:00,2017-08-02 20:01:59+00:00,lemzwerg,
+1130,956,True,2017-08-02 11:53:11+00:00,2017-08-02 17:16:35+00:00,lemzwerg,
+1131,955,True,2017-08-01 08:50:52+00:00,2017-08-02 19:38:21+00:00,lemzwerg,
+1132,954,False,2017-07-31 19:46:32+00:00,,lemzwerg,Script-Gothic
+1133,953,True,2017-07-31 15:53:03+00:00,2017-07-31 23:48:45+00:00,lemzwerg,Script-Coptic
+1134,952,False,2017-07-31 08:58:43+00:00,,lemzwerg,Script-Buhid
+1135,951,True,2017-07-30 16:47:23+00:00,2017-08-02 19:39:37+00:00,lemzwerg,
+1136,950,True,2017-07-28 23:36:31+00:00,2020-07-20 21:52:19+00:00,marekjez86,Type-Defect
+1137,949,False,2017-07-28 23:20:37+00:00,,marekjez86,"Script-Devanagari,Type-Defect"
+1138,948,True,2017-07-28 17:33:23+00:00,2020-07-20 21:51:39+00:00,marekjez86,"Script-Monospace,Type-Defect"
+1139,947,True,2017-07-28 17:27:40+00:00,2020-07-20 21:50:56+00:00,marekjez86,Type-Defect
+1140,946,True,2017-07-28 14:41:52+00:00,2017-07-28 16:27:25+00:00,paperboyo,
+1141,945,True,2017-07-09 13:22:44+00:00,2017-09-20 00:36:39+00:00,JackfromMc,"Script-Myanmar,Type-Defect"
+1142,944,False,2017-07-07 17:26:50+00:00,,brightestpixel,Component-Website
+1143,943,True,2017-07-07 06:27:47+00:00,2017-07-11 14:01:14+00:00,Kanjilearner817,
+1144,942,False,2017-07-04 03:02:00+00:00,,BluYous,"Component-Website,Script-CJK"
+1145,941,True,2017-06-30 14:09:38+00:00,2017-09-20 00:34:23+00:00,YinMayOo,"Script-Myanmar,Type-Defect"
+1146,940,True,2017-06-25 15:40:12+00:00,2017-06-30 10:43:25+00:00,sommerluk,
+1147,939,False,2017-06-23 06:53:09+00:00,,moritz,"Script-LatinGreekCyrillic,Script-Monospace,in-evaluation"
+1148,938,True,2017-06-20 08:50:37+00:00,2017-11-14 02:39:18+00:00,ghost,Script-Kannada
+1149,937,False,2017-06-15 12:39:48+00:00,,sommerluk,"Platform-Windows,Script-LatinGreekCyrillic,Status-Unreproducible,in-evaluation"
+1150,936,False,2017-06-13 12:04:41+00:00,,bymat,Script-Tifinagh
+1151,935,True,2017-06-08 11:01:05+00:00,2017-06-08 11:26:10+00:00,BonnieSoftware,
+1152,934,True,2017-06-07 06:27:27+00:00,2017-09-20 00:42:48+00:00,brawer,Script-Myanmar
+1153,933,True,2017-06-05 16:01:56+00:00,2017-11-30 23:48:13+00:00,sridatta1,"Android,Priority-Medium,Script-Kaithi,Type-Defect"
+1154,932,True,2017-06-03 16:11:55+00:00,2017-09-19 22:13:27+00:00,ghost,"Android,Priority-High,Script-Symbol,Type-Defect"
+1155,931,False,2017-06-02 15:05:17+00:00,,michaelmee,"Platform-Windows,Script-Arabic,app-dependent-behavior"
+1156,930,False,2017-05-30 20:07:21+00:00,,brawer,"Script-Myanmar,Type-Enhancement,help wanted"
+1157,929,False,2017-05-29 14:23:31+00:00,,sommerluk,"Script-LatinGreekCyrillic,Type-Enhancement"
+1158,928,True,2017-05-23 09:00:21+00:00,2017-05-23 12:23:15+00:00,brawer,
+1159,927,True,2017-05-19 10:00:07+00:00,2018-12-19 10:29:21+00:00,siqinbilige,"Monotype,Script-Mongolian"
+1160,926,True,2017-05-19 09:53:16+00:00,2018-12-19 10:28:59+00:00,siqinbilige,"Monotype,Script-Mongolian"
+1161,925,True,2017-05-19 09:41:30+00:00,2018-12-19 10:28:26+00:00,siqinbilige,"Monotype,Script-Mongolian"
+1162,924,True,2017-05-19 03:44:37+00:00,2018-12-19 10:28:08+00:00,siqinbilige,"Monotype,Script-Mongolian"
+1163,923,True,2017-05-19 03:33:01+00:00,2018-12-19 10:27:44+00:00,siqinbilige,"Monotype,Script-Mongolian"
+1164,922,True,2017-05-19 03:05:54+00:00,2018-12-19 10:26:13+00:00,siqinbilige,"Monotype,Script-Mongolian"
+1165,921,True,2017-05-19 02:50:15+00:00,2018-12-19 10:25:53+00:00,siqinbilige,"Monotype,Script-Mongolian"
+1166,920,True,2017-05-18 10:34:50+00:00,2020-07-18 05:29:26+00:00,moyogo,"DM,Script-LatinGreekCyrillic,Type-Defect"
+1167,919,True,2017-05-18 10:00:56+00:00,2018-12-19 10:25:14+00:00,siqinbilige,"Monotype,Script-Mongolian"
+1168,918,True,2017-05-18 09:14:00+00:00,2018-12-19 10:24:34+00:00,siqinbilige,"Monotype,Script-Mongolian"
+1169,917,True,2017-05-18 08:45:14+00:00,2018-12-19 10:24:04+00:00,siqinbilige,"Monotype,Script-Mongolian"
+1170,916,True,2017-05-16 08:01:45+00:00,2020-08-23 03:01:03+00:00,umerwaheed,Script-Arabic
+1171,915,True,2017-05-12 19:28:43+00:00,2017-06-29 17:28:58+00:00,Bivuti,
+1172,914,True,2017-05-11 18:56:19+00:00,2020-11-18 05:03:13+00:00,fgaim,"Android,Priority-Critical,Script-Ethiopic,Type-Defect,wrong glyph(s)"
+1173,913,False,2017-05-08 05:30:53+00:00,,brawer,"Script-LatinGreekCyrillic,Type-Enhancement,in-evaluation"
+1174,912,True,2017-05-08 05:27:51+00:00,2017-05-09 01:42:27+00:00,brawer,
+1175,911,False,2017-05-08 04:23:40+00:00,,brawer,"Script-LatinGreekCyrillic,Type-Enhancement,design-question"
+1176,910,True,2017-05-06 05:50:28+00:00,2017-06-15 03:49:41+00:00,brawer,"Android,Priority-Medium,Script-TaiViet"
+1177,909,True,2017-05-02 19:14:27+00:00,2020-08-04 23:44:12+00:00,ronshapiro,"Android,Priority-High,Script-Hebrew"
+1178,908,False,2017-05-02 09:09:37+00:00,,esidegallery,MoveTo-NotoTools
+1179,907,True,2017-04-28 19:58:58+00:00,2017-04-28 20:14:09+00:00,dougfelt,
+1180,906,True,2017-04-26 17:56:07+00:00,2017-05-07 07:28:00+00:00,behdad,
+1181,905,False,2017-04-26 00:23:45+00:00,,marekjez86,"Script-Kannada,Status-NeedsMoreInformation,design-question"
+1182,904,True,2017-04-25 20:46:34+00:00,2017-04-26 22:54:38+00:00,KatMomoi,
+1183,903,True,2017-04-25 18:14:35+00:00,2017-04-26 00:25:18+00:00,behdad,
+1184,902,True,2017-04-24 15:14:41+00:00,2021-03-10 07:43:09+00:00,codeman38,"Other-Defect,Platform-Windows,Script-LatinGreekCyrillic"
+1185,901,True,2017-04-24 05:53:55+00:00,2017-04-24 21:03:12+00:00,KatMomoi,
+1186,900,False,2017-04-24 03:37:57+00:00,,andjc,"Script-LatinGreekCyrillic,Type-Defect,wrong glyph(s)"
+1187,899,False,2017-04-21 21:08:34+00:00,,kulpreetchilana,"Script-Arabic,in-evaluation"
+1188,898,True,2017-04-19 20:07:41+00:00,2017-04-19 20:07:54+00:00,dougfelt,
+1189,897,True,2017-04-16 14:56:17+00:00,2017-04-25 17:52:28+00:00,Appuraza,
+1190,896,True,2017-04-12 21:57:18+00:00,2017-04-12 21:57:23+00:00,dougfelt,
+1191,895,True,2017-04-12 01:03:58+00:00,2017-04-12 01:04:08+00:00,dougfelt,
+1192,894,True,2017-04-10 18:44:06+00:00,2017-04-11 00:02:52+00:00,dougfelt,
+1193,893,True,2017-04-10 10:06:27+00:00,2017-04-10 11:32:35+00:00,GauthierPLM,
+1194,892,True,2017-04-07 23:34:29+00:00,2019-08-28 21:07:42+00:00,brawer,Script-KayahLi
+1195,891,False,2017-04-07 15:50:31+00:00,,lemzwerg,"Sans,Script-Arabic,Script-Armenian"
+1196,890,False,2017-04-05 02:31:50+00:00,,lgd8069465,"Emoji,Script-Emoji"
+1197,889,False,2017-04-05 02:27:29+00:00,,twardoch,Script-LatinGreekCyrillic
+1198,888,True,2017-04-04 20:47:57+00:00,2017-04-26 00:33:13+00:00,schrepfler,Script-LatinGreekCyrillic
+1199,887,False,2017-04-04 10:26:54+00:00,,YunsuChoi,"Script-Monospace,in-evaluation"
+1200,886,False,2017-03-30 16:51:38+00:00,,sridatta1,Script-Tibetan
+1201,885,True,2017-03-28 21:06:13+00:00,2017-03-28 22:39:30+00:00,hrhatada,"Android,Script-Myanmar"
+1202,884,True,2017-03-26 08:04:37+00:00,2020-05-12 14:55:04+00:00,kkdd,Script-OldItalic
+1203,883,True,2017-03-25 19:24:41+00:00,2017-03-29 08:17:46+00:00,TsavyPrince,
+1204,882,False,2017-03-23 23:58:34+00:00,,hrhatada,Script-Thai
+1205,881,False,2017-03-21 18:46:34+00:00,,bgaertner,"Platform-Windows,Script-LatinGreekCyrillic,app-dependent-behavior"
+1206,880,False,2017-03-21 15:31:18+00:00,,codeman38,Script-Monospace
+1207,879,True,2017-03-20 22:35:52+00:00,2017-04-03 17:28:06+00:00,hrhatada,"Android,Script-Thai"
+1208,878,False,2017-03-18 00:45:04+00:00,,hrhatada,"Android,Script-Khmer"
+1209,877,True,2017-03-16 21:42:12+00:00,2017-04-03 17:29:12+00:00,hrhatada,"Android,Script-Khmer"
+1210,876,True,2017-03-16 16:39:20+00:00,2020-12-04 21:25:09+00:00,nizarsq,Script-Arabic
+1211,875,True,2017-03-16 00:03:46+00:00,2017-03-16 16:51:44+00:00,TsavyPrince,
+1212,874,False,2017-03-15 21:41:23+00:00,,hrhatada,"Android,Script-Khmer"
+1213,873,True,2017-03-15 19:19:11+00:00,2017-03-15 22:35:53+00:00,TsavyPrince,
+1214,872,True,2017-03-14 21:40:39+00:00,2021-02-12 04:39:13+00:00,Kanjilearner817,
+1215,871,True,2017-03-14 10:33:25+00:00,2017-09-20 00:52:36+00:00,JackfromMc,Script-Myanmar
+1216,870,True,2017-03-13 16:31:11+00:00,2017-04-03 17:45:15+00:00,mhmangum,Script-Arabic
+1217,869,False,2017-03-13 05:32:56+00:00,,lemzwerg,Noto-Process-Issue
+1218,868,True,2017-03-09 20:48:50+00:00,2019-11-20 22:34:05+00:00,nizarsq,Script-Armenian
+1219,867,True,2017-03-08 16:08:18+00:00,2017-03-08 17:13:30+00:00,twardoch,
+1220,866,True,2017-03-07 16:42:23+00:00,2018-12-10 15:25:36+00:00,sridatta1,Script-Malayalam
+1221,865,True,2017-03-07 14:26:33+00:00,2018-10-01 04:20:26+00:00,brawer,Script-Kannada
+1222,864,False,2017-03-07 14:08:55+00:00,,brawer,"Script-Armenian,TestSuite-Candidate,help wanted"
+1223,863,True,2017-03-07 12:57:30+00:00,2017-03-07 18:05:47+00:00,MayuraVerma,Script-Kannada
+1224,862,True,2017-03-06 22:36:34+00:00,2017-03-06 23:23:34+00:00,dougfelt,
+1225,861,True,2017-03-05 09:25:53+00:00,2017-03-09 18:34:40+00:00,pulkomandy,
+1226,860,True,2017-03-04 06:47:46+00:00,2017-09-20 00:31:36+00:00,JackfromMc,"Script-Myanmar,TestSuite-Candidate"
+1227,859,True,2017-03-04 06:08:00+00:00,2017-09-20 00:26:35+00:00,JackfromMc,Script-Myanmar
+1228,858,True,2017-03-01 22:54:48+00:00,2017-04-11 07:04:19+00:00,roozbehp,"Android,Priority-Critical,Script-Arabic"
+1229,857,False,2017-03-01 09:22:00+00:00,,antonio-guermani,"Android,Priority-High,Script-Math,in-evaluation"
+1230,856,False,2017-02-28 23:43:30+00:00,,marekjez86,"Script-Khmer,Type-Defect"
+1231,855,False,2017-02-28 22:06:24+00:00,,marekjez86,"Script-Thai,Type-Defect"
+1232,854,False,2017-02-28 11:29:17+00:00,,frispete,Noto-Process-Issue
+1233,853,True,2017-02-27 19:05:22+00:00,2017-03-22 16:56:34+00:00,nizarsq,"Priority-Critical,Script-Arabic,Status-NotoFixed,Type-Defect"
+1234,852,True,2017-02-24 10:44:01+00:00,2017-02-24 10:44:24+00:00,kritsanaphon,
+1235,851,True,2017-02-23 20:15:43+00:00,2020-09-20 20:18:30+00:00,marekjez86,"Priority-High,Script-Arabic"
+1236,850,True,2017-02-23 19:20:07+00:00,2018-12-18 13:24:39+00:00,kritsanaphon,Script-Javanese
+1237,849,False,2017-02-19 16:37:47+00:00,,moyogo,"ArimoTinosCousine,Script-LatinGreekCyrillic,TestSuite-Candidate,design-question,in-evaluation,wrong glyph(s)"
+1238,848,True,2017-02-19 16:23:16+00:00,2020-07-14 00:32:21+00:00,moyogo,"DM,Script-LatinGreekCyrillic,wrong glyph(s)"
+1239,847,True,2017-02-18 00:34:24+00:00,2017-03-15 23:44:04+00:00,TidharC,Script-Khmer
+1240,846,False,2017-02-17 21:06:41+00:00,,TidharC,"Android,Script-Khmer"
+1241,845,False,2017-02-16 18:41:51+00:00,,nizarsq,"Script-Arabic,in-evaluation"
+1242,844,False,2017-02-16 17:51:57+00:00,,marekjez86,"Script-Hebrew,in-evaluation"
+1243,843,True,2017-02-16 11:46:44+00:00,2021-02-09 21:51:19+00:00,khaledhosny,"Script-Arabic,Type-Enhancement"
+1244,842,False,2017-02-15 18:10:36+00:00,,marekjez86,"Android,Priority-High,Script-Arabic,in-evaluation"
+1245,841,True,2017-02-15 17:25:56+00:00,2017-03-06 16:48:58+00:00,mjansche,"Android,Priority-Critical,Script-Myanmar"
+1246,840,True,2017-02-15 16:48:32+00:00,2017-04-11 08:16:05+00:00,nizarsq,"Priority-High,Script-Arabic,Script-Hebrew,Status-NotoFixed"
+1247,839,True,2017-02-15 04:08:30+00:00,2021-02-09 20:39:28+00:00,dakaplo,"Script-Arabic,app-dependent-behavior"
+1248,838,True,2017-02-13 18:50:07+00:00,2019-06-13 20:01:33+00:00,jungshik,"Android,Priority-High,Script-Tibetan"
+1249,837,False,2017-02-10 18:38:33+00:00,,davelab6,"Script-LatinGreekCyrillic,in-evaluation"
+1250,836,True,2017-02-10 16:16:21+00:00,2020-05-22 20:07:45+00:00,nizarsq,Script-Arabic
+1251,835,True,2017-02-10 15:49:46+00:00,2017-03-17 03:25:36+00:00,nizarsq,"Android,Script-Arabic"
+1252,834,False,2017-02-09 06:20:20+00:00,,brawer,Noto-Process-Issue
+1253,833,True,2017-02-04 13:38:59+00:00,2020-05-17 09:55:11+00:00,sridatta1,Script-Brahmi
+1254,832,True,2017-02-03 19:40:21+00:00,2017-02-06 22:38:35+00:00,SafaAlfulaij,
+1255,831,False,2017-02-03 19:27:44+00:00,,twardoch,Script-LatinGreekCyrillic
+1256,830,True,2017-02-03 00:59:59+00:00,2017-02-16 21:23:05+00:00,xiangyexiao,
+1257,829,True,2017-01-30 18:19:19+00:00,2017-01-30 18:49:42+00:00,droopup,
+1258,828,True,2017-01-26 00:07:41+00:00,2017-01-26 22:50:41+00:00,sven-oly,Script-Adlam
+1259,827,True,2017-01-24 15:55:39+00:00,2021-02-12 04:27:33+00:00,marekjez86,
+1260,826,True,2017-01-24 13:19:43+00:00,2017-02-15 20:20:24+00:00,ramasuresh,Status-NeedsMoreInformation
+1261,825,True,2017-01-19 05:31:55+00:00,2017-01-21 03:49:00+00:00,Kanjilearner817,
+1262,824,True,2017-01-13 14:27:35+00:00,2021-04-03 04:00:41+00:00,brawer,
+1263,823,True,2017-01-13 14:16:11+00:00,2017-01-14 15:03:20+00:00,brawer,"Android,Priority-Medium"
+1264,822,True,2017-01-11 16:36:15+00:00,2019-10-03 00:32:20+00:00,KrasnayaPloshchad,"Android,Script-Mongolian,Type-Enhancement"
+1265,821,True,2017-01-03 07:41:01+00:00,2017-01-05 00:06:50+00:00,paulmcauley,
+1266,820,False,2017-01-02 02:41:24+00:00,,rastus-vernon,Script-LatinGreekCyrillic
+1267,819,True,2017-01-01 10:19:08+00:00,2018-07-15 04:32:01+00:00,sridatta1,"Android,Priority-High,Script-Kannada"
+1268,818,True,2016-12-31 06:56:27+00:00,2017-01-03 05:21:48+00:00,vegarda,"Script-LatinGreekCyrillic,Status-NotABug"
+1269,817,True,2016-12-29 16:28:37+00:00,2017-01-01 16:10:42+00:00,Naamani,
+1270,816,True,2016-12-27 15:10:48+00:00,2020-07-24 03:31:30+00:00,brawer,Script-LatinGreekCyrillic
+1271,815,True,2016-12-26 16:03:06+00:00,2020-06-18 15:52:50+00:00,sridatta1,"Android,Script-Kannada"
+1272,814,False,2016-12-26 12:21:33+00:00,,eroux,"Android,Script-Tibetan,Type-Enhancement"
+1273,813,True,2016-12-22 13:35:38+00:00,2020-07-19 05:13:11+00:00,sommerluk,Script-LatinGreekCyrillic
+1274,812,True,2016-12-21 13:32:58+00:00,2020-07-19 05:17:01+00:00,brawer,"Android,Script-LatinGreekCyrillic"
+1275,811,True,2016-12-19 20:32:26+00:00,2020-07-28 03:49:51+00:00,dougfelt,Script-Symbol
+1276,809,True,2016-12-16 09:09:35+00:00,2016-12-16 10:31:24+00:00,fifiteen82726,
+1277,808,False,2016-12-13 20:37:02+00:00,,kmuncie,"Script-LatinGreekCyrillic,design-question,in-evaluation,wrong glyph(s)"
+1278,807,True,2016-12-10 23:12:56+00:00,2021-03-02 04:17:28+00:00,massuncode,cla: no
+1279,806,False,2016-12-10 04:26:09+00:00,,sofeshue,"Android,Priority-Medium,Script-LatinGreekCyrillic,in-evaluation"
+1280,805,False,2016-12-06 09:42:13+00:00,,brawer,Script-Urdu
+1281,804,True,2016-12-02 19:32:37+00:00,2016-12-02 22:23:09+00:00,dougfelt,
+1282,803,True,2016-12-02 02:03:27+00:00,2016-12-02 22:25:00+00:00,Scarletts,
+1283,802,True,2016-12-02 01:28:07+00:00,2016-12-05 19:55:25+00:00,xiangyexiao,Script-Hebrew
+1284,801,True,2016-12-02 01:12:58+00:00,2017-03-02 18:58:40+00:00,xiangyexiao,Script-Myanmar
+1285,800,True,2016-12-02 00:36:59+00:00,2016-12-05 17:54:57+00:00,xiangyexiao,
+1286,799,True,2016-11-30 22:07:19+00:00,2016-12-05 17:56:42+00:00,xiangyexiao,Script-LatinGreekCyrillic
+1287,798,True,2016-11-30 22:03:53+00:00,2016-12-05 17:58:36+00:00,xiangyexiao,Script-Myanmar
+1288,797,False,2016-11-28 22:25:12+00:00,,jungshik,*add to FAQ or documentation
+1289,796,True,2016-11-27 20:42:35+00:00,2016-11-28 19:35:06+00:00,sommerluk,Script-LatinGreekCyrillic
+1290,795,False,2016-11-25 21:52:08+00:00,,twardoch,Script-LatinGreekCyrillic
+1291,794,False,2016-11-23 22:55:29+00:00,,marekjez86,"Android,Priority-High,Script-Cyrillic,Script-LatinGreekCyrillic,Type-Defect"
+1292,793,True,2016-11-17 14:15:49+00:00,2017-11-01 18:50:46+00:00,MayuraVerma,Script-Kannada
+1293,792,False,2016-11-14 02:45:42+00:00,,budiarto-id,
+1294,791,False,2016-11-13 09:14:04+00:00,,khooz,"Script-Arabic,Script-Urdu"
+1295,790,True,2016-11-09 07:06:55+00:00,2016-11-09 13:06:27+00:00,webguide1,
+1296,789,True,2016-11-08 15:53:54+00:00,2016-11-28 23:26:23+00:00,elTooDR,
+1297,788,False,2016-11-07 21:58:58+00:00,,codeman38,"Script-Monospace,Type-Enhancement"
+1298,787,True,2016-11-01 15:19:38+00:00,2016-11-20 11:48:38+00:00,marekjez86,Script-LatinGreekCyrillic
+1299,786,True,2016-11-01 15:17:32+00:00,2016-11-20 11:48:55+00:00,marekjez86,Script-LatinGreekCyrillic
+1300,785,True,2016-11-01 14:40:46+00:00,2016-11-20 11:49:16+00:00,marekjez86,Script-LatinGreekCyrillic
+1301,784,True,2016-11-01 14:22:19+00:00,2016-11-20 11:49:26+00:00,marekjez86,Script-LatinGreekCyrillic
+1302,783,True,2016-10-28 09:53:00+00:00,2016-10-31 17:25:26+00:00,shuchita-g,Script-Gurmukhi
+1303,782,False,2016-10-27 17:18:17+00:00,,jart,"Script-LatinGreekCyrillic,in-evaluation"
+1304,781,True,2016-10-27 14:14:08+00:00,2020-08-05 05:54:17+00:00,shikuru,Script-Hebrew
+1305,780,False,2016-10-27 14:05:48+00:00,,brawer,"Script-Myanmar,Type-Enhancement,help wanted"
+1306,779,True,2016-10-25 22:40:32+00:00,2016-11-20 11:51:22+00:00,marekjez86,Script-LatinGreekCyrillic
+1307,778,True,2016-10-25 18:50:23+00:00,2017-03-02 20:56:11+00:00,JackfromMc,"Android,Priority-Medium,Script-Myanmar"
+1308,777,True,2016-10-21 09:17:28+00:00,2020-06-09 08:02:32+00:00,claudius108,Script-Devanagari
+1309,776,True,2016-10-21 05:27:52+00:00,2016-10-22 00:25:37+00:00,jungshik,
+1310,775,False,2016-10-18 12:14:16+00:00,,guilt,Type-Defect
+1311,774,True,2016-10-17 09:35:06+00:00,2016-10-18 16:54:04+00:00,brawer,Script-Khmer
+1312,773,True,2016-10-16 17:00:18+00:00,2021-01-29 07:48:36+00:00,KrasnayaPloshchad,Script-Arabic
+1313,772,True,2016-10-16 11:16:26+00:00,2017-04-19 20:14:38+00:00,barkoosh,"Android,Priority-Critical,Script-Arabic"
+1314,771,False,2016-10-15 21:46:01+00:00,,lvml,*add to FAQ or documentation
+1315,770,True,2016-10-14 18:30:51+00:00,2017-03-07 12:57:05+00:00,MayuraVerma,Script-Kannada
+1316,769,True,2016-10-14 17:03:35+00:00,2016-10-26 06:09:42+00:00,ghost,Script-Myanmar
+1317,768,True,2016-10-14 06:48:52+00:00,2016-12-28 18:11:04+00:00,jmontane,"Script-LatinGreekCyrillic,Status-PendingReporterInput"
+1318,767,True,2016-10-13 06:47:27+00:00,2020-06-03 05:48:51+00:00,aliawa,Script-Arabic
+1319,766,True,2016-10-12 09:30:07+00:00,2017-05-30 17:56:16+00:00,brawer,Script-Cham
+1320,765,True,2016-10-11 03:07:21+00:00,2018-12-18 13:25:13+00:00,cahyoramadhani,"Android,Priority-High,Script-Javanese"
+1321,764,False,2016-10-10 23:23:59+00:00,,hakanai,"*add to FAQ or documentation,design-question,merge-fonts"
+1322,763,False,2016-10-10 22:37:45+00:00,,MayuraVerma,"ExternalDependency,Script-Kannada,in-evaluation"
+1323,762,True,2016-10-10 16:22:19+00:00,2020-08-05 05:36:24+00:00,davelab6,"Script-Hebrew,Status-NeedsValidation"
+1324,761,True,2016-10-10 15:23:43+00:00,2016-10-10 15:37:22+00:00,Rixius,
+1325,760,True,2016-10-10 00:20:31+00:00,2018-06-15 21:00:38+00:00,MayuraVerma,"Platform-MacOS,Script-Kannada"
+1326,759,True,2016-10-09 17:26:21+00:00,2017-04-17 14:09:27+00:00,MayuraVerma,"Android,Script-Kannada"
+1327,758,True,2016-10-09 06:12:06+00:00,2016-10-21 20:23:01+00:00,luke-jr,Status-WontFix
+1328,757,True,2016-10-08 12:49:27+00:00,2016-10-11 22:36:14+00:00,xnoreq,"Script-Monospace,Script-Symbol"
+1329,756,True,2016-10-07 20:10:07+00:00,2016-10-07 20:56:08+00:00,keoladonaghy,Script-Monospace
+1330,755,True,2016-10-07 16:28:01+00:00,2017-01-04 16:57:42+00:00,XANi,"Android,Priority-High,Script-Monospace"
+1331,754,True,2016-10-07 06:34:02+00:00,2016-10-12 16:05:42+00:00,chuckreynolds,
+1332,753,False,2016-10-04 00:02:26+00:00,,Alexendoo,"Emoji,Script-Emoji"
+1333,752,True,2016-10-03 19:20:28+00:00,2016-10-03 19:46:59+00:00,trevorpowell,
+1334,751,False,2016-09-28 17:09:38+00:00,,dougfelt,"Script-Monospace,design-question"
+1335,750,True,2016-09-28 16:51:35+00:00,2020-07-22 04:53:00+00:00,samdx,"ExternalDependency,Script-LatinGreekCyrillic,Status-ReadyForVerification"
+1336,749,True,2016-09-27 16:29:55+00:00,2018-12-11 16:52:51+00:00,brawer,Script-Balinese
+1337,748,False,2016-09-23 22:54:16+00:00,,dscorbett,"Android,Script-Coptic"
+1338,747,False,2016-09-23 02:24:45+00:00,,KrasnayaPloshchad,Script-Syriac
+1339,746,True,2016-09-21 21:41:05+00:00,2016-09-25 03:32:03+00:00,jungshik,"*add to FAQ or documentation,Type-Task"
+1340,745,True,2016-09-18 15:21:15+00:00,2016-09-19 16:30:50+00:00,dennisr35,
+1341,744,True,2016-09-17 08:27:03+00:00,2016-12-01 04:34:02+00:00,pnorman,*add to FAQ or documentation
+1342,743,True,2016-09-15 20:04:02+00:00,2017-11-30 19:26:28+00:00,Sagir8453,Script-Syloti-Nagri
+1343,742,True,2016-09-14 19:45:02+00:00,2016-09-21 21:36:35+00:00,dennisr35,Status-NotABug
+1344,741,True,2016-09-13 19:22:31+00:00,2016-09-21 21:42:17+00:00,yrmishra,"Script-Devanagari,Script-Thai,Status-NotABug"
+1345,740,True,2016-09-13 17:51:00+00:00,2017-03-02 20:38:38+00:00,sven-oly,"Script-Myanmar,Status-ReadyForVerification"
+1346,739,False,2016-09-09 13:58:22+00:00,,code-tree,"*add to FAQ or documentation,Component-Documentation,Component-Website"
+1347,738,False,2016-09-06 15:39:08+00:00,,brawer,Script-Manichaean
+1348,737,True,2016-08-29 15:09:59+00:00,2016-09-20 07:18:20+00:00,yogiks,"Script-Kannada,Type-Defect"
+1349,736,False,2016-08-29 01:06:36+00:00,,ile,WebFonts
+1350,735,True,2016-08-25 11:25:40+00:00,2020-07-28 21:22:59+00:00,brawer,"Script-Nastaliq,Script-Urdu"
+1351,734,True,2016-08-24 02:56:24+00:00,2020-07-22 04:39:03+00:00,roozbehp,"Android,FIX_INCOMPLETE,Script-LatinGreekCyrillic,Type-Task"
+1352,733,True,2016-08-19 19:44:24+00:00,2020-07-22 05:32:59+00:00,mina86,"FIX_INCOMPLETE,Script-LatinGreekCyrillic,Script-Monospace,Type-Enhancement"
+1353,732,False,2016-08-18 23:44:28+00:00,,taylorcanning,"Script-Myanmar,design-question"
+1354,731,True,2016-08-16 19:21:55+00:00,2016-08-22 17:51:34+00:00,marekjez86,
+1355,730,True,2016-08-05 19:48:48+00:00,2020-06-04 19:03:58+00:00,aiaf,"Platform-MacOS,Script-Arabic"
+1356,729,True,2016-08-02 08:36:53+00:00,2020-07-22 05:55:16+00:00,benk-cogapp,Script-LatinGreekCyrillic
+1357,728,True,2016-08-01 22:42:08+00:00,2020-06-11 14:37:36+00:00,dougfelt,"Android,Script-Bengali"
+1358,727,False,2016-08-01 21:39:12+00:00,,jungshik,Script-Khmer
+1359,726,True,2016-07-28 04:14:22+00:00,2020-07-28 21:21:54+00:00,sipraomer,Script-Urdu
+1360,725,True,2016-07-21 17:50:00+00:00,2019-10-03 00:25:50+00:00,jacobathomas,Script-Bengali
+1361,724,True,2016-07-17 16:23:36+00:00,2016-10-21 21:50:11+00:00,LionNatsu,Script-Syriac
+1362,723,True,2016-07-15 08:43:02+00:00,2020-07-22 19:43:23+00:00,tzot,"Android,ExpertReview,FIX_INCOMPLETE,Script-LatinGreekCyrillic"
+1363,721,True,2016-07-08 21:33:11+00:00,2020-07-28 21:21:22+00:00,roozbehp,"Android,Priority-High,Script-Arabic,Script-Thaana"
+1364,720,False,2016-07-01 16:29:56+00:00,,brawer,Script-Ethiopic
+1365,719,False,2016-06-25 07:36:07+00:00,,neogitter,"Android,Script-Telugu,design-question,in-evaluation"
+1366,718,True,2016-06-24 18:25:29+00:00,2016-06-24 18:44:14+00:00,c933103,Android
+1367,717,True,2016-06-24 05:42:56+00:00,2016-09-16 18:34:53+00:00,brawer,
+1368,716,False,2016-06-21 14:40:20+00:00,,jriddell,"Script-Monospace,Type-Enhancement"
+1369,715,True,2016-06-21 09:31:19+00:00,2016-10-22 00:25:37+00:00,brawer,"Platform-MacOS,Script-Lao,Type-Defect"
+1370,714,True,2016-06-21 00:47:14+00:00,2016-07-21 02:23:43+00:00,RolfNoyer,Script-Urdu
+1371,713,True,2016-06-13 10:15:58+00:00,2016-06-15 01:21:39+00:00,lemzwerg,"Android,Script-Cherokee"
+1372,712,True,2016-06-11 15:03:51+00:00,2020-07-20 16:20:42+00:00,dscorbett,"Android,FIX_INCOMPLETE,Priority-Medium,Script-LatinGreekCyrillic"
+1373,711,True,2016-06-10 14:06:49+00:00,2016-06-10 21:58:08+00:00,jriddell,
+1374,710,False,2016-06-06 06:59:50+00:00,,brawer,Script-Syriac
+1375,709,True,2016-06-03 23:45:29+00:00,2016-06-06 09:58:55+00:00,dbzlatan,
+1376,708,True,2016-06-01 23:41:35+00:00,2016-06-01 23:41:39+00:00,dougfelt,
+1377,707,False,2016-06-01 19:43:22+00:00,,brawer,"*add to FAQ or documentation,Component-Documentation"
+1378,706,True,2016-06-01 13:28:22+00:00,2016-06-01 16:34:28+00:00,kmuncie,
+1379,705,True,2016-05-31 21:04:31+00:00,2016-05-31 21:04:35+00:00,dougfelt,
+1380,704,False,2016-05-28 11:59:35+00:00,,moyogo,"ArimoTinosCousine,design-question,in-evaluation"
+1381,703,True,2016-05-27 18:42:49+00:00,2016-05-27 18:42:55+00:00,dougfelt,
+1382,702,True,2016-05-27 07:38:55+00:00,2016-06-09 08:34:53+00:00,bhaskar-c,Script-Devanagari
+1383,701,False,2016-05-27 06:07:28+00:00,,lemzwerg,"Android,Script-Ethiopic"
+1384,700,True,2016-05-27 01:56:15+00:00,2021-04-03 04:04:54+00:00,brawer,
+1385,699,True,2016-05-27 00:00:47+00:00,2016-06-01 23:47:15+00:00,brawer,
+1386,698,True,2016-05-26 23:37:23+00:00,2017-09-30 01:48:46+00:00,brawer,Script-Coptic
+1387,697,True,2016-05-26 23:25:02+00:00,2016-11-30 19:05:31+00:00,brawer,"Android,Script-LatinGreekCyrillic"
+1388,696,False,2016-05-26 23:00:04+00:00,,brawer,*add to FAQ or documentation
+1389,695,True,2016-05-26 22:54:42+00:00,2017-01-04 01:42:27+00:00,brawer,"Other-Enhancement,Script-LatinGreekCyrillic"
+1390,694,False,2016-05-26 22:49:26+00:00,,brawer,"ExpertReview,Script-LatinGreekCyrillic,in-evaluation"
+1391,693,False,2016-05-26 22:29:47+00:00,,brawer,"Android,ExpertReview,Script-TaiTham,wrong glyph(s)"
+1392,692,True,2016-05-26 04:45:21+00:00,2017-01-04 01:29:10+00:00,brawer,Script-LatinGreekCyrillic
+1393,691,False,2016-05-25 14:04:08+00:00,,snowpong,Script-Urdu
+1394,690,True,2016-05-20 20:07:50+00:00,2016-05-20 20:07:56+00:00,dougfelt,
+1395,689,True,2016-05-20 14:15:27+00:00,2020-07-28 04:04:05+00:00,edent,Script-Symbol
+1396,688,True,2016-05-20 01:20:44+00:00,2016-05-20 01:20:51+00:00,dougfelt,
+1397,687,True,2016-05-17 15:27:22+00:00,2020-08-07 03:50:03+00:00,marekjez86,ArimoTinosCousine
+1398,686,False,2016-05-17 15:20:57+00:00,,marekjez86,"ArimoTinosCousine,in-evaluation"
+1399,685,False,2016-05-17 15:11:45+00:00,,marekjez86,"ArimoTinosCousine,in-evaluation"
+1400,684,False,2016-05-17 15:00:16+00:00,,marekjez86,"ArimoTinosCousine,in-evaluation"
+1401,683,False,2016-05-17 14:45:07+00:00,,marekjez86,"ArimoTinosCousine,in-evaluation"
+1402,682,False,2016-05-17 14:08:46+00:00,,marekjez86,"ArimoTinosCousine,in-evaluation"
+1403,681,False,2016-05-17 13:45:54+00:00,,marekjez86,"ArimoTinosCousine,in-evaluation"
+1404,680,False,2016-05-17 04:43:30+00:00,,marekjez86,"ArimoTinosCousine,in-evaluation"
+1405,679,False,2016-05-17 01:18:46+00:00,,marekjez86,"ArimoTinosCousine,in-evaluation"
+1406,678,False,2016-05-17 00:50:34+00:00,,marekjez86,"ArimoTinosCousine,in-evaluation"
+1407,677,False,2016-05-16 22:43:04+00:00,,marekjez86,"ArimoTinosCousine,in-evaluation"
+1408,676,False,2016-05-13 10:22:40+00:00,,brawer,"*add to FAQ or documentation,merge-fonts"
+1409,675,True,2016-05-06 18:59:21+00:00,2021-02-12 04:36:28+00:00,davelab6,
+1410,674,False,2016-05-02 17:58:51+00:00,,jungshik,Script-Cherokee
+1411,673,True,2016-05-01 17:08:16+00:00,2020-07-28 21:20:45+00:00,moyogo,Script-Urdu
+1412,672,True,2016-04-28 09:24:54+00:00,2016-04-28 16:46:45+00:00,KrasnayaPloshchad,
+1413,670,True,2016-04-24 04:33:42+00:00,2016-04-26 13:57:30+00:00,lemzwerg,
+1414,669,True,2016-04-21 12:48:20+00:00,2020-07-20 16:41:58+00:00,loskutov,"Script-LatinGreekCyrillic,Script-Monospace"
+1415,668,True,2016-04-19 07:58:10+00:00,2017-01-04 01:18:47+00:00,DLasher106,"Android,Script-LatinGreekCyrillic,Status-PendingReporterInput"
+1416,667,False,2016-04-19 07:46:18+00:00,,DLasher106,"Android,Priority-Medium,Script-LatinGreekCyrillic,design-question,in-evaluation"
+1417,666,True,2016-04-19 07:31:30+00:00,2021-03-31 22:04:43+00:00,DLasher106,"Android,Priority-Medium,Script-LatinGreekCyrillic,in-evaluation"
+1418,665,False,2016-04-18 20:20:06+00:00,,KrasnayaPloshchad,"Android,Script-Syriac"
+1419,664,True,2016-04-18 16:55:28+00:00,2016-04-18 16:58:12+00:00,Mottie,
+1420,663,True,2016-04-15 17:48:44+00:00,2019-06-13 20:02:31+00:00,dscorbett,"Android,Script-Tibetan"
+1421,662,True,2016-04-15 04:11:06+00:00,2016-09-19 21:03:32+00:00,twardoch,
+1422,661,True,2016-04-13 08:48:53+00:00,2021-05-04 16:48:22+00:00,moyogo,"Android,Priority-High,Script-Arabic"
+1423,660,True,2016-04-07 08:13:10+00:00,2020-09-14 03:05:42+00:00,JelleBosmaMT,"Script-Sinhala,wrong glyph(s)"
+1424,659,True,2016-03-29 16:39:13+00:00,2016-03-29 16:39:19+00:00,dougfelt,
+1425,658,True,2016-03-29 04:17:35+00:00,2019-06-13 20:03:05+00:00,KrasnayaPloshchad,"Android,Script-Tibetan"
+1426,657,True,2016-03-29 00:44:17+00:00,2017-11-30 16:05:23+00:00,diantn,"Android,Priority-Medium,Script-Sundanese"
+1427,656,True,2016-03-26 01:29:52+00:00,2016-03-29 16:40:32+00:00,davelab6,
+1428,655,True,2016-03-25 23:37:22+00:00,2016-03-25 23:45:43+00:00,dougfelt,*add to FAQ or documentation
+1429,654,True,2016-03-24 21:12:17+00:00,2016-03-24 22:30:53+00:00,jungshik,
+1430,653,True,2016-03-23 11:32:24+00:00,2016-09-23 16:50:52+00:00,signinstranger,"Android,Priority-Medium,Script-Coptic"
+1431,652,False,2016-03-21 17:27:13+00:00,,KrasnayaPloshchad,"Script-Arabic,Script-Urdu,in-evaluation"
+1432,651,True,2016-03-21 06:02:40+00:00,2021-02-12 05:00:58+00:00,workoft,Script-Symbol
+1433,650,True,2016-03-17 21:42:04+00:00,2018-12-10 15:26:13+00:00,emuller-amazon,"Android,Priority-Medium,Script-Malayalam"
+1434,649,False,2016-03-17 19:27:35+00:00,,emuller-amazon,"Android,Priority-Medium,Script-Tamil,in-evaluation"
+1435,648,True,2016-03-17 18:36:19+00:00,2020-06-24 05:50:14+00:00,emuller-amazon,"Android,Priority-High,Script-Tamil"
+1436,647,True,2016-03-17 05:25:43+00:00,2020-06-21 05:56:47+00:00,Kanjilearner817,"Android,Priority-Medium,Script-Oriya"
+1437,646,False,2016-03-17 01:43:37+00:00,,roozbehp,"Android,Priority-High,Script-Symbol,in-evaluation"
+1438,645,False,2016-03-16 18:10:32+00:00,,roozbehp,"Android,Priority-Medium,Script-Symbol,in-evaluation"
+1439,644,True,2016-03-15 22:26:25+00:00,2016-03-15 23:18:42+00:00,jungshik,
+1440,643,True,2016-03-13 20:06:40+00:00,2016-03-13 20:06:46+00:00,dougfelt,
+1441,642,False,2016-03-12 04:41:50+00:00,,roozbehp,"Android,Priority-Medium,Script-CanadianAboriginal,design-question,in-evaluation"
+1442,641,True,2016-03-11 11:29:19+00:00,2016-03-25 18:06:52+00:00,brawer,
+1443,640,True,2016-03-11 10:33:25+00:00,2021-02-12 04:30:38+00:00,brawer,
+1444,639,True,2016-03-11 04:27:38+00:00,2016-03-18 05:02:48+00:00,Kanjilearner817,
+1445,638,False,2016-03-10 21:46:11+00:00,,boorishpea,Script-LatinGreekCyrillic
+1446,637,True,2016-03-10 09:57:22+00:00,2019-06-13 20:03:45+00:00,jungshik,"Android,Priority-Medium,Script-Tibetan"
+1447,636,True,2016-03-10 02:04:15+00:00,2016-03-10 02:04:21+00:00,dougfelt,
+1448,635,True,2016-03-08 18:32:52+00:00,2021-02-12 04:34:47+00:00,brawer,Script-LatinGreekCyrillic
+1449,634,True,2016-03-07 23:12:19+00:00,2020-07-28 21:19:58+00:00,moyogo,Script-Urdu
+1450,633,True,2016-03-05 01:07:42+00:00,2016-03-07 18:43:23+00:00,dougfelt,
+1451,632,False,2016-03-04 21:42:43+00:00,,behdad,"Android,Priority-Medium,in-evaluation"
+1452,631,True,2016-03-03 23:10:41+00:00,2016-03-11 21:40:29+00:00,jungshik,"Android,Monotype,Priority-High"
+1453,630,True,2016-02-28 18:03:42+00:00,2016-03-01 17:46:35+00:00,sommerluk,Type-Enhancement
+1454,629,True,2016-02-28 17:26:00+00:00,2016-03-01 14:55:45+00:00,sommerluk,
+1455,628,False,2016-02-25 19:42:24+00:00,,aupasana,"Script-Devanagari,in-evaluation"
+1456,627,True,2016-02-20 00:49:42+00:00,2016-03-13 20:23:49+00:00,jungshik,"Android,GNTF,Priority-High,Script-Syriac"
+1457,626,True,2016-02-16 15:56:55+00:00,2021-02-12 04:30:10+00:00,brawer,
+1458,625,True,2016-02-14 19:05:55+00:00,2016-03-23 21:32:40+00:00,bhaskar-c,
+1459,624,False,2016-02-11 05:25:09+00:00,,NorbertLindenberg,"Android,Priority-Medium,Script-Batak,in-evaluation"
+1460,623,False,2016-02-11 04:50:25+00:00,,NorbertLindenberg,"Android,Priority-Medium,Script-Batak,in-evaluation"
+1461,622,True,2016-02-10 22:54:29+00:00,2019-05-09 03:13:42+00:00,iwsfutcmd,Script-LatinGreekCyrillic
+1462,621,True,2016-02-10 00:16:00+00:00,2016-02-10 00:16:10+00:00,dougfelt,
+1463,620,True,2016-02-10 00:11:20+00:00,2016-02-10 00:11:24+00:00,dougfelt,
+1464,619,False,2016-02-07 17:22:19+00:00,,dscorbett,Script-Brahmi
+1465,618,True,2016-02-07 10:19:36+00:00,2021-02-12 04:32:05+00:00,jonassmedegaard,
+1466,617,False,2016-02-05 04:27:57+00:00,,hyc,"Android,Priority-High,Script-Monospace,Script-Symbol,in-evaluation"
+1467,616,True,2016-02-04 19:37:10+00:00,2019-10-03 00:30:54+00:00,roozbehp,"Android,Script-Mongolian,Type-Enhancement"
+1468,615,True,2016-02-02 15:29:40+00:00,2018-12-19 10:23:36+00:00,pcdi,"Android,Monotype,Priority-Medium,Script-Mongolian"
+1469,614,True,2016-02-01 19:54:53+00:00,2016-02-01 22:37:17+00:00,davelab6,
+1470,613,True,2016-01-28 21:51:49+00:00,2016-01-28 21:51:52+00:00,dougfelt,
+1471,612,True,2016-01-28 19:37:49+00:00,2021-03-30 15:13:46+00:00,roozbehp,"Script-Miao,wrong glyph(s)"
+1472,611,True,2016-01-28 10:51:58+00:00,2016-03-23 21:36:18+00:00,ozawa-hi,
+1473,610,True,2016-01-26 01:21:10+00:00,2018-10-13 18:03:29+00:00,roozbehp,"Android,Priority-Medium,Script-Kannada"
+1474,609,True,2016-01-26 00:40:25+00:00,2018-03-22 17:57:34+00:00,roozbehp,Script-Sharada
+1475,608,True,2016-01-23 06:44:47+00:00,2016-11-17 17:15:59+00:00,dkuspawono,
+1476,607,False,2016-01-15 12:03:32+00:00,,ebraminio,"Script-Urdu,Type-Enhancement"
+1477,606,True,2016-01-15 11:50:37+00:00,2016-10-20 12:10:21+00:00,ebraminio,"Script-Arabic,Script-Urdu,Type-Enhancement"
+1478,605,True,2016-01-15 11:32:01+00:00,2016-02-15 21:11:56+00:00,ebraminio,Script-Urdu
+1479,604,True,2016-01-06 08:38:26+00:00,2020-06-11 14:45:57+00:00,kmanwar,"Android,Priority-Medium,Script-Bengali,Type-Defect"
+1480,603,True,2016-01-04 18:16:36+00:00,2016-03-05 00:49:57+00:00,davelab6,Type-Enhancement
+1481,602,True,2015-12-29 21:14:20+00:00,2015-12-29 21:14:24+00:00,dougfelt,
+1482,601,False,2015-12-28 20:05:09+00:00,,brawer,"Script-Bengali,Script-Devanagari,in-evaluation"
+1483,600,True,2015-12-26 22:45:26+00:00,2015-12-28 20:49:34+00:00,tetsuo55,
+1484,599,True,2015-12-26 22:40:08+00:00,2016-01-08 22:18:39+00:00,tetsuo55,
+1485,598,True,2015-12-22 09:56:21+00:00,2017-02-01 17:16:29+00:00,chorice,Script-Thai
+1486,597,True,2015-12-19 11:41:38+00:00,2020-07-28 21:18:18+00:00,saadatm,"Script-Urdu,Type-Enhancement"
+1487,596,True,2015-12-18 10:58:29+00:00,2016-01-11 19:11:26+00:00,flying-sheep,Type-Enhancement
+1488,595,False,2015-12-18 00:19:37+00:00,,xiangyexiao,"ArimoTinosCousine,in-evaluation"
+1489,594,True,2015-12-17 23:11:07+00:00,2015-12-17 23:11:12+00:00,dougfelt,
+1490,593,True,2015-12-16 23:56:04+00:00,2015-12-17 22:14:44+00:00,dougfelt,
+1491,592,True,2015-12-16 01:09:39+00:00,2015-12-17 22:15:13+00:00,xiangyexiao,Script-LatinGreekCyrillic
+1492,591,True,2015-12-15 18:21:25+00:00,2015-12-15 18:21:29+00:00,dougfelt,
+1493,590,True,2015-12-12 07:15:50+00:00,2016-01-08 22:40:54+00:00,typiconman,"Android,Other-Enhancement,Script-LatinGreekCyrillic"
+1494,589,True,2015-12-10 21:37:08+00:00,2015-12-10 21:37:11+00:00,dougfelt,
+1495,588,False,2015-12-08 22:19:38+00:00,,moyogo,"Android,Priority-Medium,in-evaluation"
+1496,587,True,2015-12-07 08:55:37+00:00,2017-02-01 18:23:44+00:00,lemzwerg,"Android,FoundIn-1.x,Priority-Medium,Script-Khmer,Type-Defect"
+1497,586,True,2015-12-04 22:18:16+00:00,2018-12-11 16:52:51+00:00,NorbertLindenberg,"Android,Priority-Medium,Script-Balinese,Type-Defect"
+1498,585,True,2015-12-04 22:12:18+00:00,2018-12-11 16:52:51+00:00,NorbertLindenberg,"Android,Priority-Medium,Script-Balinese,Type-Enhancement"
+1499,584,True,2015-12-04 22:09:50+00:00,2018-12-11 16:52:50+00:00,NorbertLindenberg,"Script-Balinese,Type-Enhancement"
+1500,583,True,2015-12-04 22:06:00+00:00,2018-12-11 16:52:50+00:00,NorbertLindenberg,"Android,Priority-Medium,Script-Balinese"
+1501,582,True,2015-12-04 18:19:31+00:00,2015-12-04 18:19:40+00:00,dougfelt,
+1502,581,True,2015-12-03 23:39:27+00:00,2016-05-13 00:46:40+00:00,moyogo,"ArimoTinosCousine,Script-LatinGreekCyrillic,Type-Defect"
+1503,580,True,2015-12-03 23:28:17+00:00,2016-11-30 21:44:01+00:00,moyogo,"Android,Script-LatinGreekCyrillic"
+1504,579,True,2015-12-03 16:50:32+00:00,2015-12-14 09:14:33+00:00,coldbreeze16,Script-Oriya
+1505,578,True,2015-12-03 10:37:03+00:00,2016-11-30 23:50:34+00:00,ghost,Script-LatinGreekCyrillic
+1506,577,True,2015-12-02 22:49:33+00:00,2015-12-05 01:01:45+00:00,dougfelt,
+1507,576,True,2015-11-26 00:48:19+00:00,2020-08-19 14:35:34+00:00,jungshik,"Android,Priority-Medium"
+1508,575,True,2015-11-23 08:42:16+00:00,2015-12-10 21:25:34+00:00,jonassmedegaard,Priority-High
+1509,574,True,2015-11-20 22:59:06+00:00,2018-12-19 02:37:13+00:00,dougfelt,"Android,Priority-Medium,Script-Javanese"
+1510,573,False,2015-11-19 18:21:21+00:00,,roozbehp,"Android,Priority-High,Script-Syriac,in-evaluation"
+1511,572,True,2015-11-18 19:02:22+00:00,2018-12-11 16:52:49+00:00,jungshik,"Android,Priority-Medium,Script-Balinese"
+1512,571,True,2015-11-18 18:28:11+00:00,2015-11-24 20:00:29+00:00,jungshik,
+1513,570,True,2015-11-17 18:28:18+00:00,2017-11-30 23:40:22+00:00,jungshik,"Script-Kaithi,Type-Defect"
+1514,569,True,2015-11-17 18:22:40+00:00,2017-11-30 23:33:50+00:00,jungshik,"Script-Kaithi,Type-Defect"
+1515,568,True,2015-11-17 16:41:26+00:00,2016-05-18 19:55:25+00:00,deepakjois,Script-Arabic
+1516,567,True,2015-11-17 16:28:03+00:00,2020-07-28 21:17:35+00:00,deepakjois,Script-Urdu
+1517,566,True,2015-11-16 22:08:25+00:00,2015-11-24 20:00:07+00:00,dougfelt,
+1518,565,True,2015-11-16 07:37:37+00:00,2015-11-16 17:55:13+00:00,jungshik,
+1519,564,True,2015-11-16 02:23:36+00:00,2015-12-07 22:16:37+00:00,lemzwerg,Script-Khmer
+1520,563,True,2015-11-12 01:51:09+00:00,2020-08-12 04:59:04+00:00,roozbehp,"Android,Priority-Medium,Script-Myanmar,Type-Enhancement,help wanted"
+1521,562,True,2015-11-12 01:43:09+00:00,2016-01-15 20:39:09+00:00,dougfelt,
+1522,561,True,2015-11-11 22:42:01+00:00,2017-01-04 01:06:49+00:00,roozbehp,Script-LatinGreekCyrillic
+1523,560,False,2015-11-11 22:38:49+00:00,,roozbehp,"Script-Symbol,in-evaluation"
+1524,559,True,2015-11-11 19:11:31+00:00,2016-01-15 20:08:14+00:00,graphicore,
+1525,558,True,2015-11-11 01:15:40+00:00,2015-11-11 18:03:24+00:00,jungshik,
+1526,557,True,2015-11-11 00:00:42+00:00,2016-02-10 00:23:03+00:00,roozbehp,"Android,Priority-High,Script-Symbol"
+1527,556,True,2015-11-10 17:46:27+00:00,2016-01-15 20:37:00+00:00,sebastic,
+1528,555,True,2015-11-10 10:40:03+00:00,2016-01-16 08:47:12+00:00,copyninja,Type-Task
+1529,554,True,2015-11-09 23:13:01+00:00,2015-11-20 22:40:31+00:00,dougfelt,"Android,FoundIn-1.x,Script-Javanese,Type-Defect"
+1530,553,True,2015-11-09 23:04:48+00:00,2015-11-09 23:04:56+00:00,dougfelt,
+1531,552,True,2015-11-05 23:24:21+00:00,2016-05-06 19:32:05+00:00,ghost,Status-NeedsMoreInformation
+1532,551,True,2015-11-05 19:06:15+00:00,2017-05-30 19:46:05+00:00,jungshik,"Android,Priority-Medium,Script-Tifinagh"
+1533,550,True,2015-11-05 18:34:34+00:00,2017-05-30 19:41:49+00:00,jungshik,Script-Tifinagh
+1534,549,True,2015-11-04 18:40:17+00:00,2015-11-04 18:42:41+00:00,jungshik,
+1535,548,True,2015-11-04 18:18:07+00:00,2020-08-14 04:31:58+00:00,marekjez86,"Android,Priority-High,Sans,Script-LatinGreekCyrillic,Serif,Type-Enhancement"
+1536,547,True,2015-11-04 18:11:37+00:00,2020-07-29 01:46:33+00:00,marekjez86,"Script-Symbol,Type-Enhancement"
+1537,546,True,2015-11-04 00:55:08+00:00,2015-11-04 18:39:51+00:00,jungshik,
+1538,545,True,2015-11-03 21:58:28+00:00,2017-09-30 02:04:50+00:00,marekjez86,"Script-Coptic,Type-Enhancement"
+1539,544,True,2015-11-03 21:52:00+00:00,2015-12-09 18:50:46+00:00,marekjez86,"Android,Script-Coptic"
+1540,543,True,2015-11-03 20:10:44+00:00,2015-11-26 00:53:20+00:00,jungshik,"Priority-Critical,Type-Defect"
+1541,542,True,2015-10-29 18:27:49+00:00,2018-12-19 10:31:23+00:00,dougfelt,"Android,Monotype,Priority-Medium,Script-Mongolian"
+1542,541,False,2015-10-29 10:17:39+00:00,,etsnyman,Type-Enhancement
+1543,540,True,2015-10-28 21:04:00+00:00,2015-11-04 18:42:41+00:00,jungshik,"Priority-Critical,Script-LatinGreekCyrillic,Type-Defect"
+1544,539,True,2015-10-28 18:33:03+00:00,2015-11-11 18:03:25+00:00,dougfelt,"Android,Priority-Critical,Script-Tifinagh,Type-Defect"
+1545,538,True,2015-10-27 17:57:03+00:00,2015-10-27 21:04:16+00:00,xiangyexiao,Script-Tamil
+1546,537,True,2015-10-26 20:43:16+00:00,2015-10-26 21:01:26+00:00,jungshik,
+1547,536,True,2015-10-25 16:28:28+00:00,2016-11-22 11:29:07+00:00,moyogo,"ArimoTinosCousine,Priority-Medium,Script-LatinGreekCyrillic"
+1548,535,True,2015-10-25 01:33:57+00:00,2018-12-10 15:21:33+00:00,MayuraVerma,"Android,Priority-High,Script-Kannada"
+1549,534,True,2015-10-24 00:49:15+00:00,2015-10-24 00:49:21+00:00,dougfelt,
+1550,533,True,2015-10-19 22:43:56+00:00,2016-03-15 23:18:42+00:00,roozbehp,"Android,GNTF,Priority-High,Script-LatinGreekCyrillic"
+1551,532,True,2015-10-18 13:27:58+00:00,2015-10-20 20:04:26+00:00,davelab6,*add to FAQ or documentation
+1552,531,True,2015-10-18 11:52:16+00:00,2015-10-20 20:04:26+00:00,brawer,
+1553,530,True,2015-10-16 00:51:34+00:00,2016-02-10 08:45:41+00:00,xiangyexiao,Script-Symbol
+1554,529,False,2015-10-14 22:03:10+00:00,,xiangyexiao,"Android,Priority-Medium,Script-Gurmukhi,in-evaluation"
+1555,528,True,2015-10-14 00:18:16+00:00,2015-10-14 00:19:36+00:00,jungshik,
+1556,527,True,2015-10-13 22:24:42+00:00,2015-10-14 00:01:20+00:00,zenodotus,Status-NotABug
+1557,526,True,2015-10-07 06:04:28+00:00,2017-01-03 23:42:30+00:00,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1558,525,True,2015-10-02 18:53:21+00:00,2015-10-02 18:53:48+00:00,dougfelt,
+1559,524,True,2015-09-30 19:09:26+00:00,2020-03-10 20:22:27+00:00,roozbehp,"Android,GNTF,Priority-Critical,Script-Arabic,Script-Armenian,Script-Bengali,Script-Coptic,Script-Devanagari,Script-Ethiopic,Script-Georgian,Script-Gujarati,Script-Gurmukhi,Script-Hebrew,Script-Kannada,Script-Khmer,Script-LatinGreekCyrillic,Script-Malayalam,Script-Oriya,Script-Tamil,Script-Telugu,Script-Thai,Script-Tibetan,Type-Defect"
+1560,523,True,2015-09-29 17:05:46+00:00,2020-09-14 03:06:32+00:00,mjansche,"Android,Priority-Medium,Script-Sinhala"
+1561,522,True,2015-09-29 16:20:03+00:00,2015-09-29 16:20:19+00:00,dougfelt,
+1562,521,False,2015-09-27 04:59:06+00:00,,lemzwerg,"Android,FoundIn-1.x,Priority-Medium,Script-Lao,in-evaluation"
+1563,520,True,2015-09-26 17:04:55+00:00,2015-10-26 21:01:26+00:00,lemzwerg,"Script-Khmer,Script-Lao,Type-Defect"
+1564,519,True,2015-09-26 16:55:00+00:00,2015-11-04 18:39:51+00:00,lemzwerg,"FoundIn-1.x,Script-Lao"
+1565,518,True,2015-09-23 00:56:41+00:00,2017-01-03 23:38:52+00:00,mycroftxxx,"Script-LatinGreekCyrillic,Status-NeedsMoreInformation"
+1566,517,True,2015-09-22 21:58:45+00:00,2015-09-22 22:20:16+00:00,dougfelt,
+1567,516,True,2015-09-15 13:12:47+00:00,2016-08-16 19:22:18+00:00,HaDavids,"Android,Priority-Medium,Script-Myanmar,Type-Defect"
+1568,515,True,2015-09-15 07:06:35+00:00,2015-09-16 17:25:52+00:00,vnh19,Script-LatinGreekCyrillic
+1569,514,True,2015-09-14 22:46:29+00:00,2015-09-30 05:13:47+00:00,baig,
+1570,513,True,2015-09-10 00:14:50+00:00,2021-02-12 04:31:29+00:00,loveualot,
+1571,512,True,2015-09-09 07:44:20+00:00,2016-03-15 23:20:25+00:00,moyogo,"Android,GNTF,Priority-High,Script-LatinGreekCyrillic,Type-Defect"
+1572,511,True,2015-09-08 23:13:13+00:00,2017-01-02 13:35:15+00:00,moyogo,"Script-LatinGreekCyrillic,Status-PendingReporterInput,Type-Defect"
+1573,510,True,2015-09-08 18:36:23+00:00,2017-01-03 23:08:52+00:00,aaaxx,"Android,Priority-High,Script-LatinGreekCyrillic"
+1574,509,True,2015-09-08 18:25:40+00:00,2015-09-08 18:25:49+00:00,dougfelt,
+1575,508,True,2015-09-06 19:59:56+00:00,2017-01-03 05:13:52+00:00,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1576,507,True,2015-09-06 13:39:47+00:00,2017-01-02 13:30:24+00:00,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1577,506,True,2015-09-06 09:59:48+00:00,2017-01-02 13:29:11+00:00,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1578,505,True,2015-09-05 22:41:05+00:00,2016-12-01 00:41:50+00:00,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1579,504,False,2015-09-05 20:07:26+00:00,,moyogo,"Android,FIX_INCOMPLETE,Priority-Medium,Script-LatinGreekCyrillic,Type-Enhancement,in-evaluation"
+1580,503,True,2015-09-05 09:41:53+00:00,2016-11-30 23:20:50+00:00,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1581,502,True,2015-09-05 09:35:20+00:00,2015-11-03 00:41:26+00:00,MayuraVerma,Script-Kannada
+1582,501,True,2015-09-05 08:53:34+00:00,2016-12-30 22:26:49+00:00,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1583,500,True,2015-09-05 00:43:06+00:00,2015-09-05 00:43:12+00:00,dougfelt,
+1584,499,True,2015-09-04 12:13:20+00:00,2016-12-30 22:35:16+00:00,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic,Type-Enhancement"
+1585,498,True,2015-09-04 09:01:13+00:00,2016-12-30 22:27:59+00:00,moyogo,"Script-LatinGreekCyrillic,Type-Enhancement"
+1586,497,False,2015-09-04 08:49:24+00:00,,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect,in-evaluation"
+1587,496,True,2015-09-04 07:57:56+00:00,2016-09-01 22:13:06+00:00,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1588,495,True,2015-09-04 07:38:18+00:00,2016-12-30 04:17:03+00:00,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1589,494,False,2015-09-04 07:05:53+00:00,,moyogo,"ArimoTinosCousine,Script-LatinGreekCyrillic,Type-Enhancement,design-question,in-evaluation"
+1590,493,False,2015-09-04 06:32:10+00:00,,moyogo,"ArimoTinosCousine,FIX_INCOMPLETE,Script-LatinGreekCyrillic,Type-Enhancement,design-question,in-evaluation"
+1591,492,True,2015-09-04 04:48:36+00:00,2015-09-04 18:50:38+00:00,MayuraVerma,
+1592,491,True,2015-09-03 08:20:39+00:00,2020-07-22 20:25:39+00:00,moyogo,"Android,Priority-Medium,Script-LatinGreekCyrillic"
+1593,490,True,2015-09-02 21:52:54+00:00,2015-09-02 21:53:35+00:00,dougfelt,
+1594,489,False,2015-08-31 20:14:07+00:00,,jungshik,"FIX_INCOMPLETE,Script-LatinGreekCyrillic,Type-Enhancement"
+1595,488,True,2015-08-31 16:26:19+00:00,2015-08-31 16:26:26+00:00,dougfelt,
+1596,487,True,2015-08-28 20:50:31+00:00,2015-08-28 20:51:24+00:00,dougfelt,
+1597,486,True,2015-08-24 17:56:51+00:00,2015-08-28 20:51:07+00:00,dougfelt,
+1598,485,True,2015-08-22 04:28:41+00:00,2015-10-02 16:25:25+00:00,c933103,
+1599,484,False,2015-08-21 21:05:02+00:00,,dougfelt,"Android,FIX_INCOMPLETE,Priority-Medium,Script-LatinGreekCyrillic,Type-Enhancement,design-question,in-evaluation"
+1600,483,True,2015-08-19 23:30:41+00:00,2015-08-19 23:30:44+00:00,dougfelt,
+1601,482,True,2015-08-19 23:27:10+00:00,2015-08-19 23:27:13+00:00,dougfelt,
+1602,481,True,2015-08-19 23:23:15+00:00,2015-08-19 23:23:20+00:00,dougfelt,
+1603,480,True,2015-08-19 23:17:59+00:00,2015-08-19 23:18:03+00:00,dougfelt,
+1604,479,True,2015-08-19 23:12:05+00:00,2015-08-19 23:12:10+00:00,dougfelt,
+1605,478,False,2015-08-19 12:32:54+00:00,,flashgangsta,Type-Enhancement
+1606,477,False,2015-08-17 21:42:12+00:00,,roozbehp,Sans
+1607,476,True,2015-08-12 23:55:50+00:00,2015-08-12 23:56:00+00:00,dougfelt,
+1608,475,True,2015-08-12 22:45:48+00:00,2015-08-12 22:45:57+00:00,dougfelt,
+1609,474,False,2015-08-10 13:17:38+00:00,,marekjez86,"Android,Priority-High,Script-Devanagari,Type-Defect,in-evaluation"
+1610,473,True,2015-08-07 18:32:28+00:00,2018-12-10 15:26:54+00:00,roozbehp,Script-Malayalam
+1611,472,True,2015-08-07 14:54:49+00:00,2016-03-11 05:09:02+00:00,marekjez86,"Android,Priority-Medium,Script-TaiTham,Type-Defect"
+1612,471,False,2015-08-07 14:12:30+00:00,,marekjez86,"Script-Syriac,Type-Defect"
+1613,470,True,2015-08-07 14:04:11+00:00,2017-02-08 18:26:17+00:00,marekjez86,"Script-ImperialAramaic,Type-Defect"
+1614,469,True,2015-08-05 23:54:11+00:00,2020-07-29 03:09:07+00:00,marekjez86,"Script-Symbol,Type-Defect"
+1615,468,True,2015-08-05 23:45:57+00:00,2016-03-03 23:33:27+00:00,marekjez86,"Android,FoundIn-1.x,Priority-High,Script-Myanmar,Status-NeedsValidation,Type-Defect"
+1616,467,True,2015-08-05 23:44:02+00:00,2016-11-09 16:28:57+00:00,marekjez86,"Android,FoundIn-1.x,Priority-Medium,Script-Myanmar,Type-Defect"
+1617,466,False,2015-08-05 18:22:08+00:00,,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-Lisu,Type-Defect,in-evaluation"
+1618,465,True,2015-08-05 18:15:54+00:00,2019-08-28 21:03:49+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-Lisu"
+1619,464,True,2015-08-05 18:03:57+00:00,2017-05-30 20:15:05+00:00,jungshik,"FoundIn-1.x,Script-Pahlavi,Type-Defect"
+1620,463,True,2015-08-05 18:00:21+00:00,2017-05-30 20:15:33+00:00,jungshik,"FoundIn-1.x,Script-Pahlavi,Type-Defect"
+1621,462,True,2015-08-05 17:43:22+00:00,2015-10-28 18:25:13+00:00,jungshik,"Android,FoundIn-1.x,Script-Tifinagh,Type-Defect"
+1622,461,True,2015-08-05 02:23:15+00:00,2017-02-06 16:56:08+00:00,marekjez86,"Android,FoundIn-1.x,Priority-High,Script-Thai,Type-Defect"
+1623,460,False,2015-08-05 02:17:19+00:00,,marekjez86,"Android,FoundIn-1.x,Priority-Medium,Script-Arabic,in-evaluation"
+1624,459,True,2015-08-05 01:06:37+00:00,2018-12-10 15:22:13+00:00,marekjez86,"Android,FoundIn-1.x,Priority-Medium,Script-Brahmi,Script-Kannada,Type-Defect"
+1625,458,True,2015-08-04 23:51:12+00:00,2015-09-04 20:25:51+00:00,jungshik,"FoundIn-1.x,Script-Kaithi,Type-Defect"
+1626,457,True,2015-08-04 23:47:23+00:00,2020-06-24 05:26:58+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-Tamil"
+1627,456,True,2015-08-04 23:24:28+00:00,2015-10-16 00:25:54+00:00,marekjez86,"FoundIn-1.x,Script-Parthian,Type-Defect"
+1628,455,True,2015-08-04 23:21:15+00:00,2015-10-07 16:24:59+00:00,marekjez86,"FoundIn-1.x,Script-Parthian,Type-Defect"
+1629,454,True,2015-08-04 23:18:50+00:00,2015-10-16 00:22:25+00:00,marekjez86,"FoundIn-1.x,Script-Parthian,Type-Defect"
+1630,453,True,2015-08-04 23:11:15+00:00,2015-10-22 07:21:40+00:00,marekjez86,"FoundIn-1.x,Script-Parthian,Type-Defect"
+1631,452,True,2015-08-04 22:44:17+00:00,2017-05-30 20:03:57+00:00,marekjez86,"FoundIn-1.x,Script-OldPersian,Type-Defect"
+1632,451,True,2015-08-04 22:37:42+00:00,2015-11-11 18:03:24+00:00,marekjez86,"Android,FoundIn-1.x,Priority-Critical,Script-Lepcha,Type-Defect"
+1633,450,True,2015-08-04 18:35:26+00:00,2015-09-04 19:08:23+00:00,jungshik,"FoundIn-1.x,Type-Defect"
+1634,449,True,2015-08-04 17:58:56+00:00,2020-07-28 21:16:48+00:00,jungshik,"FoundIn-1.x,Script-Urdu"
+1635,448,True,2015-08-04 17:44:46+00:00,2020-06-03 05:59:50+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-Arabic,Type-Enhancement"
+1636,447,True,2015-08-04 17:25:00+00:00,2017-02-01 17:20:57+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-Thai"
+1637,446,True,2015-08-04 17:22:51+00:00,2020-07-29 22:12:36+00:00,jungshik,"FoundIn-1.x,Script-Music"
+1638,445,True,2015-08-04 06:59:09+00:00,2018-12-19 10:23:00+00:00,almas,"Android,FoundIn-1.x,Monotype,Script-Mongolian"
+1639,444,True,2015-08-03 18:44:51+00:00,2017-02-02 18:50:02+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-Cherokee"
+1640,443,True,2015-08-03 18:37:05+00:00,2020-08-03 22:12:28+00:00,jungshik,FoundIn-1.x
+1641,442,True,2015-08-02 20:10:42+00:00,2020-07-30 20:38:14+00:00,marrish,"FoundIn-1.x,Script-Urdu,Type-Defect"
+1642,441,True,2015-08-02 00:27:19+00:00,2016-01-15 22:02:27+00:00,Kanjilearner817,"FoundIn-1.x,Status-WorkingAsIntended,Type-Enhancement"
+1643,440,True,2015-07-29 20:45:00+00:00,2016-12-29 23:56:33+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1644,439,True,2015-07-29 20:40:05+00:00,2016-05-16 22:47:55+00:00,jungshik,"ArimoTinosCousine,FoundIn-1.x,Script-LatinGreekCyrillic,Type-Defect"
+1645,438,True,2015-07-29 20:22:01+00:00,2016-12-29 23:44:23+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1646,437,True,2015-07-29 20:16:55+00:00,2016-12-29 23:34:42+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1647,436,True,2015-07-29 19:03:20+00:00,2016-12-29 23:23:03+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1648,435,True,2015-07-29 18:59:58+00:00,2017-01-03 22:22:11+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1649,434,True,2015-07-29 18:54:50+00:00,2016-12-29 07:05:02+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1650,433,True,2015-07-29 18:30:35+00:00,2016-12-29 14:11:29+00:00,jungshik,"Android,FoundIn-1.x,Priority-High,Script-LatinGreekCyrillic,Type-Defect"
+1651,432,True,2015-07-29 18:26:30+00:00,2016-12-29 14:18:43+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Enhancement"
+1652,431,True,2015-07-29 18:24:47+00:00,2015-07-29 18:51:24+00:00,jungshik,Status-Duplicate
+1653,430,True,2015-07-29 18:10:09+00:00,2015-07-30 00:54:30+00:00,jungshik,"Script-LatinGreekCyrillic,Status-Unreproducible,Type-Defect"
+1654,429,True,2015-07-29 18:07:52+00:00,2016-11-28 14:40:57+00:00,jungshik,"Android,FoundIn-1.x,Priority-High,Script-LatinGreekCyrillic,Type-Defect"
+1655,428,True,2015-07-29 18:03:42+00:00,2017-11-21 16:50:28+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Enhancement"
+1656,427,True,2015-07-22 18:05:31+00:00,2016-11-28 16:05:55+00:00,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+1657,426,True,2015-07-22 17:43:58+00:00,2015-12-18 20:24:46+00:00,jungshik,"Android,FoundIn-1.x"
+1658,425,False,2015-07-22 16:54:16+00:00,,behdad,"FoundIn-1.x,Script-Arabic,Type-Defect,in-evaluation"
+1659,424,False,2015-07-22 01:08:20+00:00,,marekjez86,"FoundIn-1.x,Script-Devanagari,Type-Defect,in-evaluation"
+1660,423,False,2015-07-22 00:10:36+00:00,,jungshik,"FoundIn-1.x,Script-Indic,Type-Defect,in-evaluation"
+1661,422,True,2015-07-21 23:38:59+00:00,2015-11-25 01:27:02+00:00,jungshik,"Android,FoundIn-1.x,Script-LatinGreekCyrillic,Status-Duplicate,Type-Defect"
+1662,421,False,2015-07-21 23:25:39+00:00,,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect,design-question,in-evaluation"
+1663,420,False,2015-07-21 21:59:09+00:00,,jungshik,"FoundIn-1.x,Script-Brahmi,Status-NeedsMoreInformation,Type-Defect,design-question,in-evaluation"
+1664,419,False,2015-07-21 19:13:59+00:00,,jungshik,"Android,FoundIn-1.x,Priority-Medium,Script-Symbol,in-evaluation"
+1665,418,False,2015-07-21 19:08:34+00:00,,jungshik,"Android,FIX_INCOMPLETE,FoundIn-1.x,Priority-High,Script-LatinGreekCyrillic,Type-Defect,in-evaluation"
+1666,417,True,2015-07-21 03:02:37+00:00,2015-12-18 20:07:43+00:00,MahaHas,"Android,FoundIn-1.x,Priority-High,Script-Symbol,Type-Defect"
+1667,416,True,2015-07-21 03:00:11+00:00,2016-02-10 18:52:53+00:00,MahaHas,"Android,FoundIn-1.x,Priority-High,Script-Symbol,Type-Defect"
+1668,415,True,2015-07-21 02:54:30+00:00,2015-07-30 01:33:53+00:00,MahaHas,"Script-Symbol,Status-NotABug,Type-Defect"
+1669,414,True,2015-07-21 02:38:21+00:00,2020-08-01 03:09:56+00:00,MahaHas,"FoundIn-1.x,Script-Lao,Status-NeedsMoreInformation"
+1670,413,True,2015-07-21 02:36:50+00:00,2015-07-30 01:35:28+00:00,MahaHas,"Script-Lao,Status-NotABug,Type-Defect"
+1671,412,True,2015-07-19 21:58:32+00:00,2020-08-01 01:49:29+00:00,davelab6,"FoundIn-1.x,Script-Lao,Type-Enhancement"
+1672,411,True,2015-07-17 10:20:48+00:00,2015-07-26 15:49:25+00:00,shawnl,
+1673,410,False,2015-07-16 23:14:24+00:00,,marekjez86,"Android,FoundIn-1.x,Priority-Medium,Script-Devanagari,Type-Defect,design-question,in-evaluation"
+1674,409,False,2015-07-16 18:26:21+00:00,,dougfelt,"ArimoTinosCousine,FoundIn-1.x,Type-Defect,in-evaluation"
+1675,408,False,2015-07-16 18:24:54+00:00,,dougfelt,"FoundIn-1.x,Type-Defect,in-evaluation"
+1676,407,True,2015-07-14 21:59:29+00:00,2015-07-29 00:38:47+00:00,ebraminio,"Script-Arabic,Status-WorkingAsIntended,Type-Enhancement"
+1677,406,True,2015-07-12 18:42:43+00:00,2015-07-13 17:59:15+00:00,hadifarnoud,
+1678,405,True,2015-07-11 20:58:02+00:00,2020-09-14 03:07:41+00:00,pathumego,"FoundIn-1.x,Script-Sinhala,Type-Enhancement"
+1679,404,True,2015-07-07 22:58:36+00:00,2015-07-08 00:55:15+00:00,davelab6,
+1680,403,True,2015-07-06 23:17:17+00:00,2015-07-06 23:17:24+00:00,dougfelt,
+1681,402,True,2015-07-06 20:01:46+00:00,2015-07-06 20:01:53+00:00,dougfelt,
+1682,401,True,2015-07-02 08:05:22+00:00,2015-07-28 20:23:16+00:00,ambikakhatri,"Other-Enhancement,Status-WontFix"
+1683,400,True,2015-07-01 21:47:11+00:00,2015-07-01 21:47:37+00:00,dougfelt,
+1684,399,True,2015-06-29 04:42:08+00:00,2017-07-21 19:58:55+00:00,Kanjilearner817,"FoundIn-1.x,Script-Thaana,Type-Enhancement"
+1685,398,True,2015-06-26 23:43:34+00:00,2015-06-26 23:52:17+00:00,dougfelt,
+1686,397,True,2015-06-19 06:46:34+00:00,2015-07-29 15:26:58+00:00,brawer,Type-Task
+1687,396,True,2015-06-19 06:10:29+00:00,2016-10-03 14:37:44+00:00,brawer,"Android,FoundIn-1.x,Priority-High,Script-Cherokee,Type-Enhancement"
+1688,395,True,2015-06-17 17:14:26+00:00,2020-08-02 04:42:30+00:00,serkhang,"Android,FoundIn-1.x,Priority-Medium,Script-Lepcha,Type-Defect"
+1689,394,True,2015-06-15 16:18:42+00:00,2016-11-24 04:58:00+00:00,brawer,"FoundIn-1.x,Script-LatinGreekCyrillic,Type-Enhancement"
+1690,393,True,2015-06-15 04:17:28+00:00,2020-03-10 21:41:30+00:00,kulpreetchilana,"FoundIn-1.x,Script-Gurmukhi,Type-Enhancement"
+1691,392,True,2015-06-15 04:15:16+00:00,2020-03-10 21:42:34+00:00,kulpreetchilana,"Android,FoundIn-1.x,Priority-Medium,Script-Gurmukhi,Type-Defect"
+1692,391,True,2015-06-15 04:12:45+00:00,2017-10-08 22:27:46+00:00,kulpreetchilana,"Android,FoundIn-1.x,Priority-Medium,Script-Gurmukhi,Type-Defect"
+1693,390,True,2015-06-15 04:11:35+00:00,2015-08-01 00:32:48+00:00,kulpreetchilana,"Script-Gurmukhi,Status-NotABug"
+1694,389,True,2015-06-15 04:10:41+00:00,2020-06-15 21:19:01+00:00,kulpreetchilana,"FoundIn-1.x,Script-Gurmukhi,Type-Defect"
+1695,388,True,2015-06-15 04:09:39+00:00,2020-03-10 21:47:21+00:00,kulpreetchilana,"FoundIn-1.x,Script-Gurmukhi,Type-Defect"
+1696,387,True,2015-06-15 04:08:23+00:00,2020-03-10 21:55:34+00:00,kulpreetchilana,"Android,FoundIn-1.x,Priority-Medium,Script-Gurmukhi,Type-Enhancement"
+1697,386,True,2015-06-15 04:06:54+00:00,2016-03-11 21:51:39+00:00,kulpreetchilana,"Android,FoundIn-1.x,Monotype,Priority-High,Script-Gurmukhi,Type-Defect"
+1698,385,True,2015-06-15 04:03:29+00:00,2015-07-27 23:37:35+00:00,kulpreetchilana,"Script-Gurmukhi,Status-WorkingAsIntended"
+1699,384,True,2015-06-10 02:56:30+00:00,2015-08-31 23:15:39+00:00,xiangyexiao,"FoundIn-1.x,Script-Arabic,Type-Defect"
+1700,383,False,2015-06-09 10:44:34+00:00,,saadatm,"FoundIn-1.x,Script-Urdu,Type-Defect,in-evaluation"
+1701,382,True,2015-06-08 18:34:36+00:00,2015-07-27 23:32:28+00:00,GoogleCodeExporter,"Script-Symbol,Status-NotABug,Type-Defect"
+1702,381,True,2015-06-08 18:34:35+00:00,2015-09-29 20:04:03+00:00,GoogleCodeExporter,"Component-Website,FoundIn-1.x,Type-Enhancement"
+1703,380,True,2015-06-08 18:34:35+00:00,2018-12-11 16:52:49+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Balinese,Type-Defect"
+1704,379,True,2015-06-08 18:34:34+00:00,2015-06-09 23:22:49+00:00,GoogleCodeExporter,Type-Defect
+1705,378,True,2015-06-08 18:34:34+00:00,2015-06-10 01:07:35+00:00,GoogleCodeExporter,Type-Defect
+1706,377,True,2015-06-08 18:34:33+00:00,2015-11-11 22:29:11+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Script-Symbol,Type-Defect"
+1707,376,True,2015-06-08 18:34:33+00:00,2015-06-10 01:05:37+00:00,GoogleCodeExporter,Type-Defect
+1708,375,True,2015-06-08 18:34:32+00:00,2015-06-08 18:34:32+00:00,GoogleCodeExporter,Type-Defect
+1709,374,True,2015-06-08 18:34:31+00:00,2015-06-08 18:34:31+00:00,GoogleCodeExporter,
+1710,373,True,2015-06-08 18:34:31+00:00,2018-12-11 16:52:49+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Balinese,Type-Defect"
+1711,372,True,2015-06-08 18:34:30+00:00,2015-12-17 12:33:35+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Urdu,Type-Enhancement"
+1712,371,False,2015-06-08 18:34:30+00:00,,GoogleCodeExporter,"ExpertReview,FoundIn-1.x,Script-Devanagari,Type-Enhancement,in-evaluation"
+1713,370,True,2015-06-08 18:34:30+00:00,2015-06-08 18:34:30+00:00,GoogleCodeExporter,
+1714,369,True,2015-06-08 18:34:29+00:00,2015-06-08 18:34:29+00:00,GoogleCodeExporter,
+1715,368,True,2015-06-08 18:34:29+00:00,2020-07-28 21:15:37+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Urdu,Type-Enhancement"
+1716,367,True,2015-06-08 18:34:28+00:00,2015-06-08 18:34:28+00:00,GoogleCodeExporter,
+1717,366,True,2015-06-08 18:34:28+00:00,2018-12-11 16:52:49+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Balinese,Type-Defect"
+1718,365,True,2015-06-08 18:34:28+00:00,2015-08-01 00:54:19+00:00,GoogleCodeExporter,Type-Task
+1719,364,True,2015-06-08 18:34:27+00:00,2015-10-15 23:37:32+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-LatinGreekCyrillic,Type-Defect"
+1720,363,True,2015-06-08 18:34:27+00:00,2015-06-08 18:34:27+00:00,GoogleCodeExporter,
+1721,362,True,2015-06-08 18:34:27+00:00,2015-06-08 18:34:27+00:00,GoogleCodeExporter,
+1722,361,True,2015-06-08 18:34:26+00:00,2020-07-30 21:04:45+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Urdu,Type-Defect"
+1723,360,True,2015-06-08 18:34:26+00:00,2015-06-10 00:40:18+00:00,GoogleCodeExporter,Type-Defect
+1724,359,False,2015-06-08 18:34:25+00:00,,GoogleCodeExporter,"FoundIn-1.x,Script-Deseret,Type-Defect,in-evaluation"
+1725,358,True,2015-06-08 18:34:24+00:00,2015-06-09 22:02:53+00:00,GoogleCodeExporter,Type-Enhancement
+1726,357,True,2015-06-08 18:34:24+00:00,2015-06-09 22:36:57+00:00,GoogleCodeExporter,Type-Defect
+1727,356,True,2015-06-08 18:34:23+00:00,2015-06-10 01:02:56+00:00,GoogleCodeExporter,Type-Defect
+1728,355,True,2015-06-08 18:34:23+00:00,2015-08-01 00:57:22+00:00,GoogleCodeExporter,Type-Task
+1729,354,True,2015-06-08 18:34:22+00:00,2015-06-08 18:34:22+00:00,GoogleCodeExporter,
+1730,353,True,2015-06-08 18:34:22+00:00,2015-06-08 18:34:22+00:00,GoogleCodeExporter,Type-Defect
+1731,352,True,2015-06-08 18:34:21+00:00,2015-06-08 18:34:21+00:00,GoogleCodeExporter,Type-Defect
+1732,351,True,2015-06-08 18:34:20+00:00,2015-06-08 18:34:21+00:00,GoogleCodeExporter,Type-Defect
+1733,350,False,2015-06-08 18:34:20+00:00,,GoogleCodeExporter,"FoundIn-1.x,Script-Urdu,Type-Defect,in-evaluation"
+1734,349,True,2015-06-08 18:34:19+00:00,2015-06-08 18:34:19+00:00,GoogleCodeExporter,Type-Defect
+1735,348,True,2015-06-08 18:34:19+00:00,2015-06-08 18:34:19+00:00,GoogleCodeExporter,
+1736,347,True,2015-06-08 18:34:18+00:00,2015-06-08 18:34:18+00:00,GoogleCodeExporter,
+1737,346,True,2015-06-08 18:34:17+00:00,2021-03-10 13:27:44+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Telugu,Type-Defect,in-evaluation"
+1738,345,True,2015-06-08 18:34:17+00:00,2015-12-15 22:08:27+00:00,GoogleCodeExporter,FoundIn-1.x
+1739,344,True,2015-06-08 18:34:16+00:00,2015-06-08 18:34:16+00:00,GoogleCodeExporter,
+1740,343,True,2015-06-08 18:34:16+00:00,2015-06-09 23:32:43+00:00,GoogleCodeExporter,Type-Defect
+1741,342,True,2015-06-08 18:34:15+00:00,2015-06-08 18:34:15+00:00,GoogleCodeExporter,Type-Enhancement
+1742,341,True,2015-06-08 18:34:15+00:00,2015-06-09 23:28:44+00:00,GoogleCodeExporter,Type-Defect
+1743,340,True,2015-06-08 18:34:14+00:00,2015-06-08 18:34:14+00:00,GoogleCodeExporter,
+1744,339,True,2015-06-08 18:34:14+00:00,2015-06-08 18:34:14+00:00,GoogleCodeExporter,
+1745,338,True,2015-06-08 18:34:13+00:00,2015-06-10 00:36:42+00:00,GoogleCodeExporter,"Priority-Critical,Type-Defect"
+1746,337,True,2015-06-08 18:34:12+00:00,2015-06-08 18:34:12+00:00,GoogleCodeExporter,"Priority-Critical,Type-Defect"
+1747,336,True,2015-06-08 18:34:12+00:00,2020-08-02 03:18:33+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Music,Type-Defect"
+1748,335,True,2015-06-08 18:34:12+00:00,2017-06-12 22:56:21+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-High,Type-Defect"
+1749,334,False,2015-06-08 18:34:11+00:00,,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Type-Defect,in-evaluation"
+1750,333,True,2015-06-08 18:34:11+00:00,2015-06-09 21:55:00+00:00,GoogleCodeExporter,Type-Defect
+1751,332,True,2015-06-08 18:34:11+00:00,2015-06-10 01:01:41+00:00,GoogleCodeExporter,Type-Defect
+1752,331,True,2015-06-08 18:34:10+00:00,2015-08-20 18:12:47+00:00,GoogleCodeExporter,"FoundIn-1.x,Type-Task"
+1753,330,False,2015-06-08 18:34:10+00:00,,GoogleCodeExporter,"FoundIn-1.x,Start in 2021,Type-Defect,Type-Enhancement,in-evaluation"
+1754,329,True,2015-06-08 18:34:08+00:00,2015-06-08 18:34:09+00:00,GoogleCodeExporter,Type-Defect
+1755,328,True,2015-06-08 18:34:08+00:00,2015-06-10 00:20:01+00:00,GoogleCodeExporter,Type-Defect
+1756,327,True,2015-06-08 18:34:08+00:00,2015-06-10 00:33:13+00:00,GoogleCodeExporter,Type-Defect
+1757,326,True,2015-06-08 18:34:07+00:00,2015-06-08 18:34:07+00:00,GoogleCodeExporter,Type-Defect
+1758,325,False,2015-06-08 18:34:06+00:00,,GoogleCodeExporter,FoundIn-1.x
+1759,324,True,2015-06-08 18:34:06+00:00,2015-06-09 23:37:31+00:00,GoogleCodeExporter,
+1760,323,True,2015-06-08 18:34:06+00:00,2015-09-04 19:05:19+00:00,GoogleCodeExporter,"FoundIn-1.x,Type-Defect"
+1761,322,True,2015-06-08 18:34:05+00:00,2015-06-09 23:30:24+00:00,GoogleCodeExporter,Type-Defect
+1762,321,True,2015-06-08 18:34:05+00:00,2015-12-18 01:45:53+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Script-Symbol,Type-Defect"
+1763,320,True,2015-06-08 18:34:04+00:00,2015-06-08 18:34:04+00:00,GoogleCodeExporter,
+1764,319,True,2015-06-08 18:34:04+00:00,2015-06-08 18:34:04+00:00,GoogleCodeExporter,
+1765,318,True,2015-06-08 18:34:03+00:00,2019-06-13 01:10:08+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-MeeteiMayek,Status-MightRevisitInTheFuture,Type-Enhancement"
+1766,317,True,2015-06-08 18:34:02+00:00,2015-06-08 18:34:03+00:00,GoogleCodeExporter,
+1767,316,True,2015-06-08 18:34:02+00:00,2015-06-08 18:34:02+00:00,GoogleCodeExporter,
+1768,315,True,2015-06-08 18:34:01+00:00,2015-08-27 21:23:19+00:00,GoogleCodeExporter,Type-Defect
+1769,314,True,2015-06-08 18:34:01+00:00,2018-12-18 13:25:48+00:00,GoogleCodeExporter,"Android,Priority-Medium,Script-Javanese,Status-MightRevisitInTheFuture,Type-Enhancement"
+1770,313,True,2015-06-08 18:34:00+00:00,2018-12-18 13:26:03+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Javanese,Type-Defect"
+1771,312,True,2015-06-08 18:34:00+00:00,2017-09-30 01:57:11+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Coptic,Type-Defect"
+1772,311,True,2015-06-08 18:33:59+00:00,2019-06-13 01:09:51+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-MeeteiMayek"
+1773,310,True,2015-06-08 18:33:58+00:00,2015-06-08 18:33:58+00:00,GoogleCodeExporter,Type-Defect
+1774,309,False,2015-06-08 18:33:58+00:00,,GoogleCodeExporter,"FoundIn-1.x,Other-Defect,Script-CJK,Status-NeedsValidation"
+1775,308,True,2015-06-08 18:33:58+00:00,2015-09-08 18:54:45+00:00,GoogleCodeExporter,"FoundIn-1.x,Status-NotABug"
+1776,307,True,2015-06-08 18:33:56+00:00,2015-06-08 18:33:56+00:00,GoogleCodeExporter,Type-Defect
+1777,306,True,2015-06-08 18:33:56+00:00,2015-06-08 18:33:56+00:00,GoogleCodeExporter,
+1778,305,True,2015-06-08 18:33:55+00:00,2019-05-06 11:17:18+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Telugu,Type-Defect"
+1779,304,True,2015-06-08 18:33:55+00:00,2015-06-10 01:00:53+00:00,GoogleCodeExporter,Type-Defect
+1780,303,True,2015-06-08 18:33:54+00:00,2015-06-08 18:33:54+00:00,GoogleCodeExporter,Type-Defect
+1781,302,True,2015-06-08 18:33:54+00:00,2015-06-08 18:33:54+00:00,GoogleCodeExporter,
+1782,301,True,2015-06-08 18:33:53+00:00,2015-06-08 18:33:53+00:00,GoogleCodeExporter,
+1783,300,True,2015-06-08 18:33:53+00:00,2015-06-08 18:33:53+00:00,GoogleCodeExporter,
+1784,299,True,2015-06-08 18:33:52+00:00,2018-12-11 16:52:48+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Balinese,Type-Defect"
+1785,298,True,2015-06-08 18:33:51+00:00,2015-06-09 23:13:33+00:00,GoogleCodeExporter,Type-Defect
+1786,297,True,2015-06-08 18:33:51+00:00,2018-12-18 13:26:18+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Javanese,Type-Defect"
+1787,296,True,2015-06-08 18:33:50+00:00,2015-12-28 18:36:29+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-High,Script-TaiTham,Type-Defect"
+1788,295,True,2015-06-08 18:33:49+00:00,2015-06-08 18:33:49+00:00,GoogleCodeExporter,
+1789,294,True,2015-06-08 18:33:49+00:00,2015-06-08 18:33:49+00:00,GoogleCodeExporter,
+1790,293,True,2015-06-08 18:33:48+00:00,2015-06-08 18:33:48+00:00,GoogleCodeExporter,
+1791,292,True,2015-06-08 18:33:47+00:00,2015-06-08 18:33:48+00:00,GoogleCodeExporter,
+1792,291,True,2015-06-08 18:33:47+00:00,2015-06-08 18:33:47+00:00,GoogleCodeExporter,
+1793,290,True,2015-06-08 18:33:46+00:00,2015-06-08 18:33:46+00:00,GoogleCodeExporter,
+1794,289,True,2015-06-08 18:33:46+00:00,2015-06-08 18:33:46+00:00,GoogleCodeExporter,
+1795,288,True,2015-06-08 18:33:45+00:00,2015-06-08 18:33:45+00:00,GoogleCodeExporter,
+1796,287,True,2015-06-08 18:33:45+00:00,2015-06-08 18:33:45+00:00,GoogleCodeExporter,
+1797,286,True,2015-06-08 18:33:44+00:00,2015-06-08 18:33:44+00:00,GoogleCodeExporter,
+1798,285,False,2015-06-08 18:33:44+00:00,,GoogleCodeExporter,"FoundIn-1.x,Script-CJK,Type-Defect"
+1799,284,True,2015-06-08 18:33:43+00:00,2015-06-08 18:33:43+00:00,GoogleCodeExporter,
+1800,283,True,2015-06-08 18:33:42+00:00,2015-06-08 18:33:43+00:00,GoogleCodeExporter,
+1801,282,True,2015-06-08 18:33:42+00:00,2015-06-08 18:33:42+00:00,GoogleCodeExporter,
+1802,281,True,2015-06-08 18:33:42+00:00,2015-06-09 23:02:12+00:00,GoogleCodeExporter,Type-Enhancement
+1803,280,True,2015-06-08 18:33:41+00:00,2015-06-08 18:33:41+00:00,GoogleCodeExporter,Type-Defect
+1804,279,True,2015-06-08 18:33:41+00:00,2015-06-08 18:33:41+00:00,GoogleCodeExporter,
+1805,278,True,2015-06-08 18:33:40+00:00,2015-06-08 18:33:40+00:00,GoogleCodeExporter,
+1806,277,True,2015-06-08 18:33:40+00:00,2015-06-09 22:35:59+00:00,GoogleCodeExporter,Type-Enhancement
+1807,276,True,2015-06-08 18:33:39+00:00,2015-06-09 22:35:50+00:00,GoogleCodeExporter,Type-Enhancement
+1808,275,True,2015-06-08 18:33:39+00:00,2015-06-08 18:33:39+00:00,GoogleCodeExporter,Type-Enhancement
+1809,274,True,2015-06-08 18:33:38+00:00,2015-06-09 22:39:52+00:00,GoogleCodeExporter,Type-Defect
+1810,273,True,2015-06-08 18:33:38+00:00,2015-06-09 21:23:28+00:00,GoogleCodeExporter,"Emoji,Type-Defect"
+1811,272,True,2015-06-08 18:33:38+00:00,2015-06-08 18:33:38+00:00,GoogleCodeExporter,
+1812,271,True,2015-06-08 18:33:37+00:00,2015-06-08 18:33:37+00:00,GoogleCodeExporter,
+1813,270,True,2015-06-08 18:33:37+00:00,2015-09-29 16:20:19+00:00,GoogleCodeExporter,"FoundIn-1.x,Priority-High,Script-LatinGreekCyrillic,Type-Defect"
+1814,269,True,2015-06-08 18:33:36+00:00,2015-06-08 18:33:36+00:00,GoogleCodeExporter,Type-Defect
+1815,268,True,2015-06-08 18:33:36+00:00,2015-06-08 18:33:36+00:00,GoogleCodeExporter,Type-Defect
+1816,267,True,2015-06-08 18:33:35+00:00,2016-10-22 00:21:54+00:00,GoogleCodeExporter,"FoundIn-1.x,Status-NeedsValidation,Status-PendingReporterInput"
+1817,266,True,2015-06-08 18:33:35+00:00,2015-06-08 18:33:35+00:00,GoogleCodeExporter,Type-Defect
+1818,265,True,2015-06-08 18:33:34+00:00,2015-06-08 18:33:34+00:00,GoogleCodeExporter,Type-Defect
+1819,264,False,2015-06-08 18:33:33+00:00,,GoogleCodeExporter,"Component-Website,FoundIn-1.x,Other-Enhancement"
+1820,263,True,2015-06-08 18:33:32+00:00,2020-07-31 02:47:31+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Urdu,Status-ReportToOEM,Type-Defect"
+1821,262,True,2015-06-08 18:33:31+00:00,2015-06-08 18:33:31+00:00,GoogleCodeExporter,Type-Defect
+1822,261,True,2015-06-08 18:33:30+00:00,2020-07-31 02:55:38+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Urdu,Type-Enhancement"
+1823,260,False,2015-06-08 18:33:29+00:00,,GoogleCodeExporter,"FoundIn-1.x,Other-Enhancement"
+1824,259,True,2015-06-08 18:33:29+00:00,2015-06-08 18:33:29+00:00,GoogleCodeExporter,
+1825,258,True,2015-06-08 18:33:28+00:00,2015-06-08 18:33:29+00:00,GoogleCodeExporter,
+1826,257,True,2015-06-08 18:33:28+00:00,2015-06-08 18:33:28+00:00,GoogleCodeExporter,
+1827,256,True,2015-06-08 18:33:27+00:00,2015-06-08 18:33:27+00:00,GoogleCodeExporter,Type-Enhancement
+1828,255,True,2015-06-08 18:33:27+00:00,2015-06-08 18:33:27+00:00,GoogleCodeExporter,
+1829,254,True,2015-06-08 18:33:26+00:00,2015-06-08 18:33:26+00:00,GoogleCodeExporter,"Emoji,Type-Defect"
+1830,253,True,2015-06-08 18:33:26+00:00,2015-06-08 18:33:26+00:00,GoogleCodeExporter,
+1831,252,True,2015-06-08 18:33:25+00:00,2015-06-08 18:33:25+00:00,GoogleCodeExporter,
+1832,251,True,2015-06-08 18:33:25+00:00,2015-06-08 18:33:25+00:00,GoogleCodeExporter,
+1833,250,False,2015-06-08 18:33:24+00:00,,GoogleCodeExporter,"FoundIn-1.x,Type-Defect"
+1834,249,True,2015-06-08 18:33:24+00:00,2015-06-08 18:33:24+00:00,GoogleCodeExporter,Type-Enhancement
+1835,248,True,2015-06-08 18:33:23+00:00,2020-08-02 05:22:21+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Bamum,Status-PendingReporterInput"
+1836,247,True,2015-06-08 18:33:23+00:00,2015-06-08 18:33:23+00:00,GoogleCodeExporter,
+1837,246,True,2015-06-08 18:33:21+00:00,2020-07-28 21:14:35+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Urdu,Type-Defect"
+1838,245,True,2015-06-08 18:33:20+00:00,2015-06-09 00:29:15+00:00,GoogleCodeExporter,Type-Defect
+1839,244,True,2015-06-08 18:33:20+00:00,2015-06-08 18:33:20+00:00,GoogleCodeExporter,Type-Defect
+1840,243,False,2015-06-08 18:33:19+00:00,,GoogleCodeExporter,"*add to FAQ or documentation,FoundIn-1.x,Type-Enhancement"
+1841,242,True,2015-06-08 18:33:19+00:00,2015-06-09 23:08:47+00:00,GoogleCodeExporter,Type-Defect
+1842,241,True,2015-06-08 18:33:18+00:00,2015-06-09 21:15:36+00:00,GoogleCodeExporter,Type-Defect
+1843,240,True,2015-06-08 18:33:18+00:00,2015-06-08 18:33:18+00:00,GoogleCodeExporter,Type-Defect
+1844,239,True,2015-06-08 18:33:17+00:00,2016-10-20 23:29:30+00:00,GoogleCodeExporter,"FoundIn-1.x,Status-WontFix,Type-Defect"
+1845,238,True,2015-06-08 18:33:17+00:00,2015-06-08 18:33:17+00:00,GoogleCodeExporter,Type-Defect
+1846,237,True,2015-06-08 18:33:16+00:00,2015-06-08 18:33:16+00:00,GoogleCodeExporter,Type-Defect
+1847,236,True,2015-06-08 18:33:15+00:00,2016-09-21 21:55:21+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Javanese,Type-Defect"
+1848,235,True,2015-06-08 18:33:14+00:00,2015-06-08 18:33:15+00:00,GoogleCodeExporter,Type-Defect
+1849,234,True,2015-06-08 18:33:13+00:00,2015-06-08 18:33:13+00:00,GoogleCodeExporter,
+1850,233,True,2015-06-08 18:33:12+00:00,2015-06-08 18:33:12+00:00,GoogleCodeExporter,Type-Defect
+1851,232,True,2015-06-08 18:33:11+00:00,2015-06-08 18:33:12+00:00,GoogleCodeExporter,Type-Defect
+1852,231,True,2015-06-08 18:33:11+00:00,2018-12-18 13:26:33+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Javanese,Type-Defect"
+1853,230,True,2015-06-08 18:33:10+00:00,2015-06-08 18:33:10+00:00,GoogleCodeExporter,Type-Defect
+1854,229,True,2015-06-08 18:33:10+00:00,2015-06-08 18:33:10+00:00,GoogleCodeExporter,Type-Defect
+1855,228,True,2015-06-08 18:33:09+00:00,2015-07-27 17:34:25+00:00,GoogleCodeExporter,"Script-CJK,Type-Defect"
+1856,227,True,2015-06-08 18:33:09+00:00,2015-07-31 23:22:45+00:00,GoogleCodeExporter,"Script-Khmer,Status-Unreproducible,Type-Defect"
+1857,226,True,2015-06-08 18:33:08+00:00,2015-07-23 22:57:11+00:00,GoogleCodeExporter,"Script-Bengali,Type-Enhancement"
+1858,225,True,2015-06-08 18:33:07+00:00,2015-06-08 18:33:07+00:00,GoogleCodeExporter,Type-Defect
+1859,224,True,2015-06-08 18:33:07+00:00,2015-06-08 18:33:07+00:00,GoogleCodeExporter,Type-Defect
+1860,223,True,2015-06-08 18:33:06+00:00,2016-11-14 22:39:15+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-OldTurkic,Status-Unreproducible,Type-Defect"
+1861,222,True,2015-06-08 18:33:05+00:00,2015-06-08 18:33:05+00:00,GoogleCodeExporter,"Emoji,Type-Defect"
+1862,221,True,2015-06-08 18:33:05+00:00,2015-06-08 18:33:05+00:00,GoogleCodeExporter,Type-Defect
+1863,220,True,2015-06-08 18:33:04+00:00,2015-06-08 18:33:04+00:00,GoogleCodeExporter,Type-Defect
+1864,219,True,2015-06-08 18:33:03+00:00,2015-06-08 18:33:03+00:00,GoogleCodeExporter,Type-Defect
+1865,218,False,2015-06-08 18:33:02+00:00,,GoogleCodeExporter,"Component-Website,FoundIn-1.x,Type-Defect,in-evaluation"
+1866,217,True,2015-06-08 18:33:02+00:00,2015-06-08 18:33:02+00:00,GoogleCodeExporter,Type-Defect
+1867,216,True,2015-06-08 18:33:01+00:00,2020-07-24 03:48:16+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,GNTF,Priority-High,Script-LatinGreekCyrillic"
+1868,215,True,2015-06-08 18:33:01+00:00,2015-07-23 22:40:25+00:00,GoogleCodeExporter,"Script-LatinGreekCyrillic,Status-Unreproducible,Type-Defect"
+1869,214,True,2015-06-08 18:33:00+00:00,2015-07-23 22:39:22+00:00,GoogleCodeExporter,
+1870,213,False,2015-06-08 18:32:59+00:00,,GoogleCodeExporter,"FoundIn-1.x,Script-LatinGreekCyrillic,Status-NeedsValidation,Type-Defect"
+1871,212,True,2015-06-08 18:32:59+00:00,2017-04-17 19:43:09+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Urdu,Type-Defect"
+1872,211,True,2015-06-08 18:32:58+00:00,2015-06-10 00:25:04+00:00,GoogleCodeExporter,Type-Defect
+1873,210,True,2015-06-08 18:32:58+00:00,2015-06-08 18:32:58+00:00,GoogleCodeExporter,Type-Defect
+1874,209,True,2015-06-08 18:32:57+00:00,2015-07-26 20:27:13+00:00,GoogleCodeExporter,"Script-Urdu,Type-Defect"
+1875,208,True,2015-06-08 18:32:55+00:00,2015-06-08 18:32:56+00:00,GoogleCodeExporter,Type-Defect
+1876,207,True,2015-06-08 18:32:52+00:00,2020-07-28 21:13:30+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Nastaliq,Script-Urdu,Type-Defect"
+1877,206,True,2015-06-08 18:32:51+00:00,2015-07-26 20:21:35+00:00,GoogleCodeExporter,Script-CJK
+1878,205,True,2015-06-08 18:32:51+00:00,2015-06-08 18:32:51+00:00,GoogleCodeExporter,Type-Defect
+1879,204,True,2015-06-08 18:32:50+00:00,2015-07-26 20:20:00+00:00,GoogleCodeExporter,Script-Urdu
+1880,203,True,2015-06-08 18:32:49+00:00,2015-06-08 18:32:49+00:00,GoogleCodeExporter,"Emoji,Type-Defect"
+1881,202,True,2015-06-08 18:32:47+00:00,2015-06-08 18:32:47+00:00,GoogleCodeExporter,Type-Defect
+1882,201,True,2015-06-08 18:32:46+00:00,2015-06-08 18:32:46+00:00,GoogleCodeExporter,Type-Defect
+1883,200,True,2015-06-08 18:32:45+00:00,2015-06-10 00:55:24+00:00,GoogleCodeExporter,Type-Defect
+1884,199,True,2015-06-08 18:32:44+00:00,2015-06-10 00:02:45+00:00,GoogleCodeExporter,Type-Defect
+1885,198,True,2015-06-08 18:32:42+00:00,2015-06-08 18:32:42+00:00,GoogleCodeExporter,Type-Defect
+1886,197,True,2015-06-08 18:32:42+00:00,2015-07-11 09:53:35+00:00,GoogleCodeExporter,Type-Defect
+1887,196,True,2015-06-08 18:32:41+00:00,2015-07-26 20:19:19+00:00,GoogleCodeExporter,Script-CJK
+1888,195,True,2015-06-08 18:32:40+00:00,2015-06-08 18:32:40+00:00,GoogleCodeExporter,Type-Defect
+1889,194,True,2015-06-08 18:32:40+00:00,2015-12-17 12:34:33+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Urdu,Type-Defect"
+1890,193,True,2015-06-08 18:32:39+00:00,2015-06-08 18:32:39+00:00,GoogleCodeExporter,"Priority-High,Type-Defect"
+1891,192,True,2015-06-08 18:32:38+00:00,2015-06-10 00:20:12+00:00,GoogleCodeExporter,Type-Defect
+1892,191,True,2015-06-08 18:32:38+00:00,2015-07-24 18:53:25+00:00,GoogleCodeExporter,
+1893,190,True,2015-06-08 18:32:37+00:00,2020-08-01 20:18:49+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Miao,Type-Enhancement"
+1894,189,True,2015-06-08 18:32:37+00:00,2015-06-08 18:32:37+00:00,GoogleCodeExporter,Type-Defect
+1895,188,True,2015-06-08 18:32:36+00:00,2015-06-08 18:32:36+00:00,GoogleCodeExporter,Type-Defect
+1896,187,True,2015-06-08 18:32:35+00:00,2015-07-24 18:49:43+00:00,GoogleCodeExporter,
+1897,186,True,2015-06-08 18:32:34+00:00,2015-06-08 18:32:34+00:00,GoogleCodeExporter,Type-Defect
+1898,185,False,2015-06-08 18:32:34+00:00,,GoogleCodeExporter,"FoundIn-1.x,Type-Defect"
+1899,184,True,2015-06-08 18:32:33+00:00,2015-06-08 18:32:34+00:00,GoogleCodeExporter,Type-Defect
+1900,183,True,2015-06-08 18:32:33+00:00,2015-08-13 18:04:05+00:00,GoogleCodeExporter,"Emoji,FoundIn-1.x,MoveTo-NotoTools"
+1901,182,True,2015-06-08 18:32:32+00:00,2015-06-08 18:32:32+00:00,GoogleCodeExporter,"Priority-High,Type-Defect"
+1902,181,True,2015-06-08 18:32:31+00:00,2015-06-08 18:32:31+00:00,GoogleCodeExporter,Type-Defect
+1903,180,True,2015-06-08 18:32:30+00:00,2015-06-08 18:32:31+00:00,GoogleCodeExporter,Type-Defect
+1904,179,True,2015-06-08 18:32:30+00:00,2015-06-08 18:32:30+00:00,GoogleCodeExporter,Type-Defect
+1905,178,True,2015-06-08 18:32:29+00:00,2015-11-09 23:45:21+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Script-Javanese,Type-Defect"
+1906,177,False,2015-06-08 18:32:28+00:00,,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Gujarati,Type-Defect,in-evaluation"
+1907,176,True,2015-06-08 18:32:28+00:00,2015-06-08 18:32:28+00:00,GoogleCodeExporter,"Priority-Critical,Type-Defect"
+1908,175,True,2015-06-08 18:32:27+00:00,2015-06-08 18:32:27+00:00,GoogleCodeExporter,Type-Defect
+1909,174,True,2015-06-08 18:32:25+00:00,2015-06-09 22:34:23+00:00,GoogleCodeExporter,"Emoji,Type-Defect"
+1910,173,True,2015-06-08 18:32:25+00:00,2015-06-10 00:38:46+00:00,GoogleCodeExporter,Type-Defect
+1911,172,False,2015-06-08 18:32:23+00:00,,GoogleCodeExporter,"GNTF,Priority-High,Type-Defect,in-evaluation"
+1912,171,True,2015-06-08 18:32:22+00:00,2015-06-08 18:32:23+00:00,GoogleCodeExporter,Type-Defect
+1913,170,True,2015-06-08 18:32:22+00:00,2015-07-24 18:36:03+00:00,GoogleCodeExporter,
+1914,169,True,2015-06-08 18:32:21+00:00,2015-06-08 18:32:22+00:00,GoogleCodeExporter,Type-Defect
+1915,168,True,2015-06-08 18:32:21+00:00,2015-06-08 18:32:21+00:00,GoogleCodeExporter,Type-Defect
+1916,167,True,2015-06-08 18:32:20+00:00,2015-06-08 18:32:20+00:00,GoogleCodeExporter,Type-Defect
+1917,166,True,2015-06-08 18:32:19+00:00,2015-06-08 18:32:19+00:00,GoogleCodeExporter,Type-Defect
+1918,165,True,2015-06-08 18:32:18+00:00,2015-06-08 18:32:18+00:00,GoogleCodeExporter,Type-Defect
+1919,164,True,2015-06-08 18:32:18+00:00,2015-06-08 18:32:18+00:00,GoogleCodeExporter,Type-Defect
+1920,163,True,2015-06-08 18:32:17+00:00,2015-11-20 00:30:50+00:00,GoogleCodeExporter,Script-Balinese
+1921,162,True,2015-06-08 18:32:16+00:00,2015-11-09 23:38:19+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Script-Javanese,Type-Defect"
+1922,161,True,2015-06-08 18:32:15+00:00,2015-11-09 23:28:32+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Script-Javanese,Type-Defect"
+1923,160,True,2015-06-08 18:32:14+00:00,2015-06-08 18:32:14+00:00,GoogleCodeExporter,Type-Defect
+1924,159,False,2015-06-08 18:32:13+00:00,,GoogleCodeExporter,"*add to FAQ or documentation,Component-Documentation,FoundIn-1.x,Script-CJK,Type-Enhancement"
+1925,158,True,2015-06-08 18:32:12+00:00,2015-06-08 18:32:13+00:00,GoogleCodeExporter,Type-Defect
+1926,157,True,2015-06-08 18:32:12+00:00,2015-06-10 00:10:56+00:00,GoogleCodeExporter,Type-Defect
+1927,156,True,2015-06-08 18:32:11+00:00,2015-06-08 18:32:11+00:00,GoogleCodeExporter,Type-Defect
+1928,155,True,2015-06-08 18:32:08+00:00,2015-07-23 22:53:10+00:00,GoogleCodeExporter,
+1929,154,True,2015-06-08 18:32:08+00:00,2015-06-08 18:32:08+00:00,GoogleCodeExporter,Type-Defect
+1930,153,True,2015-06-08 18:32:07+00:00,2015-06-08 18:32:07+00:00,GoogleCodeExporter,Type-Defect
+1931,152,True,2015-06-08 18:32:06+00:00,2015-06-08 18:32:06+00:00,GoogleCodeExporter,Type-Defect
+1932,151,True,2015-06-08 18:32:05+00:00,2015-06-08 18:32:05+00:00,GoogleCodeExporter,Type-Defect
+1933,150,True,2015-06-08 18:32:04+00:00,2016-11-23 21:32:39+00:00,GoogleCodeExporter,"ExpertReview,FoundIn-1.x,Type-Enhancement"
+1934,149,True,2015-06-08 18:32:03+00:00,2015-11-09 23:24:56+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Script-Javanese,Type-Defect"
+1935,148,True,2015-06-08 18:32:03+00:00,2015-06-08 18:32:03+00:00,GoogleCodeExporter,Type-Defect
+1936,147,True,2015-06-08 18:32:02+00:00,2015-06-08 18:32:02+00:00,GoogleCodeExporter,Type-Defect
+1937,146,True,2015-06-08 18:32:01+00:00,2015-06-08 18:32:01+00:00,GoogleCodeExporter,Type-Defect
+1938,145,True,2015-06-08 18:32:00+00:00,2015-06-08 18:32:00+00:00,GoogleCodeExporter,Type-Defect
+1939,144,True,2015-06-08 18:31:58+00:00,2015-06-08 18:31:59+00:00,GoogleCodeExporter,Type-Defect
+1940,143,True,2015-06-08 18:31:58+00:00,2015-06-08 18:31:58+00:00,GoogleCodeExporter,Type-Defect
+1941,142,True,2015-06-08 18:31:57+00:00,2015-06-08 18:31:57+00:00,GoogleCodeExporter,Type-Defect
+1942,141,True,2015-06-08 18:31:56+00:00,2016-11-23 21:32:59+00:00,GoogleCodeExporter,"ExpertReview,FoundIn-1.x,Type-Task"
+1943,140,True,2015-06-08 18:31:55+00:00,2015-06-08 18:31:55+00:00,GoogleCodeExporter,Type-Defect
+1944,139,True,2015-06-08 18:31:55+00:00,2015-06-08 18:31:55+00:00,GoogleCodeExporter,Type-Defect
+1945,138,True,2015-06-08 18:31:54+00:00,2015-06-08 18:31:54+00:00,GoogleCodeExporter,Type-Defect
+1946,137,True,2015-06-08 18:31:53+00:00,2015-06-08 18:31:53+00:00,GoogleCodeExporter,Type-Defect
+1947,136,True,2015-06-08 18:31:52+00:00,2015-06-08 18:31:52+00:00,GoogleCodeExporter,Type-Defect
+1948,135,True,2015-06-08 18:31:51+00:00,2015-06-08 18:31:51+00:00,GoogleCodeExporter,"Component-Website,Type-Defect"
+1949,134,True,2015-06-08 18:31:50+00:00,2015-06-08 18:31:50+00:00,GoogleCodeExporter,Type-Defect
+1950,133,True,2015-06-08 18:31:49+00:00,2015-06-08 18:31:49+00:00,GoogleCodeExporter,"Component-Website,Type-Defect"
+1951,132,True,2015-06-08 18:31:48+00:00,2015-06-08 18:31:48+00:00,GoogleCodeExporter,Type-Defect
+1952,131,True,2015-06-08 18:31:47+00:00,2015-06-08 18:31:48+00:00,GoogleCodeExporter,Type-Defect
+1953,130,False,2015-06-08 18:31:46+00:00,,GoogleCodeExporter,"FoundIn-1.x,Script-Emoji,Type-Defect"
+1954,129,True,2015-06-08 18:31:45+00:00,2015-07-23 22:43:13+00:00,GoogleCodeExporter,
+1955,128,True,2015-06-08 18:31:41+00:00,2015-06-08 18:31:41+00:00,GoogleCodeExporter,Type-Defect
+1956,127,True,2015-06-08 18:31:40+00:00,2016-11-09 17:15:30+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Myanmar,Type-Defect"
+1957,126,True,2015-06-08 18:31:38+00:00,2015-06-08 18:31:39+00:00,GoogleCodeExporter,Type-Defect
+1958,125,True,2015-06-08 18:31:38+00:00,2015-06-08 18:31:38+00:00,GoogleCodeExporter,Type-Defect
+1959,124,True,2015-06-08 18:31:37+00:00,2015-06-08 18:31:37+00:00,GoogleCodeExporter,
+1960,123,False,2015-06-08 18:31:37+00:00,,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect,design-question,in-evaluation"
+1961,122,True,2015-06-08 18:31:36+00:00,2015-06-08 18:31:36+00:00,GoogleCodeExporter,Type-Defect
+1962,121,False,2015-06-08 18:31:36+00:00,,GoogleCodeExporter,FoundIn-1.x
+1963,120,True,2015-06-08 18:31:34+00:00,2015-06-09 23:01:07+00:00,GoogleCodeExporter,Type-Defect
+1964,119,True,2015-06-08 18:31:34+00:00,2015-06-08 18:31:34+00:00,GoogleCodeExporter,Type-Defect
+1965,118,True,2015-06-08 18:31:33+00:00,2015-06-08 18:31:33+00:00,GoogleCodeExporter,Type-Defect
+1966,117,True,2015-06-08 18:31:32+00:00,2015-06-08 18:31:32+00:00,GoogleCodeExporter,Type-Defect
+1967,116,True,2015-06-08 18:31:32+00:00,2015-06-08 18:31:32+00:00,GoogleCodeExporter,Type-Enhancement
+1968,115,True,2015-06-08 18:31:31+00:00,2015-06-08 18:31:31+00:00,GoogleCodeExporter,Type-Defect
+1969,114,True,2015-06-08 18:31:30+00:00,2016-03-10 09:50:43+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Tibetan,Type-Enhancement"
+1970,113,True,2015-06-08 18:31:28+00:00,2020-03-11 00:11:30+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-Gurmukhi,Type-Defect"
+1971,112,True,2015-06-08 18:31:28+00:00,2015-06-08 18:31:28+00:00,GoogleCodeExporter,Type-Defect
+1972,111,True,2015-06-08 18:31:27+00:00,2015-07-01 00:15:13+00:00,GoogleCodeExporter,Type-Defect
+1973,110,True,2015-06-08 18:31:27+00:00,2015-06-09 22:50:59+00:00,GoogleCodeExporter,Type-Defect
+1974,109,True,2015-06-08 18:31:26+00:00,2015-06-09 23:22:12+00:00,GoogleCodeExporter,Type-Defect
+1975,108,True,2015-06-08 18:31:25+00:00,2018-10-05 08:14:38+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Type-Enhancement"
+1976,107,True,2015-06-08 18:31:25+00:00,2015-12-03 23:25:15+00:00,GoogleCodeExporter,"Component-Documentation,FoundIn-1.x,Status-Unreproducible"
+1977,106,True,2015-06-08 18:31:24+00:00,2015-06-08 18:31:24+00:00,GoogleCodeExporter,Type-Defect
+1978,105,True,2015-06-08 18:31:24+00:00,2015-06-09 22:44:43+00:00,GoogleCodeExporter,Type-Enhancement
+1979,104,True,2015-06-08 18:31:22+00:00,2015-06-08 18:31:23+00:00,GoogleCodeExporter,Type-Defect
+1980,103,True,2015-06-08 18:31:22+00:00,2015-06-10 00:15:03+00:00,GoogleCodeExporter,Type-Defect
+1981,102,True,2015-06-08 18:31:22+00:00,2015-06-09 22:43:04+00:00,GoogleCodeExporter,Type-Defect
+1982,101,True,2015-06-08 18:31:21+00:00,2015-06-08 18:31:21+00:00,GoogleCodeExporter,Type-Defect
+1983,100,True,2015-06-08 18:31:20+00:00,2015-06-08 18:31:20+00:00,GoogleCodeExporter,Type-Defect
+1984,99,True,2015-06-08 18:31:19+00:00,2015-10-07 06:16:52+00:00,GoogleCodeExporter,"FoundIn-1.x,Platform-MacOS,Script-Tamil,Status-NotABug"
+1985,98,True,2015-06-08 18:31:18+00:00,2015-06-10 00:48:04+00:00,GoogleCodeExporter,Type-Defect
+1986,97,True,2015-06-08 18:31:16+00:00,2015-06-08 18:31:17+00:00,GoogleCodeExporter,Type-Defect
+1987,96,True,2015-06-08 18:31:16+00:00,2015-06-09 22:38:26+00:00,GoogleCodeExporter,Type-Defect
+1988,95,True,2015-06-08 18:31:15+00:00,2015-08-13 18:09:50+00:00,GoogleCodeExporter,"Component-Documentation,FoundIn-1.x"
+1989,94,True,2015-06-08 18:31:14+00:00,2015-06-09 22:30:27+00:00,GoogleCodeExporter,Type-Defect
+1990,93,True,2015-06-08 18:31:13+00:00,2015-06-08 18:31:13+00:00,GoogleCodeExporter,Type-Defect
+1991,92,True,2015-06-08 18:31:12+00:00,2015-07-31 23:35:41+00:00,GoogleCodeExporter,Status-WorkingAsIntended
+1992,91,False,2015-06-08 18:31:11+00:00,,GoogleCodeExporter,"*add to FAQ or documentation,Component-Documentation,FoundIn-1.x"
+1993,90,True,2015-06-08 18:31:11+00:00,2015-06-08 18:31:11+00:00,GoogleCodeExporter,Type-Defect
+1994,89,False,2015-06-08 18:31:08+00:00,,GoogleCodeExporter,"FoundIn-1.x,Script-Cyrillic,Script-LatinGreekCyrillic,Type-Enhancement"
+1995,88,True,2015-06-08 18:31:08+00:00,2015-06-08 18:31:08+00:00,GoogleCodeExporter,Type-Enhancement
+1996,87,True,2015-06-08 18:31:07+00:00,2015-06-08 18:31:07+00:00,GoogleCodeExporter,Type-Defect
+1997,86,True,2015-06-08 18:31:07+00:00,2015-06-08 18:31:07+00:00,GoogleCodeExporter,Type-Defect
+1998,85,True,2015-06-08 18:31:06+00:00,2015-06-08 18:31:06+00:00,GoogleCodeExporter,Type-Defect
+1999,84,True,2015-06-08 18:31:05+00:00,2015-06-08 18:31:05+00:00,GoogleCodeExporter,Type-Defect
+2000,83,True,2015-06-08 18:31:04+00:00,2015-06-08 18:31:04+00:00,GoogleCodeExporter,Type-Defect
+2001,82,True,2015-06-08 18:31:03+00:00,2015-06-10 00:23:58+00:00,GoogleCodeExporter,"Component-Website,Type-Defect"
+2002,81,True,2015-06-08 18:31:03+00:00,2015-06-08 18:31:03+00:00,GoogleCodeExporter,"Component-Website,Type-Defect"
+2003,80,True,2015-06-08 18:31:02+00:00,2015-06-09 22:33:08+00:00,GoogleCodeExporter,"Component-Website,Type-Defect"
+2004,79,True,2015-06-08 18:31:01+00:00,2015-06-08 18:31:01+00:00,GoogleCodeExporter,Type-Defect
+2005,78,True,2015-06-08 18:31:00+00:00,2015-06-08 18:31:01+00:00,GoogleCodeExporter,Type-Defect
+2006,77,True,2015-06-08 18:30:59+00:00,2015-06-08 18:30:59+00:00,GoogleCodeExporter,Type-Defect
+2007,76,True,2015-06-08 18:30:58+00:00,2015-06-08 18:30:58+00:00,GoogleCodeExporter,Type-Defect
+2008,75,True,2015-06-08 18:30:56+00:00,2015-06-08 18:30:57+00:00,GoogleCodeExporter,Type-Defect
+2009,74,True,2015-06-08 18:30:55+00:00,2015-06-08 18:30:55+00:00,GoogleCodeExporter,Type-Defect
+2010,73,True,2015-06-08 18:30:54+00:00,2015-06-08 18:30:55+00:00,GoogleCodeExporter,Type-Defect
+2011,72,True,2015-06-08 18:30:54+00:00,2015-06-08 18:30:54+00:00,GoogleCodeExporter,Type-Defect
+2012,71,True,2015-06-08 18:30:53+00:00,2015-06-08 18:30:53+00:00,GoogleCodeExporter,Type-Defect
+2013,70,True,2015-06-08 18:30:52+00:00,2015-06-09 22:19:25+00:00,GoogleCodeExporter,Type-Defect
+2014,69,True,2015-06-08 18:30:52+00:00,2015-06-08 18:30:52+00:00,GoogleCodeExporter,
+2015,68,True,2015-06-08 18:30:51+00:00,2015-06-08 18:30:51+00:00,GoogleCodeExporter,Type-Defect
+2016,67,True,2015-06-08 18:30:50+00:00,2015-06-10 00:30:47+00:00,GoogleCodeExporter,"Component-Website,Type-Defect"
+2017,66,True,2015-06-08 18:30:50+00:00,2015-06-09 22:23:07+00:00,GoogleCodeExporter,Type-Defect
+2018,65,True,2015-06-08 18:30:49+00:00,2015-06-08 18:30:49+00:00,GoogleCodeExporter,Type-Defect
+2019,64,True,2015-06-08 18:30:48+00:00,2015-06-08 18:30:48+00:00,GoogleCodeExporter,Type-Defect
+2020,63,True,2015-06-08 18:30:47+00:00,2015-06-08 18:30:48+00:00,GoogleCodeExporter,Type-Defect
+2021,62,True,2015-06-08 18:30:47+00:00,2015-06-09 22:13:21+00:00,GoogleCodeExporter,Type-Defect
+2022,61,True,2015-06-08 18:30:46+00:00,2015-06-10 00:28:40+00:00,GoogleCodeExporter,Type-Defect
+2023,60,True,2015-06-08 18:30:46+00:00,2015-06-08 18:30:46+00:00,GoogleCodeExporter,Type-Defect
+2024,59,True,2015-06-08 18:30:44+00:00,2015-06-08 18:30:44+00:00,GoogleCodeExporter,Type-Defect
+2025,58,True,2015-06-08 18:30:43+00:00,2020-08-01 01:30:35+00:00,GoogleCodeExporter,"FoundIn-1.x,Platform-MacOS,Script-Sinhala,Status-ReportToOEM,Type-Defect"
+2026,57,True,2015-06-08 18:30:42+00:00,2015-06-08 18:30:42+00:00,GoogleCodeExporter,"Component-Website,Type-Defect"
+2027,56,True,2015-06-08 18:30:41+00:00,2015-07-23 22:45:13+00:00,GoogleCodeExporter,"Script-Armenian,Status-NotABug"
+2028,55,True,2015-06-08 18:30:41+00:00,2015-06-10 00:26:24+00:00,GoogleCodeExporter,"Component-Website,Type-Defect"
+2029,54,True,2015-06-08 18:30:39+00:00,2015-06-08 18:30:39+00:00,GoogleCodeExporter,Type-Defect
+2030,53,True,2015-06-08 18:30:38+00:00,2015-06-08 18:30:38+00:00,GoogleCodeExporter,Type-Defect
+2031,52,True,2015-06-08 18:30:37+00:00,2015-06-08 18:30:37+00:00,GoogleCodeExporter,
+2032,51,True,2015-06-08 18:30:36+00:00,2015-06-10 00:53:38+00:00,GoogleCodeExporter,Type-Defect
+2033,50,True,2015-06-08 18:30:35+00:00,2015-06-08 18:30:36+00:00,GoogleCodeExporter,Type-Defect
+2034,49,True,2015-06-08 18:30:35+00:00,2016-10-22 01:57:25+00:00,GoogleCodeExporter,"Component-Website,FoundIn-1.x"
+2035,48,True,2015-06-08 18:30:34+00:00,2015-06-08 18:30:34+00:00,GoogleCodeExporter,Type-Defect
+2036,47,True,2015-06-08 18:30:34+00:00,2016-11-24 00:07:21+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-Medium,Script-LatinGreekCyrillic,Type-Defect"
+2037,46,True,2015-06-08 18:30:33+00:00,2015-06-08 18:30:33+00:00,GoogleCodeExporter,Type-Enhancement
+2038,45,True,2015-06-08 18:30:32+00:00,2015-09-29 19:57:51+00:00,GoogleCodeExporter,"Component-Website,FoundIn-1.x,Type-Defect"
+2039,44,True,2015-06-08 18:30:31+00:00,2016-11-23 23:49:55+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Priority-High,Script-LatinGreekCyrillic,Type-Defect"
+2040,43,True,2015-06-08 18:30:29+00:00,2015-06-08 18:30:30+00:00,GoogleCodeExporter,Type-Defect
+2041,42,True,2015-06-08 18:30:28+00:00,2015-06-09 22:10:42+00:00,GoogleCodeExporter,Type-Defect
+2042,41,False,2015-06-08 18:30:27+00:00,,GoogleCodeExporter,"*add to FAQ or documentation,FoundIn-1.x,Type-Enhancement"
+2043,40,True,2015-06-08 18:30:26+00:00,2015-06-08 18:30:26+00:00,GoogleCodeExporter,Type-Defect
+2044,39,True,2015-06-08 18:30:24+00:00,2015-06-10 01:02:34+00:00,GoogleCodeExporter,Type-Enhancement
+2045,38,True,2015-06-08 18:30:21+00:00,2015-06-08 18:30:21+00:00,GoogleCodeExporter,Type-Defect
+2046,37,True,2015-06-08 18:30:20+00:00,2015-06-08 18:30:20+00:00,GoogleCodeExporter,Type-Defect
+2047,36,True,2015-06-08 18:30:19+00:00,2015-06-08 18:30:19+00:00,GoogleCodeExporter,Type-Defect
+2048,35,True,2015-06-08 18:30:18+00:00,2015-06-09 21:26:49+00:00,GoogleCodeExporter,"Emoji,Type-Defect"
+2049,34,True,2015-06-08 18:30:18+00:00,2015-12-04 21:44:25+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Arabic,Type-Defect"
+2050,33,False,2015-06-08 18:30:16+00:00,,GoogleCodeExporter,"FoundIn-1.x,Platform-Linux,Script-Symbol,Type-Defect,in-evaluation,wrong glyph(s)"
+2051,32,True,2015-06-08 18:30:04+00:00,2015-06-09 21:27:44+00:00,GoogleCodeExporter,"Emoji,Type-Defect"
+2052,31,True,2015-06-08 18:30:03+00:00,2015-06-08 18:30:03+00:00,GoogleCodeExporter,Type-Defect
+2053,30,True,2015-06-08 18:30:02+00:00,2015-06-08 18:30:02+00:00,GoogleCodeExporter,
+2054,29,True,2015-06-08 18:30:01+00:00,2015-06-08 18:30:01+00:00,GoogleCodeExporter,Type-Defect
+2055,28,False,2015-06-08 18:30:00+00:00,,GoogleCodeExporter,"ArimoTinosCousine,FoundIn-1.x,Type-Enhancement,in-evaluation"
+2056,27,True,2015-06-08 18:29:59+00:00,2015-06-08 18:30:00+00:00,GoogleCodeExporter,Type-Defect
+2057,26,True,2015-06-08 18:29:59+00:00,2015-06-08 18:29:59+00:00,GoogleCodeExporter,Type-Defect
+2058,25,True,2015-06-08 18:29:58+00:00,2015-07-29 22:21:57+00:00,GoogleCodeExporter,"Script-LatinGreekCyrillic,Status-Unreproducible,Type-Defect"
+2059,24,True,2015-06-08 18:29:57+00:00,2015-06-08 18:29:57+00:00,GoogleCodeExporter,Type-Defect
+2060,23,True,2015-06-08 18:29:55+00:00,2015-06-08 18:29:55+00:00,GoogleCodeExporter,Type-Defect
+2061,22,True,2015-06-08 18:29:54+00:00,2015-06-08 18:29:54+00:00,GoogleCodeExporter,Type-Defect
+2062,21,False,2015-06-08 18:29:53+00:00,,GoogleCodeExporter,"Android,FoundIn-1.x,Script-Telugu,Type-Defect,in-evaluation"
+2063,20,True,2015-06-08 18:29:53+00:00,2015-06-08 18:29:53+00:00,GoogleCodeExporter,Type-Defect
+2064,19,True,2015-06-08 18:29:52+00:00,2015-06-08 18:29:52+00:00,GoogleCodeExporter,Type-Defect
+2065,18,True,2015-06-08 18:29:51+00:00,2015-06-08 18:29:51+00:00,GoogleCodeExporter,Type-Defect
+2066,17,True,2015-06-08 18:29:50+00:00,2015-06-08 18:29:50+00:00,GoogleCodeExporter,Type-Defect
+2067,16,True,2015-06-08 18:29:50+00:00,2015-06-08 18:29:50+00:00,GoogleCodeExporter,"Script-Kaithi,Type-Defect"
+2068,15,True,2015-06-08 18:29:49+00:00,2015-06-08 18:29:49+00:00,GoogleCodeExporter,Type-Defect
+2069,14,True,2015-06-08 18:29:48+00:00,2015-06-08 18:29:49+00:00,GoogleCodeExporter,"OpSys-All,Type-Defect"
+2070,13,True,2015-06-08 18:29:45+00:00,2015-06-08 18:29:46+00:00,GoogleCodeExporter,Type-Enhancement
+2071,12,True,2015-06-08 18:29:45+00:00,2015-06-08 18:29:45+00:00,GoogleCodeExporter,Type-Defect
+2072,11,True,2015-06-08 18:29:44+00:00,2015-10-16 17:55:25+00:00,GoogleCodeExporter,"Android,FoundIn-1.x,Script-LatinGreekCyrillic,Status-NeedsValidation,Type-Defect"
+2073,10,True,2015-06-08 18:29:44+00:00,2015-06-08 18:29:44+00:00,GoogleCodeExporter,Type-Defect
+2074,9,True,2015-06-08 18:29:40+00:00,2015-06-08 18:29:40+00:00,GoogleCodeExporter,Type-Defect
+2075,8,True,2015-06-08 18:29:40+00:00,2015-06-08 18:29:40+00:00,GoogleCodeExporter,Type-Defect
+2076,7,True,2015-06-08 18:29:39+00:00,2015-10-14 00:19:36+00:00,GoogleCodeExporter,"FoundIn-1.x,Script-Khmer,Script-Lao,Type-Defect"
+2077,6,True,2015-06-08 18:29:38+00:00,2015-06-08 18:29:38+00:00,GoogleCodeExporter,Type-Defect
+2078,5,True,2015-06-08 18:29:35+00:00,2015-06-08 18:29:35+00:00,GoogleCodeExporter,Type-Defect
+2079,4,True,2015-06-08 18:29:34+00:00,2015-06-08 18:29:35+00:00,GoogleCodeExporter,"Script-Khmer,Script-Lao,Type-Defect"
+2080,3,True,2015-06-08 18:29:33+00:00,2015-06-08 18:29:33+00:00,GoogleCodeExporter,Type-Defect
+2081,2,True,2015-06-08 18:29:33+00:00,2015-06-08 18:29:33+00:00,GoogleCodeExporter,"Script-Khmer,Script-Lao,Type-Defect"
+2082,1,True,2015-06-08 18:29:31+00:00,2015-06-08 18:29:32+00:00,GoogleCodeExporter,"OpSys-All,Script-Khmer,Type-Defect"
