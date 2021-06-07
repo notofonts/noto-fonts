@@ -21,8 +21,8 @@ If you want to download this git repo to obtain copies of the latest fonts, use 
 
 #### 2021.06.03
 
-NotoNaskhArabic: all of diacrritics now support Bold weight (and variable) replacing prior Regular only diacritics.
-NotoKufiArabic: updated Kufi style to include some (not all :-)) codepoints listed in https://github.com/googlefonts/noto-fonts/issues/1870
+*NotoNaskhArabic*: all of diacrritics now support Bold weight (and variable) replacing prior Regular only diacritics.
+*NotoKufiArabic*: updated Kufi style to include some (not all :-)) codepoints listed in https://github.com/googlefonts/noto-fonts/issues/1870
 
 #### 2021.04.20
 
