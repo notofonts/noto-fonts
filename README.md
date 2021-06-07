@@ -19,6 +19,11 @@ If you want to download this git repo to obtain copies of the latest fonts, use 
 
 ## Recent updates
 
+#### 2021.06.03
+
+NotoNaskhArabic: all of diacrritics now support Bold weight (and variable) replacing prior Regular only diacritics.
+NotoKufiArabic: updated Kufi style to include some (not all :-)) codepoints listed in https://github.com/googlefonts/noto-fonts/issues/1870
+
 #### 2021.04.20
 
 The Noto fonts published on this date were built using the newest fontmake which resolved an issue impacting [Noto fonts on Windows](https://github.com/googlefonts/noto-fonts/issues/2066). The following applications are affected: MS Write, MS Word and MS Powerpoint.
