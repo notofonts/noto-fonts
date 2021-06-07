@@ -22,7 +22,7 @@ If you want to download this git repo to obtain copies of the latest fonts, use 
 #### 2021.04.20
 
 The Noto fonts published on this date were built using the newest fontmake which resolved an issue impacting [Noto fonts on Windows](https://github.com/googlefonts/noto-fonts/issues/2066). The following applications are affected: MS Write, MS Word and MS Powerpoint.
-Note that only fonts published on 2021.04.20 have are changed to have this issue resolved. We are working on validating the other Noto fonts which will be published at a later date.
+Note that only fonts published on 2021.04.20 have this issue resolved. We are working on validating the other Noto fonts which will be published at a later date.
 
 #### 2021.03.24
 
