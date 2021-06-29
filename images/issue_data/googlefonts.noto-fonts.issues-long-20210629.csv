@@ -1,6 +1,6 @@
 ,number,closed,created,closedAt,openedBy,labels
-0,2104,False,2021-06-27 13:46:24+00:00,,MasterInQuestion,
-1,2103,False,2021-06-26 14:51:05+00:00,,MasterInQuestion,
+0,2104,False,2021-06-27 13:46:24+00:00,,MasterInQuestion,"Script-Cyrillic,Script-LatinGreekCyrillic,Script-Monospace"
+1,2103,False,2021-06-26 14:51:05+00:00,,MasterInQuestion,"Script-LatinGreekCyrillic,Script-Monospace"
 2,2102,False,2021-06-21 20:32:51+00:00,,LornaSIL,Script-OldHungarian
 3,2101,False,2021-06-20 13:43:57+00:00,,twardoch,Noto-Process-Issue
 4,2100,False,2021-06-09 12:59:15+00:00,,bishoyboshra,Script-Coptic
