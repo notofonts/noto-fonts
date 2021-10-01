@@ -19,6 +19,9 @@ If you want to download this git repo to obtain copies of the latest fonts, use 
 
 ## Recent updates
 
+#### 2021.09.29
+*NotoSansCanadianAboriginal*: Unicode 14.0 additions. Adding 16 glyphs (range: U+11AB0–11ABF; Unified Canadian Aboriginal Syllabics Extended-A) to Noto UCAS sources covering the Unicode 14.0 UCAS character additions. Adding outlines and fitting for 12 Nattilik glyphs (U+11AB0–11ABB) and 4 Cree/Ojibway sp-series (U+11ABC–11ABF), and ensuring compatibility across all sources for these glyphs.
+
 #### 2021.06.03
 
 *NotoNaskhArabic*: all of diacrritics now support Bold weight (and variable) replacing prior Regular only diacritics.
