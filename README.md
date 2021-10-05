@@ -19,7 +19,7 @@ If you want to download this git repo to obtain copies of the latest fonts, use 
 
 ## Recent updates
 
-#### 2021.09.29
+#### 2021.10.04
 *NotoSansCoptic*: bug fixes.
 
 #### 2021.09.29
