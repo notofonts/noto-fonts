@@ -19,6 +19,9 @@ If you want to download this git repo to obtain copies of the latest fonts, use 
 
 ## Recent updates
 
+#### 2021.10.19
+*NotoSerifVithkuqi*: a new script that was recently approved in Unicode 14. *NotoSansVithkuqi* is also in the works.
+
 #### 2021.10.04
 *NotoSansCoptic*: bug fixes.
 
