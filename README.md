@@ -20,7 +20,7 @@ If you want to download this git repo to obtain copies of the latest fonts, use 
 ## Recent updates
 
 #### 2021.11.02
-We have rebuilt everything with the newest fontmake and made sure that all of the font versions are consistent across instances, variable, etc.. There were no other changes.
+We have rebuilt everything with the newest fontmake and made sure that all of the font families are consistent across instances, variable fonts, etc.. There were no other changes.
 
 #### 2021.10.19
 *NotoSerifVithkuqi*: a new script that was recently approved in Unicode 14. *NotoSansVithkuqi* is also in the works.
