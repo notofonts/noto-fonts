@@ -20,7 +20,7 @@ If you want to download this git repo to obtain copies of the latest fonts, use 
 ## Recent updates
 
 #### 2021.11.13
-Added a new script NotoSansNandinagari to the Noto collection (this completes Noto additions related to new scripts in the Unicode Version 12.0).
+Added a new script *NotoSansNandinagari* to the Noto collection (this completes Noto additions related to new scripts in the Unicode Version 12.0).
 
 #### 2021.11.02
 We have rebuilt everything with the newest fontmake and made sure that all of the font families are consistent across instances, variable fonts, etc.. There were no other changes.
