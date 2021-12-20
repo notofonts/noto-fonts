@@ -19,6 +19,10 @@ If you want to download this git repo to obtain copies of the latest fonts, use 
 
 ## Recent updates
 
+
+#### 2021.12.16
+Published an update to NotoSerifDogra adding Medium, SemiBold and Bold instances + a variable font.
+
 #### 2021.12.16
 Published new versions of NotoSansBrahmi, NotoSansCaucasianAlbanian, NotoSansElbasan, NotoSansKhudawadi, NotoSansLepcha, NotoSansMahajani, NotoSansSharada, NotoSansMendeKikakui, NotoSansManichaean, NotoSansLimbu, NotoSansInscriptionalPahlavi, NotoSansInscriptionalParthian, NotoSansTirhuta, and NotoSansHanunoo. Their version number is up by 0.001. There should be nothing new and nothing different when compared to the older versions. We have changed the sources for these fonts to stop using MTI FontDame feature file formats and started using AFDKO features embedded in the .glyphs files. While I hope we have done a thourough and exact update if there are any issues please file a new issue here.
 
