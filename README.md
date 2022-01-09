@@ -1,3 +1,5 @@
+[![CI Build Status](https://github.com/googlefonts/noto-fonts/workflows/Continuous%20Test%20+%20Deploy/badge.svg?branch=main)](https://github.com/googlefonts/noto-fonts/actions/workflows/ci.yml?query=workflow%3ATest+branch%3Amain)
+
 ![Noto](images/noto.png)
 
 # Noto Fonts
