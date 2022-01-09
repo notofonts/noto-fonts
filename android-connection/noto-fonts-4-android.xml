@@ -90,12 +90,6 @@
         </font>
 	</family>
 	<family lang="und-Hebr">
-		<fontsourcepath path="archive/unhinted/NotoSansHebrew/NotoSansHebrew-Regular.ttf" action="nochange"/>
-		<font weight="400" style="normal" postScriptName="NotoSansHebrew">
-            NotoSansHebrew-Regular.ttf
-        </font>
-		<fontsourcepath path="archive/unhinted/NotoSansHebrew/NotoSansHebrew-Bold.ttf" action="nochange"/>
-		<font weight="700" style="normal">NotoSansHebrew-Bold.ttf</font>
 		<fontsourcepath path="unhinted/slim-variable-ttf/NotoSerifHebrew-VF.ttf"/>
 		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifHebrew-Regular">
 	          NotoSerifHebrew-VF.ttf
