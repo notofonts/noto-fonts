@@ -53,5 +53,5 @@ def test_font_paths_are_valid():
     path = font.attrib["path"]
     file = _font_file(font)
     if not (_repo_root() / path / file).is_file():
-      bad.append((path, file))
+      bad.append("/".join((path, file)))
   assert not bad, "No such file: " + ", ".join(bad)
