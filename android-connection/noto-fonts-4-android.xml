@@ -90,12 +90,6 @@
         </font>
 	</family>
 	<family lang="und-Hebr">
-		<fontsourcepath path="archive/unhinted/NotoSansHebrew/NotoSansHebrew-Regular.ttf" action="nochange"/>
-		<font weight="400" style="normal" postScriptName="NotoSansHebrew">
-            NotoSansHebrew-Regular.ttf
-        </font>
-		<fontsourcepath path="archive/unhinted/NotoSansHebrew/NotoSansHebrew-Bold.ttf" action="nochange"/>
-		<font weight="700" style="normal">NotoSansHebrew-Bold.ttf</font>
 		<fontsourcepath path="unhinted/slim-variable-ttf/NotoSerifHebrew-VF.ttf"/>
 		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifHebrew-Regular">
 	          NotoSerifHebrew-VF.ttf
@@ -1472,7 +1466,7 @@
 	</family>
 	<family lang="und-Tfng">
 		<fontsourcepath path="unhinted/ttf/NotoSansTifinagh/NotoSansTifinagh-Regular.ttf" action="nochange"/>
-		<font weight="400" style="normal">NotoSansTifinagh-Regular.otf</font>
+		<font weight="400" style="normal">NotoSansTifinagh-Regular.ttf</font>
 	</family>
 	<family lang="und-Ugar">
 		<fontsourcepath path="unhinted/ttf/NotoSansUgaritic/NotoSansUgaritic-Regular.ttf"/>
@@ -1572,7 +1566,7 @@
 	</family>
 	<family lang="und-Hluw">
 		<fontsourcepath path="unhinted/ttf/NotoSansAnatolianHieroglyphs/NotoSansAnatolianHieroglyphs-Regular.ttf" action="nochange"/>
-		<font weight="400" style="normal">NotoSansAnatolianHieroglyphs-Regular.otf</font>
+		<font weight="400" style="normal">NotoSansAnatolianHieroglyphs-Regular.ttf</font>
 	</family>
 	<family lang="und-Bass" variant="elegant">
 		<fontsourcepath path="unhinted/slim-variable-ttf/NotoSansBassaVah-VF.ttf"/>
@@ -1766,7 +1760,7 @@
 		<font weight="400" style="normal">NotoSansWarangCiti-Regular.ttf</font>
 	</family>
 	<family lang="und-Gran">
-		<fontsourcepath path="unhinted/ttf/NotoSansSharada/NotoSansSharada-Regular.ttf" action="nochange"/>
+		<fontsourcepath path="unhinted/ttf/NotoSansGrantha/NotoSansGrantha-Regular.ttf" action="nochange"/>
 		<font weight="400" style="normal">NotoSansGrantha-Regular.ttf</font>
 		<fontsourcepath path="unhinted/ttf/NotoSerifGrantha/NotoSerifGrantha-Regular.ttf"/>
 		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifGrantha">
@@ -1816,7 +1810,7 @@
         </font>
 	</family>
 	<family lang="und-Soyo">
-		<fontsourcepath path="unhinted/slim-variable-ttf/NotoSansSoyombo-VF.ttf" action="nochange"/>
+
 		<font weight="400" style="normal" postScriptName="NotoSansSoyombo-Regular">
             NotoSansSoyombo-VF.ttf
             <axis tag="wght" stylevalue="400"/>
