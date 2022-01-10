@@ -23,7 +23,7 @@ def _repo_root() -> Path:
 
 
 def _noto_4_android_file() -> Path:
-  xml_file = _repo_root() / "android-connection" / "noto-fonts-4-android.xml"
+  xml_file = _repo_root() / "android_connection" / "noto-fonts-4-android.xml"
   if not xml_file.is_file():
     raise IOError(f"No file {xml_file}")
   return xml_file
