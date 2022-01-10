@@ -4,13 +4,10 @@ import pytest
 
 
 _KNOWN_PATHLESS = {
-  "NotoSansSyriacEastern-Regular.ttf",
-  "NotoSansSyriacWestern-Regular.ttf",
   "NotoSansSymbols-Regular-Subsetted.ttf",
   "NotoColorEmoji.ttf",
   "NotoColorEmojiFlags.ttf",
   "NotoSansSymbols-Regular-Subsetted2.ttf",
-  "NotoSansSoyombo-VF.ttf",
 }
 
 

@@ -1279,12 +1279,12 @@
         </font>
 	</family>
 	<family lang="und-Syrn">
-		<font weight="400" style="normal" postScriptName="NotoSansSyriacEastern">
+		<font weight="400" style="normal" postScriptName="NotoSansSyriacEastern" path="archive/unhinted/NotoSansSyriac">
             NotoSansSyriacEastern-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Syrj">
-		<font weight="400" style="normal" postScriptName="NotoSansSyriacWestern">
+		<font weight="400" style="normal" postScriptName="NotoSansSyriacWestern" path="archive/unhinted/NotoSansSyriac">
             NotoSansSyriacWestern-Regular.ttf
         </font>
 	</family>
@@ -1634,23 +1634,9 @@
         </font>
 	</family>
 	<family lang="und-Soyo">
-
-		<font weight="400" style="normal" postScriptName="NotoSansSoyombo-Regular">
-            NotoSansSoyombo-VF.ttf
-            <axis tag="wght" stylevalue="400"/>
-        </font>
-		<font weight="500" style="normal" postScriptName="NotoSansSoyombo-Regular">
-            NotoSansSoyombo-VF.ttf
-            <axis tag="wght" stylevalue="500"/>
-        </font>
-		<font weight="600" style="normal" postScriptName="NotoSansSoyombo-Regular">
-            NotoSansSoyombo-VF.ttf
-            <axis tag="wght" stylevalue="600"/>
-        </font>
-		<font weight="700" style="normal" postScriptName="NotoSansSoyombo-Regular">
-            NotoSansSoyombo-VF.ttf
-            <axis tag="wght" stylevalue="700"/>
-        </font>
+		<font weight="400" style="normal" postScriptName="NotoSansSoyombo" path="unhinted/ttf/NotoSansSoyombo">
+	          NotoSansSoyombo-Regular.ttf
+	      </font>
 	</family>
 	<family lang="und-Takr">
 		<font weight="400" style="normal" postScriptName="NotoSansTakri" path="unhinted/ttf/NotoSansTakri">
