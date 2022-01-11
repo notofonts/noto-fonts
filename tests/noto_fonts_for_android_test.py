@@ -121,5 +121,31 @@ def test_font_weights():
   assert not errors, ", ".join(errors)
 
 
+def test_font_weight_coverage():
+  root = etree.parse(str(_noto_4_android_file()))
+  errors = []
+  reached_max_weight = set()
+  reached_min_weight = set()
+  all_fonts = set()
+  for font_el in root.xpath("//font[@path]"):
+    xml_weight = int(font_el.attrib["weight"])
+    path = _font_path(font_el)
+    all_fonts.add(_font_file(font_el))
+
+    font = _open_font(font_el)
+    min_wght, default_wght, max_weight = _weight(font)
+    if xml_weight == min_wght:
+      reached_min_weight.add(_font_file(font_el))
+    if xml_weight == max_weight:
+      reached_max_weight.add(_font_file(font_el))
+
+  print("======> minimum not reached")
+  for font_file_name in all_fonts.difference(reached_min_weight):
+    print(font_file_name)
+  print("======> maximum not reached")
+  for font_file_name in all_fonts.difference(reached_max_weight):
+    print(font_file_name)
+
+
 def test_font_psnames():
   pass
