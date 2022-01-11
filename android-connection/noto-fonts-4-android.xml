@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <familyset version="01">
 	<family name="serif">
-		<font weight="400" style="normal" postScriptName="NotoSerif" path="archive/unhinted/NotoSerifAndroid">NotoSerif-Regular.ttf</font>
+		<font weight="400" style="normal" path="archive/unhinted/NotoSerifAndroid">NotoSerif-Regular.ttf</font>
 		<font weight="700" style="normal" path="archive/unhinted/NotoSerifAndroid">NotoSerif-Bold.ttf</font>
 		<font weight="400" style="italic" path="archive/unhinted/NotoSerifAndroid">NotoSerif-Italic.ttf</font>
 		<font weight="700" style="italic" path="archive/unhinted/NotoSerifAndroid">NotoSerif-BoldItalic.ttf</font>
@@ -44,7 +44,7 @@
       </font>
 	</family>
 	<family lang="und-Aran">
-		<font weight="400" style="normal" postScriptName="NotoNastaliqUrdu" path="unhinted/ttf/NotoNastaliqUrdu">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoNastaliqUrdu">
             NotoNastaliqUrdu-Regular.ttf
         </font>
 		<font weight="700" style="normal" path="unhinted/ttf/NotoNastaliqUrdu">NotoNastaliqUrdu-Bold.ttf</font>
@@ -279,7 +279,7 @@
 	          NotoSansGujarati-VF.ttf
 	          <axis tag="wght" stylevalue="700"/>
 	      </font>
-  		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifGujarati-Regular" path="unhinted/slim-variable-ttf">NotoSerifGujarati-VF.ttf
+		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifGujarati-Regular" path="unhinted/slim-variable-ttf">NotoSerifGujarati-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
 		<font weight="500" style="normal" fallbackFor="serif" postScriptName="NotoSerifGujarati-Regular" path="unhinted/slim-variable-ttf">NotoSerifGujarati-VF.ttf
@@ -293,13 +293,13 @@
         </font>
 	</family>
 	<family lang="und-Gujr" variant="compact">
-		<font weight="400" style="normal" postScriptName="NotoSansGujaratiUI" path="unhinted/ttf/NotoSansGujaratiUI">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansGujaratiUI">
             NotoSansGujaratiUI-Regular.ttf
         </font>
 		<font weight="700" style="normal" path="unhinted/ttf/NotoSansGujaratiUI">NotoSansGujaratiUI-Bold.ttf</font>
 	</family>
 	<family lang="und-Guru" variant="elegant">
-  		<font weight="400" style="normal" postScriptName="NotoSansGurmukhi-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansGurmukhi-Regular" path="unhinted/slim-variable-ttf">
             NotoSansGurmukhi-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -315,7 +315,7 @@
             NotoSansGurmukhi-VF.ttf
             <axis tag="wght" stylevalue="700"/>
         </font>
-  		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifGurmukhi-Regular" path="unhinted/slim-variable-ttf">NotoSerifGurmukhi-VF.ttf
+		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifGurmukhi-Regular" path="unhinted/slim-variable-ttf">NotoSerifGurmukhi-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
 		<font weight="500" style="normal" fallbackFor="serif" postScriptName="NotoSerifGurmukhi-Regular" path="unhinted/slim-variable-ttf">NotoSerifGurmukhi-VF.ttf
@@ -329,7 +329,7 @@
         </font>
 	</family>
 	<family lang="und-Guru" variant="compact">
-  		<font weight="400" style="normal" postScriptName="NotoSansGurmukhiUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansGurmukhiUI-Regular" path="unhinted/slim-variable-ttf">
             NotoSansGurmukhiUI-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -347,7 +347,7 @@
         </font>
 	</family>
 	<family lang="und-Taml" variant="elegant">
-  		<font weight="400" style="normal" postScriptName="NotoSansTamil-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansTamil-Regular" path="unhinted/slim-variable-ttf">
             NotoSansTamil-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -363,7 +363,7 @@
             NotoSansTamil-VF.ttf
             <axis tag="wght" stylevalue="700"/>
         </font>
-  		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifTamil-Regular" path="unhinted/slim-variable-ttf">NotoSerifTamil-VF.ttf
+		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifTamil-Regular" path="unhinted/slim-variable-ttf">NotoSerifTamil-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
 		<font weight="500" style="normal" fallbackFor="serif" postScriptName="NotoSerifTamil-Regular" path="unhinted/slim-variable-ttf">NotoSerifTamil-VF.ttf
@@ -377,7 +377,7 @@
         </font>
 	</family>
 	<family lang="und-Taml" variant="compact">
-  		<font weight="400" style="normal" postScriptName="NotoSansTamilUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansTamilUI-Regular" path="unhinted/slim-variable-ttf">
             NotoSansTamilUI-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -429,7 +429,7 @@
 	      </font>
 	</family>
 	<family lang="und-Mlym" variant="compact">
-  		<font weight="400" style="normal" postScriptName="NotoSansMalayalamUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansMalayalamUI-Regular" path="unhinted/slim-variable-ttf">
             NotoSansMalayalamUI-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -447,7 +447,7 @@
         </font>
 	</family>
 	<family lang="und-Beng" variant="elegant">
-  		<font weight="400" style="normal" postScriptName="NotoSansBengali-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansBengali-Regular" path="unhinted/slim-variable-ttf">
             NotoSansBengali-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -463,7 +463,7 @@
             NotoSansBengali-VF.ttf
             <axis tag="wght" stylevalue="700"/>
         </font>
-  		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifBengali-Regular" path="unhinted/slim-variable-ttf">NotoSerifBengali-VF.ttf
+		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifBengali-Regular" path="unhinted/slim-variable-ttf">NotoSerifBengali-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
 		<font weight="500" style="normal" fallbackFor="serif" postScriptName="NotoSerifBengali-Regular" path="unhinted/slim-variable-ttf">NotoSerifBengali-VF.ttf
@@ -477,7 +477,7 @@
         </font>
 	</family>
 	<family lang="und-Beng" variant="compact">
-  		<font weight="400" style="normal" postScriptName="NotoSansBengaliUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansBengaliUI-Regular" path="unhinted/slim-variable-ttf">
             NotoSansBengaliUI-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -495,7 +495,7 @@
         </font>
 	</family>
 	<family lang="und-Telu" variant="elegant">
-  		<font weight="400" style="normal" postScriptName="NotoSansTelugu-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansTelugu-Regular" path="unhinted/slim-variable-ttf">
             NotoSansTelugu-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -511,7 +511,7 @@
             NotoSansTelugu-VF.ttf
             <axis tag="wght" stylevalue="700"/>
         </font>
-  		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifTelugu-Regular" path="unhinted/slim-variable-ttf">NotoSerifTelugu-VF.ttf
+		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifTelugu-Regular" path="unhinted/slim-variable-ttf">NotoSerifTelugu-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
 		<font weight="500" style="normal" fallbackFor="serif" postScriptName="NotoSerifTelugu-Regular" path="unhinted/slim-variable-ttf">NotoSerifTelugu-VF.ttf
@@ -525,7 +525,7 @@
         </font>
 	</family>
 	<family lang="und-Telu" variant="compact">
-  		<font weight="400" style="normal" postScriptName="NotoSansTeluguUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansTeluguUI-Regular" path="unhinted/slim-variable-ttf">
             NotoSansTeluguUI-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -543,7 +543,7 @@
         </font>
 	</family>
 	<family lang="und-Knda" variant="elegant">
-  		<font weight="400" style="normal" postScriptName="NotoSansKannada-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansKannada-Regular" path="unhinted/slim-variable-ttf">
             NotoSansKannada-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -559,7 +559,7 @@
             NotoSansKannada-VF.ttf
             <axis tag="wght" stylevalue="700"/>
         </font>
-  		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifKannada-Regular" path="unhinted/slim-variable-ttf">NotoSerifKannada-VF.ttf
+		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifKannada-Regular" path="unhinted/slim-variable-ttf">NotoSerifKannada-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
 		<font weight="500" style="normal" fallbackFor="serif" postScriptName="NotoSerifKannada-Regular" path="unhinted/slim-variable-ttf">NotoSerifKannada-VF.ttf
@@ -573,7 +573,7 @@
         </font>
 	</family>
 	<family lang="und-Knda" variant="compact">
-  		<font weight="400" style="normal" postScriptName="NotoSansKannadaUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansKannadaUI-Regular" path="unhinted/slim-variable-ttf">
             NotoSansKannadaUI-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -643,7 +643,7 @@
 	      </font>
 	</family>
 	<family lang="und-Sinh" variant="elegant">
-  		<font weight="400" style="normal" postScriptName="NotoSansSinhala-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansSinhala-Regular" path="unhinted/slim-variable-ttf">
             NotoSansSinhala-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -659,7 +659,7 @@
             NotoSansSinhala-VF.ttf
             <axis tag="wght" stylevalue="700"/>
         </font>
-  		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifSinhala-Regular" path="unhinted/slim-variable-ttf">NotoSerifSinhala-VF.ttf
+		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifSinhala-Regular" path="unhinted/slim-variable-ttf">NotoSerifSinhala-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
 		<font weight="500" style="normal" fallbackFor="serif" postScriptName="NotoSerifSinhala-Regular" path="unhinted/slim-variable-ttf">NotoSerifSinhala-VF.ttf
@@ -673,7 +673,7 @@
         </font>
 	</family>
 	<family lang="und-Sinh" variant="compact">
-  		<font weight="400" style="normal" postScriptName="NotoSansSinhalaUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansSinhalaUI-Regular" path="unhinted/slim-variable-ttf">
             NotoSansSinhalaUI-VF.ttf
             <axis tag="wght" stylevalue="400"/>
         </font>
@@ -811,7 +811,7 @@
 	          NotoSansMyanmar-VF.ttf
 	          <axis tag="wght" stylevalue="700"/>
 	      </font>
-  		<font weight="400" style="normal" fallbackFor="serif" path="unhinted/ttf/NotoSerifMyanmar">NotoSerifMyanmar-Regular.ttf</font>
+		<font weight="400" style="normal" fallbackFor="serif" path="unhinted/ttf/NotoSerifMyanmar">NotoSerifMyanmar-Regular.ttf</font>
 		<font weight="700" style="normal" fallbackFor="serif" path="unhinted/ttf/NotoSerifMyanmar">NotoSerifMyanmar-Bold.ttf</font>
 	</family>
 	<family lang="und-Mymr" variant="compact">
@@ -869,7 +869,7 @@
       </font>
 	</family>
 	<family lang="und-Ahom">
-		<font weight="400" style="normal" postScriptName="NotoSerifAhom" path="unhinted/ttf/NotoSerifAhom">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSerifAhom">
 	          NotoSerifAhom-Regular.ttf
 	      </font>
 	</family>
@@ -892,7 +892,7 @@
         </font>
 	</family>
 	<family lang="und-Avst">
-		<font weight="400" style="normal" postScriptName="NotoSansAvestan" path="unhinted/ttf/NotoSansAvestan">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansAvestan">
 	          NotoSansAvestan-Regular.ttf
 	      </font>
 	</family>
@@ -913,7 +913,7 @@
 	          NotoSansBalinese-VF.ttf
 	          <axis tag="wght" stylevalue="700"/>
 	      </font>
-		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifBalinese" path="unhinted/ttf/NotoSerifBalinese">
+		<font weight="400" style="normal" fallbackFor="serif" path="unhinted/ttf/NotoSerifBalinese">
             NotoSerifBalinese-Regular.ttf
         </font>
 	</family>
@@ -974,12 +974,12 @@
 	      </font>
 	</family>
 	<family lang="und-Cari">
-		<font weight="400" style="normal" postScriptName="NotoSansCarian" path="unhinted/ttf/NotoSansCarian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansCarian">
 	          NotoSansCarian-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Cakm">
-		<font weight="400" style="normal" postScriptName="NotoSansChakma" path="unhinted/ttf/NotoSansChakma">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansChakma">
 	          NotoSansChakma-Regular.ttf
 	      </font>
 	</family>
@@ -1002,62 +1002,60 @@
 	      </font>
 	</family>
 	<family lang="und-Copt">
-		<font weight="400" style="normal" postScriptName="NotoSansCoptic" path="unhinted/ttf/NotoSansCoptic">
-	          NotoSansCoptic-Regular.ttf
-	      </font>
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansCoptic">NotoSansCoptic-Regular.ttf</font>
 	</family>
 	<family lang="und-Xsux">
-		<font weight="400" style="normal" postScriptName="NotoSansCuneiform" path="unhinted/ttf/NotoSansCuneiform">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansCuneiform">
 	          NotoSansCuneiform-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Cprt">
-		<font weight="400" style="normal" postScriptName="NotoSansCypriot" path="unhinted/ttf/NotoSansCypriot">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansCypriot">
 	          NotoSansCypriot-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Dsrt">
-		<font weight="400" style="normal" postScriptName="NotoSansDeseret" path="unhinted/ttf/NotoSansDeseret">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansDeseret">
 	          NotoSansDeseret-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Egyp">
-		<font weight="400" style="normal" postScriptName="NotoSansEgyptianHieroglyphs" path="unhinted/ttf/NotoSansEgyptianHieroglyphs">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansEgyptianHieroglyphs">
 	          NotoSansEgyptianHieroglyphs-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Elba">
-		<font weight="400" style="normal" postScriptName="NotoSansElbasan" path="unhinted/ttf/NotoSansElbasan">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansElbasan">
 	          NotoSansElbasan-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Glag">
-		<font weight="400" style="normal" postScriptName="NotoSansGlagolitic" path="unhinted/ttf/NotoSansGlagolitic">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansGlagolitic">
 	          NotoSansGlagolitic-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Goth">
-		<font weight="400" style="normal" postScriptName="NotoSansGothic" path="unhinted/ttf/NotoSansGothic">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansGothic">
 	          NotoSansGothic-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Hano">
-		<font weight="400" style="normal" postScriptName="NotoSansHanunoo" path="unhinted/ttf/NotoSansHanunoo">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansHanunoo">
 	          NotoSansHanunoo-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Armi">
-		<font weight="400" style="normal" postScriptName="NotoSansImperialAramaic" path="unhinted/ttf/NotoSansImperialAramaic">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansImperialAramaic">
 	          NotoSansImperialAramaic-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Phli">
-		<font weight="400" style="normal" postScriptName="NotoSansInscriptionalPahlavi" path="unhinted/ttf/NotoSansInscriptionalPahlavi">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansInscriptionalPahlavi">
 	          NotoSansInscriptionalPahlavi-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Prti">
-		<font weight="400" style="normal" postScriptName="NotoSansInscriptionalParthian" path="unhinted/ttf/NotoSansInscriptionalParthian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansInscriptionalParthian">
 	          NotoSansInscriptionalParthian-Regular.ttf
 	      </font>
 	</family>
@@ -1065,7 +1063,7 @@
 		<font weight="400" style="normal" path="unhinted/ttf/NotoSansJavanese">NotoSansJavanese-Regular.ttf</font>
 	</family>
 	<family lang="und-Kthi">
-		<font weight="400" style="normal" postScriptName="NotoSansKaithi" path="unhinted/ttf/NotoSansKaithi">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansKaithi">
 	          NotoSansKaithi-Regular.ttf
 	      </font>
 	</family>
@@ -1088,22 +1086,22 @@
 	      </font>
 	</family>
 	<family lang="und-Khar">
-		<font weight="400" style="normal" postScriptName="NotoSansKharoshthi" path="unhinted/ttf/NotoSansKharoshthi">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansKharoshthi">
 	          NotoSansKharoshthi-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Lepc">
-		<font weight="400" style="normal" postScriptName="NotoSansLepcha" path="unhinted/ttf/NotoSansLepcha">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansLepcha">
 	          NotoSansLepcha-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Limb">
-		<font weight="400" style="normal" postScriptName="NotoSansLimbu" path="unhinted/ttf/NotoSansLimbu">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansLimbu">
 	          NotoSansLimbu-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Linb">
-		<font weight="400" style="normal" postScriptName="NotoSansLinearB" path="unhinted/ttf/NotoSansLinearB">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansLinearB">
 	          NotoSansLinearB-Regular.ttf
 	      </font>
 	</family>
@@ -1126,17 +1124,17 @@
       </font>
 	</family>
 	<family lang="und-Lyci">
-		<font weight="400" style="normal" postScriptName="NotoSansLycian" path="unhinted/ttf/NotoSansLycian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansLycian">
 	          NotoSansLycian-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Lydi">
-		<font weight="400" style="normal" postScriptName="NotoSansLydian" path="unhinted/ttf/NotoSansLydian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansLydian">
 	          NotoSansLydian-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Mand">
-		<font weight="400" style="normal" postScriptName="NotoSansMandaic" path="unhinted/ttf/NotoSansMandaic">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansMandaic">
 	          NotoSansMandaic-Regular.ttf
 	      </font>
 	</family>
@@ -1159,17 +1157,17 @@
 	      </font>
 	</family>
 	<family lang="und-Talu">
-		<font weight="400" style="normal" postScriptName="NotoSansNewTaiLue" path="unhinted/ttf/NotoSansNewTaiLue">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansNewTaiLue">
 	          NotoSansNewTaiLue-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Nkoo">
-		<font weight="400" style="normal" postScriptName="NotoSansNKo" path="unhinted/ttf/NotoSansNKo">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansNKo">
 	          NotoSansNKo-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Ogam">
-		<font weight="400" style="normal" postScriptName="NotoSansOgham" path="unhinted/ttf/NotoSansOgham">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansOgham">
 	          NotoSansOgham-Regular.ttf
 	      </font>
 	</family>
@@ -1192,22 +1190,22 @@
       </font>
 	</family>
 	<family lang="und-Ital">
-		<font weight="400" style="normal" postScriptName="NotoSansOldItalic" path="unhinted/ttf/NotoSansOldItalic">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansOldItalic">
 	          NotoSansOldItalic-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Xpeo">
-		<font weight="400" style="normal" postScriptName="NotoSansOldPersian" path="unhinted/ttf/NotoSansOldPersian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansOldPersian">
 	          NotoSansOldPersian-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Sarb">
-		<font weight="400" style="normal" postScriptName="NotoSansOldSouthArabian" path="unhinted/ttf/NotoSansOldSouthArabian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansOldSouthArabian">
 	          NotoSansOldSouthArabian-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Orkh">
-		<font weight="400" style="normal" postScriptName="NotoSansOldTurkic" path="unhinted/ttf/NotoSansOldTurkic">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansOldTurkic">
 	          NotoSansOldTurkic-Regular.ttf
 	      </font>
 	</family>
@@ -1215,37 +1213,37 @@
 		<font weight="400" style="normal" path="unhinted/ttf/NotoSansOsage">NotoSansOsage-Regular.ttf</font>
 	</family>
 	<family lang="und-Osma">
-		<font weight="400" style="normal" postScriptName="NotoSansOsmanya" path="unhinted/ttf/NotoSansOsmanya">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansOsmanya">
 	          NotoSansOsmanya-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Phnx">
-		<font weight="400" style="normal" postScriptName="NotoSansPhoenician" path="unhinted/ttf/NotoSansPhoenician">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansPhoenician">
 	          NotoSansPhoenician-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Rjng">
-		<font weight="400" style="normal" postScriptName="NotoSansRejang" path="unhinted/ttf/NotoSansRejang">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansRejang">
 	          NotoSansRejang-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Runr">
-		<font weight="400" style="normal" postScriptName="NotoSansRunic" path="unhinted/ttf/NotoSansRunic">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansRunic">
 	          NotoSansRunic-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Samr">
-		<font weight="400" style="normal" postScriptName="NotoSansSamaritan" path="unhinted/ttf/NotoSansSamaritan">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansSamaritan">
 	          NotoSansSamaritan-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Saur">
-		<font weight="400" style="normal" postScriptName="NotoSansSaurashtra" path="unhinted/ttf/NotoSansSaurashtra">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansSaurashtra">
 	          NotoSansSaurashtra-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Shaw">
-		<font weight="400" style="normal" postScriptName="NotoSansShavian" path="unhinted/ttf/NotoSansShavian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansShavian">
 	          NotoSansShavian-Regular.ttf
 	      </font>
 	</family>
@@ -1268,33 +1266,33 @@
 	      </font>
 	</family>
 	<family lang="und-Sylo">
-		<font weight="400" style="normal" postScriptName="NotoSansSylotiNagri" path="unhinted/ttf/NotoSansSylotiNagri">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansSylotiNagri">
 	          NotoSansSylotiNagri-Regular.ttf
 	      </font>
 	</family>
 	<!-- Esrangela should precede Eastern and Western Syriac, since it's our default form. -->
 	<family lang="und-Syre">
-		<font weight="400" style="normal" postScriptName="NotoSansSyriacEstrangela" path="archive/unhinted/NotoSansSyriac">
+		<font weight="400" style="normal" path="archive/unhinted/NotoSansSyriac">
             NotoSansSyriacEstrangela-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Syrn">
-		<font weight="400" style="normal" postScriptName="NotoSansSyriacEastern" path="archive/unhinted/NotoSansSyriac">
+		<font weight="400" style="normal" path="archive/unhinted/NotoSansSyriac">
             NotoSansSyriacEastern-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Syrj">
-		<font weight="400" style="normal" postScriptName="NotoSansSyriacWestern" path="archive/unhinted/NotoSansSyriac">
+		<font weight="400" style="normal" path="archive/unhinted/NotoSansSyriac">
             NotoSansSyriacWestern-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Tglg">
-		<font weight="400" style="normal" postScriptName="NotoSansTagalog" path="unhinted/ttf/NotoSansTagalog">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansTagalog">
 	          NotoSansTagalog-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Tagb">
-		<font weight="400" style="normal" postScriptName="NotoSansTagbanwa" path="unhinted/ttf/NotoSansTagbanwa">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansTagbanwa">
 	          NotoSansTagbanwa-Regular.ttf
 	      </font>
 	</family>
@@ -1317,7 +1315,7 @@
 	      </font>
 	</family>
 	<family lang="und-Tavt">
-		<font weight="400" style="normal" postScriptName="NotoSansTaiViet" path="unhinted/ttf/NotoSansTaiViet">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansTaiViet">
 	          NotoSansTaiViet-Regular.ttf
 	      </font>
 	</family>
@@ -1343,12 +1341,12 @@
 		<font weight="400" style="normal" path="unhinted/ttf/NotoSansTifinagh">NotoSansTifinagh-Regular.ttf</font>
 	</family>
 	<family lang="und-Ugar">
-		<font weight="400" style="normal" postScriptName="NotoSansUgaritic" path="unhinted/ttf/NotoSansUgaritic">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansUgaritic">
 	          NotoSansUgaritic-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Vaii">
-		<font weight="400" style="normal" postScriptName="NotoSansVai" path="unhinted/ttf/NotoSansVai">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansVai">
 	          NotoSansVai-Regular.ttf
 	      </font>
 	</family>
@@ -1401,22 +1399,22 @@
         override the East Asian punctuation for Chinese.
     -->
 	<family lang="und-Tale">
-		<font weight="400" style="normal" postScriptName="NotoSansTaiLe" path="unhinted/ttf/NotoSansTaiLe">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansTaiLe">
 	          NotoSansTaiLe-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Yiii">
-		<font weight="400" style="normal" postScriptName="NotoSansYi" path="unhinted/ttf/NotoSansYi">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansYi">
 	          NotoSansYi-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Mong">
-		<font weight="400" style="normal" postScriptName="NotoSansMongolian" path="unhinted/ttf/NotoSansMongolian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansMongolian">
 	          NotoSansMongolian-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Phag">
-		<font weight="400" style="normal" postScriptName="NotoSansPhagsPa" path="unhinted/ttf/NotoSansPhagsPa">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansPhagsPa">
 	          NotoSansPhagsPa-Regular.ttf
 	      </font>
 	</family>
@@ -1453,12 +1451,12 @@
 		<font weight="400" style="normal" path="unhinted/ttf/NotoSansLinearA">NotoSansLinearA-Regular.ttf</font>
 	</family>
 	<family lang="und-Mani">
-		<font weight="400" style="normal" postScriptName="NotoSansManichaean" path="unhinted/ttf/NotoSansManichaean">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansManichaean">
 	          NotoSansManichaean-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Marc">
-		<font weight="400" style="normal" postScriptName="NotoSansMarchen" path="unhinted/ttf/NotoSansMarchen">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansMarchen">
 	          NotoSansMarchen-Regular.ttf
 	      </font>
 	</family>
@@ -1466,7 +1464,7 @@
 		<font weight="400" style="normal" path="unhinted/ttf/NotoSansMeroitic">NotoSansMeroitic-Regular.ttf</font>
 	</family>
 	<family lang="und-Plrd">
-		<font weight="400" style="normal" postScriptName="NotoSansMiao" path="unhinted/ttf/NotoSansMiao">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansMiao">
 	          NotoSansMiao-Regular.ttf
 	      </font>
 	</family>
@@ -1480,7 +1478,7 @@
 		<font weight="400" style="normal" path="unhinted/ttf/NotoSansNabataean">NotoSansNabataean-Regular.ttf</font>
 	</family>
 	<family lang="und-Newa">
-		<font weight="400" style="normal" postScriptName="NotoSansNewa" path="unhinted/ttf/NotoSansNewa">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansNewa">
 	          NotoSansNewa-Regular.ttf
 	      </font>
 	</family>
@@ -1500,7 +1498,7 @@
 		<font weight="400" style="normal" path="unhinted/ttf/NotoSansPauCinHau">NotoSansPauCinHau-Regular.ttf</font>
 	</family>
 	<family lang="und-Shrd">
-		<font weight="400" style="normal" postScriptName="NotoSansSharada" path="unhinted/ttf/NotoSansSharada">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansSharada">
 	          NotoSansSharada-Regular.ttf
 	      </font>
 	</family>
@@ -1578,7 +1576,7 @@
 	      </font>
 	</family>
 	<family lang="und-Gonm">
-		<font weight="400" style="normal" postScriptName="NotoSansMasaramGondi" path="unhinted/ttf/NotoSansMasaramGondi">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansMasaramGondi">
 	          NotoSansMasaramGondi-Regular.ttf
 	      </font>
 	</family>
@@ -1590,7 +1588,7 @@
 	</family>
 	<family lang="und-Gran">
 		<font weight="400" style="normal" path="unhinted/ttf/NotoSansGrantha">NotoSansGrantha-Regular.ttf</font>
-		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifGrantha" path="unhinted/ttf/NotoSerifGrantha">
+		<font weight="400" style="normal" fallbackFor="serif" path="unhinted/ttf/NotoSerifGrantha">
             NotoSerifGrantha-Regular.ttf
         </font>
 	</family>
@@ -1634,12 +1632,12 @@
         </font>
 	</family>
 	<family lang="und-Soyo">
-		<font weight="400" style="normal" postScriptName="NotoSansSoyombo" path="unhinted/ttf/NotoSansSoyombo">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansSoyombo">
 	          NotoSansSoyombo-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Takr">
-		<font weight="400" style="normal" postScriptName="NotoSansTakri" path="unhinted/ttf/NotoSansTakri">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansTakri">
 	          NotoSansTakri-Regular.ttf
 	      </font>
 	</family>
@@ -1732,77 +1730,77 @@
 	      </font>
 	</family>
 	<family lang="und-Aghb">
-		<font weight="400" style="normal" postScriptName="NotoSansCaucasianAlbanian" path="unhinted/ttf/NotoSansCaucasianAlbanian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansCaucasianAlbanian">
             NotoSansCaucasianAlbanian-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Chrs">
-		<font weight="400" style="normal" postScriptName="NotoSansChorasmian" path="unhinted/ttf/NotoSansChorasmian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansChorasmian">
             NotoSansChorasmian-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Elym">
-		<font weight="400" style="normal" postScriptName="NotoSansElymaic" path="unhinted/ttf/NotoSansElymaic">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansElymaic">
             NotoSansElymaic-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Sind">
-		<font weight="400" style="normal" postScriptName="NotoSansKhudawadi" path="unhinted/ttf/NotoSansKhudawadi">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansKhudawadi">
             NotoSansKhudawadi-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Mahj">
-		<font weight="400" style="normal" postScriptName="NotoSansMahajani" path="unhinted/ttf/NotoSansMahajani">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansMahajani">
             NotoSansMahajani-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Mend">
-		<font weight="400" style="normal" postScriptName="NotoSansMendeKikakui" path="unhinted/ttf/NotoSansMendeKikakui">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansMendeKikakui">
             NotoSansMendeKikakui-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Nand">
-		<font weight="400" style="normal" postScriptName="NotoSansNandinagari" path="unhinted/ttf/NotoSansNandinagari">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansNandinagari">
             NotoSansNandinagari-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Hung">
-		<font weight="400" style="normal" postScriptName="NotoSansOldHungarian" path="unhinted/ttf/NotoSansOldHungarian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansOldHungarian">
             NotoSansOldHungarian-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Sogd">
-		<font weight="400" style="normal" postScriptName="NotoSansOldSogdian" path="unhinted/ttf/NotoSansOldSogdian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansOldSogdian">
             NotoSansOldSogdian-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Phlp">
-		<font weight="400" style="normal" postScriptName="NotoSansPsalterPahlavi" path="unhinted/ttf/NotoSansPsalterPahlavi">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansPsalterPahlavi">
             NotoSansPsalterPahlavi-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Sidd">
-		<font weight="400" style="normal" postScriptName="NotoSansSiddham" path="unhinted/ttf/NotoSansSiddham">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansSiddham">
             NotoSansSiddham-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Sogd">
-		<font weight="400" style="normal" postScriptName="NotoSansSogdian" path="unhinted/ttf/NotoSansSogdian">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansSogdian">
             NotoSansSogdian-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Tirh">
-		<font weight="400" style="normal" postScriptName="NotoSansTirhuta" path="unhinted/ttf/NotoSansTirhuta">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansTirhuta">
             NotoSansTirhuta-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Zanb">
-		<font weight="400" style="normal" postScriptName="NotoSansZanabazarSquare" path="unhinted/ttf/NotoSansZanabazarSquare">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansZanabazarSquare">
             NotoSansZanabazarSquare-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Ougr">
-		<font weight="400" style="normal" postScriptName="NotoSerifOldUyghur" path="unhinted/ttf/NotoSerifOldUyghur">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSerifOldUyghur">
             NotoSerifOldUyghur-Regular.ttf
         </font>
 	</family>
