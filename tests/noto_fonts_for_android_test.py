@@ -1,3 +1,4 @@
+import collections
 from fontTools import ttLib
 from lxml import etree
 from pathlib import Path
@@ -49,6 +50,16 @@ def _open_font(font_el) -> ttLib.TTFont:
 
   if _is_collection(font_el):
     return ttLib.TTFont(str(path), fontNumber=int(font_el.attrib["index"]))
+  return ttLib.TTFont(str(path))
+
+
+def _open_font_path(path) -> ttLib.TTFont:
+  if not path.is_file():
+    raise IOError(f"No such file: {path}")
+
+  if str(path).lower().endswith(".ttc"):
+    # I had no idea how to get fontNumber out of a path :-) so I fixed it at 1
+    return ttLib.TTFont(str(path), fontNumber=1)
   return ttLib.TTFont(str(path))
 
 
@@ -121,30 +132,24 @@ def test_font_weights():
   assert not errors, ", ".join(errors)
 
 
-def test_font_weight_coverage():
+def test_font_full_weight_coverage():
   root = etree.parse(str(_noto_4_android_file()))
   errors = []
-  reached_max_weight = set()
-  reached_min_weight = set()
-  all_fonts = set()
-  for font_el in root.xpath("//font[@path]"):
-    xml_weight = int(font_el.attrib["weight"])
-    path = _font_path(font_el)
-    all_fonts.add(_font_file(font_el))
+  for family in root.iter("family"):
+    font_to_xml_weights = collections.defaultdict(set)
+    for font in family.xpath("//font[@path]"): 
+      font_to_xml_weights[_font_path(font)].add(int(font.attrib["weight"]))
 
-    font = _open_font(font_el)
+  # now you have a map of font path => set of weights in xml
+  for font_path, xml_weights in font_to_xml_weights.items():
+  # open the font, compute the 100 weights between it's min/max weight
+  # if xml_weights != computed weights add this to the error list
+    font = _open_font_path(font_path)
     min_wght, default_wght, max_weight = _weight(font)
-    if xml_weight == min_wght:
-      reached_min_weight.add(_font_file(font_el))
-    if xml_weight == max_weight:
-      reached_max_weight.add(_font_file(font_el))
+    if min(xml_weights) > min_wght or max(xml_weights) < max_weight:
+      errors.append(f"{font_path} weight range {min(xml_weights)}..{max(xml_weights)} could be expanded to {min_wght}..{max_weight}")
 
-  print("======> minimum not reached")
-  for font_file_name in all_fonts.difference(reached_min_weight):
-    print(font_file_name)
-  print("======> maximum not reached")
-  for font_file_name in all_fonts.difference(reached_max_weight):
-    print(font_file_name)
+  assert not errors, ", ".join(errors)
 
 
 def test_font_psnames():
