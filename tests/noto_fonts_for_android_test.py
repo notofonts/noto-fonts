@@ -1,3 +1,4 @@
+import collections
 from fontTools import ttLib
 from lxml import etree
 from pathlib import Path
@@ -49,6 +50,14 @@ def _open_font(font_el) -> ttLib.TTFont:
 
   if _is_collection(font_el):
     return ttLib.TTFont(str(path), fontNumber=int(font_el.attrib["index"]))
+  return ttLib.TTFont(str(path))
+
+
+def _open_font_path(path, fontNumber) -> ttLib.TTFont:
+  if not path.is_file():
+    raise IOError(f"No such file: {path}")
+  if str(path).lower().endswith(".ttc"):
+    return ttLib.TTFont(str(path), fontNumber=int(fontNumber))
   return ttLib.TTFont(str(path))
 
 
@@ -124,6 +133,26 @@ def test_font_weights():
       error_str = f"{_font_file(font_el)} weight {xml_weight} outside font capability {min_wght}..{max_weight}"
       if error_str not in expected_errors:
         errors.append(error_str)
+
+  assert not errors, ", ".join(errors)
+
+
+def test_font_full_weight_coverage():
+  root = etree.parse(str(_noto_4_android_file()))
+  errors = []
+  for family in root.iter("family"):
+    font_to_xml_weights = collections.defaultdict(set)
+    for font in family.xpath("//font[@path]"): 
+      font_to_xml_weights[(_font_path(font), font.attrib.get("index", -1))].add(int(font.attrib["weight"]))
+
+  # now you have a map of font path => set of weights in xml
+  for (font_path, font_number), xml_weights in font_to_xml_weights.items():
+  # open the font, compute the 100 weights between it's min/max weight
+  # if xml_weights != computed weights add this to the error list
+    font = _open_font_path(font_path, font_number)
+    min_wght, default_wght, max_weight = _weight(font)
+    if min(xml_weights) > min_wght or max(xml_weights) < max_weight:
+      errors.append(f"{font_path} weight range {min(xml_weights)}..{max(xml_weights)} could be expanded to {min_wght}..{max_weight}")
 
   assert not errors, ", ".join(errors)
 
