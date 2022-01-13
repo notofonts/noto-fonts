@@ -84,12 +84,12 @@ def _weight(font: ttLib.TTFont) -> Tuple[int, int, int]:
 def _psname(font_el) -> str:
   # Not every font element will have postScriptName tag. If it's not present then it is assumeed
   # that it's the filename less extension
-  psn = font_el.attrib.get("postScriptName","")
-  if len(psn) == 0:
-    path = str(_font_path(font_el))
-    assert len(path) > 0
-    psn = path[path.rfind('/') + 1 : path.rfind('.')]
-  return psn
+  psn = font_el.attrib.get("postScriptName", None)
+  if psn:
+    return psn
+  path = _font_path(font_el)
+  assert path.is_file(), f"{path} missing"
+  return path.stem
 
 
 def test_fonts_have_path():
@@ -177,9 +177,11 @@ def test_font_psnames():
   for (font_path, font_number), xml_psname in font_to_xml_psnames.items():
     font = _open_font_path(font_path, font_number)
     postscript_names = get_name_entry_strings(font, _POSTSCRIPT_NAME)
-    assert len(postscript_names) > 0
+    if len(postscript_names) != 1:
+      errors.append(f"font file {font_path} should have a single postScriptName and not {postscript_names}")
+      continue
     for el in xml_psname:
       if not (el in postscript_names):
-        errors.append(f"postScriptName {postscript_names} in {font_path} doesn't match the entry in XML {el}")
+        errors.append(f"postScriptName=\"{postscript_names[0]}\" in font file {font_path} doesn't match the entry in XML: {el}")
 
   assert not errors, ", ".join(errors)
