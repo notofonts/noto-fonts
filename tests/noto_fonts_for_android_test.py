@@ -1,4 +1,5 @@
 import collections
+from fontbakery.utils import get_name_entry_strings
 from fontTools import ttLib
 from lxml import etree
 from pathlib import Path
@@ -12,6 +13,7 @@ _KNOWN_PATHLESS = {
   "NotoColorEmojiFlags.ttf",
   "NotoSansSymbols-Regular-Subsetted2.ttf",
 }
+_POSTSCRIPT_NAME = 6
 
 
 
@@ -79,6 +81,17 @@ def _weight(font: ttLib.TTFont) -> Tuple[int, int, int]:
   return (os2_weight, os2_weight, os2_weight)
 
 
+def _psname(font_el) -> str:
+  # Not every font element will have postScriptName tag. If it's not present then it is assumeed
+  # that it's the filename less extension
+  psn = font_el.attrib.get("postScriptName","")
+  if len(psn) == 0:
+    path = str(_font_path(font_el))
+    assert len(path) > 0
+    psn = path[path.rfind('/') + 1 : path.rfind('.')]
+  return psn
+
+
 def test_fonts_have_path():
   root = etree.parse(str(_noto_4_android_file()))
   bad = []
@@ -115,11 +128,6 @@ def test_font_paths_are_valid():
 
 
 def test_font_weights():
-  # TODO: remove expected errors once https://github.com/googlefonts/noto-fonts/issues/2210 fixed
-  expected_errors = {
-    "NotoNastaliqUrdu-Bold.ttf weight 700 outside font capability 400..400", 
-    "NotoSerifMyanmar-Bold.ttf weight 700 outside font capability 400..400"
-  }
   root = etree.parse(str(_noto_4_android_file()))
   errors = []
   for font_el in root.xpath("//font[@path]"):
@@ -131,8 +139,7 @@ def test_font_weights():
 
     if xml_weight < min_wght or xml_weight > max_weight:
       error_str = f"{_font_file(font_el)} weight {xml_weight} outside font capability {min_wght}..{max_weight}"
-      if error_str not in expected_errors:
-        errors.append(error_str)
+      errors.append(error_str)
 
   assert not errors, ", ".join(errors)
 
@@ -158,4 +165,21 @@ def test_font_full_weight_coverage():
 
 
 def test_font_psnames():
-  pass
+  root = etree.parse(str(_noto_4_android_file()))
+  errors = []
+  font_to_xml_psnames = collections.defaultdict(set)
+
+  for font_el in root.xpath("//font[@path]"): 
+    path = _font_path(font_el)
+    psname = _psname(font_el)
+    font_to_xml_psnames[(path, font_el.attrib.get("index", -1))].add(str(psname))
+
+  for (font_path, font_number), xml_psname in font_to_xml_psnames.items():
+    font = _open_font_path(font_path, font_number)
+    postscript_names = get_name_entry_strings(font, _POSTSCRIPT_NAME)
+    assert len(postscript_names) > 0
+    for el in xml_psname:
+      if not (el in postscript_names):
+        errors.append(f"postScriptName {postscript_names} in {font_path} doesn't match the entry in XML {el}")
+
+  assert not errors, ", ".join(errors)
