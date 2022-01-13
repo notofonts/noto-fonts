@@ -4,6 +4,11 @@ from lxml import etree
 from pathlib import Path
 import pytest
 from typing import Tuple
+from android_connection.apply_to_android import (
+  font_file,
+  font_path,
+  noto_4_android_path,
+)
 
 
 _KNOWN_PATHLESS = {
@@ -14,37 +19,12 @@ _KNOWN_PATHLESS = {
 }
 
 
-
-def _repo_root() -> Path:
-  root = (Path(__file__).parent / "..").absolute()
-  if not (root / "LICENSE").is_file():
-    raise IOError(f"{root} does not contain LICENSE")
-  return root
-
-
-def _noto_4_android_file() -> Path:
-  xml_file = _repo_root() / "android-connection" / "noto-fonts-4-android.xml"
-  if not xml_file.is_file():
-    raise IOError(f"No file {xml_file}")
-  return xml_file
-
-
-def _font_file(font_el) -> str:
-  return ("".join(font_el.itertext())).strip()
-
-
-def _font_path(font_el) -> Path:
-  name = _font_file(font_el)
-  path = font_el.attrib["path"]
-  return _repo_root() / path / name
-
-
 def _is_collection(font_el) -> bool:
-  return _font_file(font_el).lower().endswith(".ttc")
+  return font_file(font_el).lower().endswith(".ttc")
 
 
 def _open_font(font_el) -> ttLib.TTFont:
-  path = _font_path(font_el)
+  path = font_path(font_el)
   if not path.is_file():
     raise IOError(f"No such file: {path}")
 
@@ -80,35 +60,35 @@ def _weight(font: ttLib.TTFont) -> Tuple[int, int, int]:
 
 
 def test_fonts_have_path():
-  root = etree.parse(str(_noto_4_android_file()))
+  root = etree.parse(str(noto_4_android_path()))
   bad = []
   for font in root.iter("font"):
-    font_file = _font_file(font)
-    if font_file in _KNOWN_PATHLESS:
-      assert "path" not in font.attrib, f"{font_file} not expected to have path. Correct _KNOWN_PATHLESS if you just added path"
+    name = font_file(font)
+    if name in _KNOWN_PATHLESS:
+      assert "path" not in font.attrib, f"{name} not expected to have path. Correct _KNOWN_PATHLESS if you just added path"
       continue
 
     if not font.attrib.get("path", ""):
-      bad.append(font_file)
+      bad.append(name)
   assert not bad, "Missing path attribute: " + ", ".join(bad)
 
 
 def test_ttcs_have_index():
-  root = etree.parse(str(_noto_4_android_file()))
+  root = etree.parse(str(noto_4_android_path()))
   bad = []
   for font in root.iter("font"):
     if not _is_collection(font):
       continue
     if "index" not in font.attrib:
-      bad.append(_font_file(font))
+      bad.append(font_file(font))
   assert not bad, "Missing index attribute: " + ", ".join(bad)
 
 
 def test_font_paths_are_valid():
-  root = etree.parse(str(_noto_4_android_file()))
+  root = etree.parse(str(noto_4_android_path()))
   bad = []
   for font in root.xpath("//font[@path]"):
-    path = _font_path(font)
+    path = font_path(font)
     if not path.is_file():
       bad.append(str(path))
   assert not bad, "No such file: " + ", ".join(bad)
@@ -120,17 +100,17 @@ def test_font_weights():
     "NotoNastaliqUrdu-Bold.ttf weight 700 outside font capability 400..400", 
     "NotoSerifMyanmar-Bold.ttf weight 700 outside font capability 400..400"
   }
-  root = etree.parse(str(_noto_4_android_file()))
+  root = etree.parse(str(noto_4_android_path()))
   errors = []
   for font_el in root.xpath("//font[@path]"):
     xml_weight = int(font_el.attrib["weight"])
-    path = _font_path(font_el)
+    path = font_path(font_el)
 
     font = _open_font(font_el)
     min_wght, default_wght, max_weight = _weight(font)
 
     if xml_weight < min_wght or xml_weight > max_weight:
-      error_str = f"{_font_file(font_el)} weight {xml_weight} outside font capability {min_wght}..{max_weight}"
+      error_str = f"{font_file(font_el)} weight {xml_weight} outside font capability {min_wght}..{max_weight}"
       if error_str not in expected_errors:
         errors.append(error_str)
 
@@ -138,21 +118,23 @@ def test_font_weights():
 
 
 def test_font_full_weight_coverage():
-  root = etree.parse(str(_noto_4_android_file()))
+  root = etree.parse(str(noto_4_android_path()))
   errors = []
   for family in root.iter("family"):
     font_to_xml_weights = collections.defaultdict(set)
     for font in family.xpath("//font[@path]"): 
-      font_to_xml_weights[(_font_path(font), font.attrib.get("index", -1))].add(int(font.attrib["weight"]))
+      path = font_path(font)
+      ttc_idx = font.attrib.get("index", -1)
+      font_to_xml_weights[(path, ttc_idx)].add(int(font.attrib["weight"]))
 
   # now you have a map of font path => set of weights in xml
-  for (font_path, font_number), xml_weights in font_to_xml_weights.items():
+  for (path, ttc_idx), xml_weights in font_to_xml_weights.items():
   # open the font, compute the 100 weights between it's min/max weight
   # if xml_weights != computed weights add this to the error list
-    font = _open_font_path(font_path, font_number)
+    font = _open_font_path(path, ttc_idx)
     min_wght, default_wght, max_weight = _weight(font)
     if min(xml_weights) > min_wght or max(xml_weights) < max_weight:
-      errors.append(f"{font_path} weight range {min(xml_weights)}..{max(xml_weights)} could be expanded to {min_wght}..{max_weight}")
+      errors.append(f"{path} weight range {min(xml_weights)}..{max(xml_weights)} could be expanded to {min_wght}..{max_weight}")
 
   assert not errors, ", ".join(errors)
 
