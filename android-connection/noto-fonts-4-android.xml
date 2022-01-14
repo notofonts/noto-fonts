@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <familyset version="01">
 	<family name="serif">
-		<font weight="400" style="normal" path="archive/unhinted/NotoSerifAndroid">NotoSerif-Regular.ttf</font>
+		<font weight="400" style="normal" postScriptName="NotoSerif" path="archive/unhinted/NotoSerifAndroid">NotoSerif-Regular.ttf</font>
 		<font weight="700" style="normal" path="archive/unhinted/NotoSerifAndroid">NotoSerif-Bold.ttf</font>
 		<font weight="400" style="italic" path="archive/unhinted/NotoSerifAndroid">NotoSerif-Italic.ttf</font>
 		<font weight="700" style="italic" path="archive/unhinted/NotoSerifAndroid">NotoSerif-BoldItalic.ttf</font>
@@ -591,39 +591,39 @@
         </font>
 	</family>
 	<family lang="und-Orya" variant="elegant">
-		<font weight="100" style="normal" postScriptName="NotoSansOriya-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="100" style="normal" postScriptName="NotoSansOriya-Thin" path="unhinted/slim-variable-ttf">
 	          NotoSansOriya-VF.ttf
 	          <axis tag="wght" stylevalue="100"/>
 	      </font>
-		<font weight="200" style="normal" postScriptName="NotoSansOriya-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="200" style="normal" postScriptName="NotoSansOriya-Thin" path="unhinted/slim-variable-ttf">
 	          NotoSansOriya-VF.ttf
 	          <axis tag="wght" stylevalue="200"/>
 	      </font>
-		<font weight="300" style="normal" postScriptName="NotoSansOriya-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="300" style="normal" postScriptName="NotoSansOriya-Thin" path="unhinted/slim-variable-ttf">
 	          NotoSansOriya-VF.ttf
 	          <axis tag="wght" stylevalue="300"/>
 	      </font>
-		<font weight="400" style="normal" postScriptName="NotoSansOriya-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansOriya-Thin" path="unhinted/slim-variable-ttf">
 	          NotoSansOriya-VF.ttf
 	          <axis tag="wght" stylevalue="400"/>
 	      </font>
-		<font weight="500" style="normal" postScriptName="NotoSansOriya-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="500" style="normal" postScriptName="NotoSansOriya-Thin" path="unhinted/slim-variable-ttf">
 	          NotoSansOriya-VF.ttf
 	          <axis tag="wght" stylevalue="500"/>
 	      </font>
-		<font weight="600" style="normal" postScriptName="NotoSansOriya-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="600" style="normal" postScriptName="NotoSansOriya-Thin" path="unhinted/slim-variable-ttf">
 	          NotoSansOriya-VF.ttf
 	          <axis tag="wght" stylevalue="600"/>
 	      </font>
-  		<font weight="700" style="normal" postScriptName="NotoSansOriya-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="700" style="normal" postScriptName="NotoSansOriya-Thin" path="unhinted/slim-variable-ttf">
   	          NotoSansOriya-VF.ttf
   	          <axis tag="wght" stylevalue="700"/>
   	      </font>
-  		<font weight="800" style="normal" postScriptName="NotoSansOriya-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="800" style="normal" postScriptName="NotoSansOriya-Thin" path="unhinted/slim-variable-ttf">
   	          NotoSansOriya-VF.ttf
   	          <axis tag="wght" stylevalue="800"/>
   	      </font>
-  		<font weight="900" style="normal" postScriptName="NotoSansOriya-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="900" style="normal" postScriptName="NotoSansOriya-Thin" path="unhinted/slim-variable-ttf">
   	          NotoSansOriya-VF.ttf
   	          <axis tag="wght" stylevalue="900"/>
   	      </font>
@@ -645,39 +645,39 @@
 	      </font>
 	</family>
 	<family lang="und-Orya" variant="compact">
-		<font weight="100" style="normal" postScriptName="NotoSansOriyaUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="100" style="normal" postScriptName="NotoSansOriyaUI-Thin" path="unhinted/slim-variable-ttf">
 	          NotoSansOriyaUI-VF.ttf
 	          <axis tag="wght" stylevalue="100"/>
 	      </font>
-		<font weight="200" style="normal" postScriptName="NotoSansOriyaUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="200" style="normal" postScriptName="NotoSansOriyaUI-Thin" path="unhinted/slim-variable-ttf">
 	          NotoSansOriyaUI-VF.ttf
 	          <axis tag="wght" stylevalue="200"/>
 	      </font>
-		<font weight="300" style="normal" postScriptName="NotoSansOriyaUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="300" style="normal" postScriptName="NotoSansOriyaUI-Thin" path="unhinted/slim-variable-ttf">
 	          NotoSansOriyaUI-VF.ttf
 	          <axis tag="wght" stylevalue="300"/>
 	      </font>
-  		<font weight="400" style="normal" postScriptName="NotoSansOriyaUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansOriyaUI-Thin" path="unhinted/slim-variable-ttf">
   	          NotoSansOriyaUI-VF.ttf
   	          <axis tag="wght" stylevalue="400"/>
   	      </font>
-  		<font weight="500" style="normal" postScriptName="NotoSansOriyaUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="500" style="normal" postScriptName="NotoSansOriyaUI-Thin" path="unhinted/slim-variable-ttf">
   	          NotoSansOriyaUI-VF.ttf
   	          <axis tag="wght" stylevalue="500"/>
   	      </font>
-  		<font weight="600" style="normal" postScriptName="NotoSansOriyaUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="600" style="normal" postScriptName="NotoSansOriyaUI-Thin" path="unhinted/slim-variable-ttf">
   	          NotoSansOriyaUI-VF.ttf
   	          <axis tag="wght" stylevalue="600"/>
   	      </font>
-  		<font weight="700" style="normal" postScriptName="NotoSansOriyaUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="700" style="normal" postScriptName="NotoSansOriyaUI-Thin" path="unhinted/slim-variable-ttf">
   	          NotoSansOriyaUI-VF.ttf
   	          <axis tag="wght" stylevalue="700"/>
   	      </font>
-  		<font weight="800" style="normal" postScriptName="NotoSansOriyaUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="800" style="normal" postScriptName="NotoSansOriyaUI-Thin" path="unhinted/slim-variable-ttf">
   	          NotoSansOriyaUI-VF.ttf
   	          <axis tag="wght" stylevalue="800"/>
   	      </font>
-  		<font weight="900" style="normal" postScriptName="NotoSansOriyaUI-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="900" style="normal" postScriptName="NotoSansOriyaUI-Thin" path="unhinted/slim-variable-ttf">
   	          NotoSansOriyaUI-VF.ttf
   	          <axis tag="wght" stylevalue="900"/>
   	      </font>
@@ -976,22 +976,22 @@
 	      </font>
 	</family>
 	<family lang="und-Batk">
-		<font weight="400" style="normal" postScriptName="NotoSansBatak" path="unhinted/ttf/NotoSansBatak">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansBatak">
 	          NotoSansBatak-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Brah">
-		<font weight="400" style="normal" postScriptName="NotoSansBrahmi" path="unhinted/ttf/NotoSansBrahmi">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansBrahmi">
 	          NotoSansBrahmi-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Bugi">
-		<font weight="400" style="normal" postScriptName="NotoSansBuginese" path="unhinted/ttf/NotoSansBuginese">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansBuginese">
 	          NotoSansBuginese-Regular.ttf
 	      </font>
 	</family>
 	<family lang="und-Buhd">
-		<font weight="400" style="normal" postScriptName="NotoSansBuhid" path="unhinted/ttf/NotoSansBuhid">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansBuhid">
 	          NotoSansBuhid-Regular.ttf
 	      </font>
 	</family>
@@ -1312,17 +1312,17 @@
 	</family>
 	<!-- Esrangela should precede Eastern and Western Syriac, since it's our default form. -->
 	<family lang="und-Syre">
-		<font weight="400" style="normal" path="archive/unhinted/NotoSansSyriac">
+		<font weight="400" style="normal" postScriptName="NotoSansSyriacEstrangela" path="archive/unhinted/NotoSansSyriac">
             NotoSansSyriacEstrangela-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Syrn">
-		<font weight="400" style="normal" path="archive/unhinted/NotoSansSyriac">
+		<font weight="400" style="normal" postScriptName="NotoSansSyriacEastern" path="archive/unhinted/NotoSansSyriac">
             NotoSansSyriacEastern-Regular.ttf
         </font>
 	</family>
 	<family lang="und-Syrj">
-		<font weight="400" style="normal" path="archive/unhinted/NotoSansSyriac">
+		<font weight="400" style="normal" postScriptName="NotoSansSyriacWestern" path="archive/unhinted/NotoSansSyriac">
             NotoSansSyriacWestern-Regular.ttf
         </font>
 	</family>
@@ -1395,17 +1395,17 @@
 		<font weight="400" style="normal">NotoSansSymbols-Regular-Subsetted.ttf</font>
 	</family>
 	<family lang="zh-Hans">
-		<font weight="400" style="normal" index="2" postScriptName="NotoSansCJKjp-Regular" path="archive/unhinted/NotoSansCJK">
+		<font weight="400" style="normal" index="2" postScriptName="NotoSansCJKsc-Regular" path="archive/unhinted/NotoSansCJK">
             NotoSansCJK-Regular.ttc
         </font>
-		<font weight="400" style="normal" index="2" fallbackFor="serif" postScriptName="NotoSerifCJKjp-Regular" path="archive/unhinted/NotoSerifCJK">NotoSerifCJK-Regular.ttc
+		<font weight="400" style="normal" index="2" fallbackFor="serif" postScriptName="NotoSerifCJKsc-Regular" path="archive/unhinted/NotoSerifCJK">NotoSerifCJK-Regular.ttc
         </font>
 	</family>
 	<family lang="zh-Hant,zh-Bopo">
-		<font weight="400" style="normal" index="3" postScriptName="NotoSansCJKjp-Regular" path="archive/unhinted/NotoSansCJK">
+		<font weight="400" style="normal" index="3" postScriptName="NotoSansCJKtc-Regular" path="archive/unhinted/NotoSansCJK">
             NotoSansCJK-Regular.ttc
         </font>
-		<font weight="400" style="normal" index="3" fallbackFor="serif" postScriptName="NotoSerifCJKjp-Regular" path="archive/unhinted/NotoSerifCJK">NotoSerifCJK-Regular.ttc
+		<font weight="400" style="normal" index="3" fallbackFor="serif" postScriptName="NotoSerifCJKtc-Regular" path="archive/unhinted/NotoSerifCJK">NotoSerifCJK-Regular.ttc
         </font>
 	</family>
 	<family lang="ja">
@@ -1416,10 +1416,10 @@
         </font>
 	</family>
 	<family lang="ko">
-		<font weight="400" style="normal" index="1" postScriptName="NotoSansCJKjp-Regular" path="archive/unhinted/NotoSansCJK">
+		<font weight="400" style="normal" index="1" postScriptName="NotoSansCJKkr-Regular" path="archive/unhinted/NotoSansCJK">
             NotoSansCJK-Regular.ttc
         </font>
-		<font weight="400" style="normal" index="1" fallbackFor="serif" postScriptName="NotoSerifCJKjp-Regular" path="archive/unhinted/NotoSerifCJK">NotoSerifCJK-Regular.ttc
+		<font weight="400" style="normal" index="1" fallbackFor="serif" postScriptName="NotoSerifCJKkr-Regular" path="archive/unhinted/NotoSerifCJK">NotoSerifCJK-Regular.ttc
         </font>
 	</family>
 	<family lang="und-Zsye">
@@ -1480,7 +1480,7 @@
       </font>
 	</family>
 	<family lang="und-Bhks">
-		<font weight="400" style="normal" postScriptName="NotoSansBhaiksuki" path="unhinted/ttf/NotoSansBhaiksuki">
+		<font weight="400" style="normal" path="unhinted/ttf/NotoSansBhaiksuki">
 	          NotoSansBhaiksuki-Regular.ttf
 	      </font>
 	</family>
@@ -1850,19 +1850,19 @@
         </font>
 	</family>
 	<family lang="und-Tnsa">
-		<font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSansTangsa-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="400" style="normal" postScriptName="NotoSansTangsa-Regular" path="unhinted/slim-variable-ttf">
 	          NotoSansTangsa-VF.ttf
 	          <axis tag="wght" stylevalue="400"/>
 	      </font>
-		<font weight="500" style="normal" fallbackFor="serif" postScriptName="NotoSansTangsa-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="500" style="normal" postScriptName="NotoSansTangsa-Regular" path="unhinted/slim-variable-ttf">
 	          NotoSansTangsa-VF.ttf
 	          <axis tag="wght" stylevalue="500"/>
 	      </font>
-		<font weight="600" style="normal" fallbackFor="serif" postScriptName="NotoSansTangsa-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="600" style="normal" postScriptName="NotoSansTangsa-Regular" path="unhinted/slim-variable-ttf">
 	          NotoSansTangsa-VF.ttf
 	          <axis tag="wght" stylevalue="600"/>
 	      </font>
-		<font weight="700" style="normal" fallbackFor="serif" postScriptName="NotoSansTangsa-Regular" path="unhinted/slim-variable-ttf">
+		<font weight="700" style="normal" postScriptName="NotoSansTangsa-Regular" path="unhinted/slim-variable-ttf">
 	          NotoSansTangsa-VF.ttf
 	          <axis tag="wght" stylevalue="700"/>
 	      </font>
