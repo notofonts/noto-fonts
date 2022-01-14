@@ -174,14 +174,14 @@ def test_font_psnames():
     psname = _psname(font_el)
     font_to_xml_psnames[(path, font_el.attrib.get("index", -1))].add(str(psname))
 
-  for (font_path, font_number), xml_psname in font_to_xml_psnames.items():
+  for (font_path, font_number), xml_psnames in font_to_xml_psnames.items():
     font = _open_font_path(font_path, font_number)
-    postscript_names = get_name_entry_strings(font, _POSTSCRIPT_NAME)
+    postscript_names = set(get_name_entry_strings(font, _POSTSCRIPT_NAME))
     if len(postscript_names) != 1:
       errors.append(f"font file {font_path} should have a single postScriptName and not {postscript_names}")
       continue
-    for el in xml_psname:
-      if not (el in postscript_names):
-        errors.append(f"postScriptName=\"{postscript_names[0]}\" in font file {font_path} doesn't match the entry in XML: {el}")
+    for xml_psname in xml_psnames:
+      if not (xml_psname in postscript_names):
+        errors.append(f"postScriptName=\"{postscript_names[0]}\" in font file {font_path} doesn't match the entry in XML: {xml_psname}")
 
   assert not errors, ", ".join(errors)
