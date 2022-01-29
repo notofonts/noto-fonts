@@ -22,6 +22,12 @@ If you want to download this git repo to obtain copies of the latest fonts, use 
 ## Recent updates
 
 
+#### 2022.01.28
+A big update for *NotoNastaliqUrdu*: thanks to work by [Simon Cozens](https://github.com/simoncozens) we now have a variable font for Nastaliq.
+
+#### 2022.01.28
+Added a new scripts *NotoSerifDivesAkuru* and *NotoSerifMakasar* to the Noto collection.
+
 #### 2021.12.16
 Published an update to NotoSerifDogra adding Medium, SemiBold and Bold instances + a variable font.
 
