@@ -21,6 +21,8 @@ If you want to download this git repo to obtain copies of the latest fonts, use 
 
 ## Recent updates
 
+#### 2022.02.07
+A end issues for *NotoSerifDivesAkuru* and *NotoSerifMakasar*: thanks to work by [David Corbett](https://github.com/dscorbett) we fixed all issues.
 
 #### 2022.01.28
 A big update for *NotoNastaliqUrdu*: thanks to work by [Simon Cozens](https://github.com/simoncozens) we now have a variable font for Nastaliq.
