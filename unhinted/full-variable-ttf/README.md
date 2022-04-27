@@ -1,0 +1,3 @@
+This directory contains "full" variable font builds. Full builds include glyphs from the [Google Fonts Latin Core subset](https://github.com/googlefonts/glyphsets/blob/main/Lib/glyphsets/encodings/GF%20Glyph%20Sets/GF-latin-core_unique-glyphs.nam) of either Noto Sans or Noto Serif as appropriate.
+
+Please do not expect this directory to be populated with many fonts. The files provided here are only a stop-gap, and are produced manually on an as-needed basis in response to issues with the Google Fonts library. We are working on a new production toolchain which automatically generates "full" builds of every Noto project font.
