@@ -2,6 +2,14 @@
 
 ![Noto](images/noto.png)
 
+# IMPORTANT
+
+*This repository is in the process of being migrated.*
+
+*New versions of Noto fonts will soon be available at* https://notofonts.github.io
+
+*To report a bug in a Noto font, please visit* https://notofonts.github.io/reporter.html
+
 # Noto Fonts
 
 Noto’s goal is to provide a beautiful reading experience for all languages. It is a free, professionally-designed, open-source collection of fonts with a harmonious look and feel in multiple weights and styles. All Noto fonts are published under the [SIL Open Font License (OFL) v1.1](http://scripts.sil.org/OFL), which allows you to copy, modify, and redistribute them if you need to.
