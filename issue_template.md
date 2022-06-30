@@ -1,10 +1,20 @@
-## Defect Report
-> Noto fonts can be obtained from https://github.com/googlefonts/noto-fonts/tree/master/unhinted/otf/ (unhinted OTF) or https://github.com/googlefonts/noto-fonts/tree/master/hinted/ttf/ (hinted TTF). If you find a problem with either of these then please use this template to file a defect report. For feature requests and other matters, you can use part of the template and delete what you don't need.
 
-### Title 
+## Defect Report
+
+### Please don't use this repository for new script-specific issue reports
+
+We are in the progress of deprecating this repository. Each Noto
+script now has its own repository; please file issues there instead.
+The issue reporter page at https://notofonts.github.io/reporter.html
+will direct you to the appropriate repository.
+
+If your issue is about the Noto project in general or the distribution
+of Noto fonts, please continue to fill in the report below.
+
+### Title
   > Should be brief but contain essential information.
 
-### Font 
+### Font
   > Full file name, for example 'NotoSansArmenian-Regular.ttf'.
   > You can upload the problem font here unless it is a Chinese, Japanese or Korean font (these are large).
 
